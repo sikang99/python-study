@@ -15,3 +15,13 @@ Python Programming
 
 
 
+### Tips and Techniques
+
+```
+pip3 install -r requirements.txt
+```
+
+
+
+
+
