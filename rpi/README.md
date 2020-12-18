@@ -23,7 +23,7 @@
 
 
 ### Open Source
-- [linuxtv.org/libcamera](https://git.linuxtv.org/libcamera.git/)
+- [linuxtv.org/libcamera](https://git.linuxtv.org/libcamera.git/) - original source
 - [bitsy-ai/tensorflow-arm-bin](https://github.com/bitsy-ai/tensorflow-arm-bin) - Community-built TensorFlow wheels for Raspberry Pi
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - libcamera - Making complex cameras easy. This is a personal fork, please use the upstream repository at git://linuxtv.org/libcamera.git
 - [jvcleave/ofxOMXPlayer](https://github.com/jvcleave/ofxOMXPlayer)
