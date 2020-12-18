@@ -2,6 +2,7 @@
 
 
 ## Information
+- [libcamera.org/](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
 - [libcamera installation for Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/libcamera/README.md)
 - [Raspberry Pi Camera Algorithm and Tuning Guide](https://www.raspberrypi.org/documentation/linux/software/libcamera/rpi_SOFT_libcamera_1p0.pdf)
 
@@ -13,5 +14,5 @@
 
 
 ### Open Source
-
+- [bitsy-ai/tensorflow-arm-bin](https://github.com/bitsy-ai/tensorflow-arm-bin) - Community-built TensorFlow wheels for Raspberry Pi
 
