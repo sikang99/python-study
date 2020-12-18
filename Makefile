@@ -25,7 +25,7 @@ run r:
 
 #----------------------------------------------------------------------------------
 venv v:
-	@echo "> make (venv) [create|activate|deactivate]"
+	@echo "> make (venv) [create|activate|deactivate|require|list]"
 
 venv-create vc:
 	python3 -m venv .venv
@@ -37,10 +37,11 @@ venv-deactivate vd:
 	@echo "deactivate"
 
 venv-require vr:
-	@pip freeze > requirements.txt
+	@pip freeze > requirements.txt  
 	@cat requirements.txt
 
 venv-list vl:
+	@python3 -m pip install --upgrade pip
 	@pip list
 
 #----------------------------------------------------------------------------------
