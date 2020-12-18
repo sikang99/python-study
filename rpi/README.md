@@ -1,11 +1,14 @@
 ## AI on Raspberry Pi
 
+> Sensors: ov5647, imx219, imx477, adv7282m
+
 
 ## Information
 - [libcamera.org/](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
 - [libcamera installation for Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/libcamera/README.md)
 - [Raspberry Pi Camera Algorithm and Tuning Guide](https://www.raspberrypi.org/documentation/linux/software/libcamera/rpi_SOFT_libcamera_1p0.pdf)
 - Picamera: [release-1.13](https://picamera.readthedocs.io/en/release-010.13/index.html)
+- [Raspberry Pi / Libcamera / OS Buster / IMX477 HiQ Camera](https://forum.openframeworks.cc/t/raspberry-pi-libcamera-os-buster-imx477-hiq-camera/35803)
 
 
 ## Articles
@@ -14,7 +17,16 @@
 - 2020/05/04 [An open source camera stack for Raspberry Pi using libcamera](https://www.raspberrypi.org/blog/an-open-source-camera-stack-for-raspberry-pi-using-libcamera/)
 
 
+### Slides
+- 2020/08/24 [Update on libcamera in AOSP](https://linuxplumbersconf.org/event/7/contributions/786/attachments/530/943/20200824-lpc-update-on-libcamera-in-aosp.pdf)
+
+
 
 ### Open Source
+- [linuxtv.org/libcamera](https://git.linuxtv.org/libcamera.git/)
 - [bitsy-ai/tensorflow-arm-bin](https://github.com/bitsy-ai/tensorflow-arm-bin) - Community-built TensorFlow wheels for Raspberry Pi
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - libcamera - Making complex cameras easy. This is a personal fork, please use the upstream repository at git://linuxtv.org/libcamera.git
+- [jvcleave/ofxOMXPlayer](https://github.com/jvcleave/ofxOMXPlayer)
+- [jvcleave/ofxOMXCamera](https://github.com/jvcleave/ofxOMXCamera)
+
+
