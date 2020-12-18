@@ -5,6 +5,7 @@
 - [libcamera.org/](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
 - [libcamera installation for Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/libcamera/README.md)
 - [Raspberry Pi Camera Algorithm and Tuning Guide](https://www.raspberrypi.org/documentation/linux/software/libcamera/rpi_SOFT_libcamera_1p0.pdf)
+- Picamera: [release-1.13](https://picamera.readthedocs.io/en/release-010.13/index.html)
 
 
 ## Articles
