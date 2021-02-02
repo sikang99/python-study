@@ -9,8 +9,14 @@
 - 2020/02/07 [Get to know the Jetson Nano in this face detection project using the Raspberry Pi camera and OpenCV!](https://maker.pro/nvidia-jetson/tutorial/real-time-face-detection-on-jetson-nano-using-opencv)
 
 
+### Information
+- [Jetson Nano](https://elinux.org/Jetson_Nano)
+
+
+
 ### Open Source
-- []
+- [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - jtop
+- [ithub.com/rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
 
 
 
