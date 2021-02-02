@@ -1,16 +1,17 @@
 ## NVIDIA Jetson Boards
 
 
-
-
-
 ### Articles
 - 2020/03/17 [MixPose: AI on the Edge streaming platform for yoga instructors and fitness coaches.](https://www.hackster.io/mixpose/mixpose-722df5#toc-step-4--setup-webrtc-6)
 - 2020/02/07 [Get to know the Jetson Nano in this face detection project using the Raspberry Pi camera and OpenCV!](https://maker.pro/nvidia-jetson/tutorial/real-time-face-detection-on-jetson-nano-using-opencv)
+- 2020/01/17 [NVIDIA Jetson Nano Developer Kit-B01 Gets an Extra Camera Connector](https://www.cnx-software.com/2020/01/17/nvidia-jetson-nano-developer-kit-b01-gets-an-extra-camera-connector/)
 
 
 ### Information
 - [Jetson Nano](https://elinux.org/Jetson_Nano)
+- [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi)
+    - [VPI](https://docs.nvidia.com/vpi/index.html) - VPI - Vision Programming Interface Documentation
+    - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
 
 
 
@@ -18,7 +19,7 @@
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - jtop
 - [rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
 - [bobboteck/jetbot_ros_webconsole](https://github.com/bobboteck/jetbot_ros_webconsole) - Jetbot ROS Web Console
-
+- [AastaNV/00-video_stabilization](https://github.com/AastaNV/00-video_stabilization)
 
 
 
