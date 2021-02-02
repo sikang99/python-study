@@ -16,7 +16,8 @@
 
 ### Open Source
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - jtop
-- [ithub.com/rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
+- [rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
+- [bobboteck/jetbot_ros_webconsole](https://github.com/bobboteck/jetbot_ros_webconsole) - Jetbot ROS Web Console
 
 
 
