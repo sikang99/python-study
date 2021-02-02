@@ -7,6 +7,7 @@
 - 2020/01/17 [NVIDIA Jetson Nano Developer Kit-B01 Gets an Extra Camera Connector](https://www.cnx-software.com/2020/01/17/nvidia-jetson-nano-developer-kit-b01-gets-an-extra-camera-connector/)
 
 
+
 ### Information
 - [Jetson Nano](https://elinux.org/Jetson_Nano)
 - [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi)
