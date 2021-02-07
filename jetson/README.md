@@ -10,6 +10,7 @@
 
 ### Information
 - [Jetson Nano](https://elinux.org/Jetson_Nano)
+- [Jetson Download Center](https://developer.nvidia.com/embedded/downloads)
 - [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi)
     - [VPI](https://docs.nvidia.com/vpi/index.html) - VPI - Vision Programming Interface Documentation
     - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
@@ -17,10 +18,15 @@
 
 
 ### Open Source
+- [elloza/awesome-jetson-nano](https://github.com/elloza/awesome-jetson-nano)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - jtop
 - [rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
 - [bobboteck/jetbot_ros_webconsole](https://github.com/bobboteck/jetbot_ros_webconsole) - Jetbot ROS Web Console
 - [AastaNV/00-video_stabilization](https://github.com/AastaNV/00-video_stabilization)
+- [JetsonHacksNano/CSI-Camera](https://github.com/JetsonHacksNano/CSI-Camera)
+- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
+- [jetsonhacks/installROS](https://github.com/jetsonhacks/installROS)
+- [JetsonHacksNano/buildOpenCV](https://github.com/JetsonHacksNano/buildOpenCV)
 
 
 
