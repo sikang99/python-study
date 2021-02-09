@@ -10,8 +10,9 @@
 - [DDS Foundation](https://www.dds-foundation.org/)
 - [OpenDDS](https://opendds.org/)
 - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
-- [Awesome ROS2](https://fkromer.github.io/awesome-ros2/)
 - [Go/dds](https://libs.garden/go/search?q=dds)
+- [RTPS/ROS2 Interface: PX4-FastRTPS Bridge](https://docs.px4.io/master/en/middleware/micrortps.html)
+
 
 
 ### Open Source
