@@ -11,3 +11,9 @@
 
 
 ### Open Source
+- [ros2/ros1_bridge](https://github.com/ros2/ros1_bridge)
+
+
+
+### Papers
+- 2019 [A ROS2 based communication architecture for control in collaborative and intelligent automation systems](https://arxiv.org/pdf/1905.09654.pdf)
