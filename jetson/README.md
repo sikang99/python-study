@@ -40,7 +40,7 @@ not use v4l2src
 v4l2-ctl -d /dev/video0 --set-fmt-video=width=1920,height=1080,pixelformat=RG10 --set-ctrl bypass_mode=0 --stream-mmap --stream-count=50
 ```
 
-docker login nvcr.io
-Username: $oauthtoken
-Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj
+```
+sudo apt install guvcview
+```
 
