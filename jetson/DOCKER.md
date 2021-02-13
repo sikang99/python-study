@@ -2,12 +2,15 @@
 
 
 ### Articles
-- [Containers For Deep Learning Frameworks User Guide](https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html)
-- [Container Toolkit User Guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html)
+- 2020/01/24 [How to get your CUDA application running in a Docker container](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/) 
+
+
 
 ### Information
 - [NVIDIA NGC](ihttps://ngc.nvidia.com/catalog)
     - [Containers](https://ngc.nvidia.com/catalog/containers)
+- [Containers For Deep Learning Frameworks User Guide](https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html)
+- [Container Toolkit User Guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html)
 
 
 ### Open Source
