@@ -1,0 +1,72 @@
+##--- by stoney ------------------------------------------------------------------
+alias bashrc="vi ~/.bashrc; source ~/.bashrc"
+alias bashrcx="source ~/.bashrc"
+alias update="sudo apt update -y; sudo apt upgrade -y"
+
+alias ndocker="nvidia-docker"
+
+alias lr="tree | less"
+
+alias ed="vi Dockerfile"
+alias em="vi Makefile"
+alias er="vi README.md"
+
+
+function jdocker() {
+	case $1 in
+	login)
+		docker login nvcr.io
+		;;
+	julia)
+		docker run -it --rm --name julia nvcr.io/hpc/julia:2.4.0
+		;;
+	l4t)
+		docker run -it --rm --net=host --runtime nvidia  -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix nvcr.io/nvidia/l4t-base:r32.5.0
+		;;
+	nvidia)
+		docker pull nvcr.io/nvidia/cuda:11.2.1-devel-ubi8
+		docker pull nvcr.io/nvidia/l4t-base:r32.5.0
+		docker pull nvcr.io/nvidia/l4t-ml:r32.5.0-py3
+		docker pull nvcr.io/nvidia/tensorflow:20.12-tf1-py3
+		docker pull nvcr.io/nvidia/pytorch:20.12-py3
+		docker pull nvcr.io/nvidia/tensorrt:20.12-py3
+		docker pull nvcr.io/nvidia/mxnet:20.12-py3
+		docker pull nvcr.io/nvidia/nemo:1.0.0b3
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/hpc/julia:2.4.0
+		;;
+	foxy)
+		docker pull arm64v8/ros:foxy-ros-base
+		docker pull arm64v8/ros:foxy-ros-core
+		docker pull arm64v8/ros:foxy-ros1-bridge
+		docker pull arm64v8/ros:foxy-ros1-bridge-focal
+		docker pull youtalk/ros:foxy-ros-base-l4t-r32.4.4
+		;;
+	foxy-run)
+		docker run -it --rm --net=host --name foxy youtalk/ros:foxy-ros-base-l4t-r32.4.4
+		;;
+	ubuntu)
+		docker pull ubuntu:18.04
+		docker pull ubuntu:20.04 # 20.04.1 LTS focal
+		docker pull ubuntu:20.10
+		docker pull ubuntu:21.04  # Hirsute Hippo
+		;;
+	ubuntu-run)
+		docker run -it --rm --net=host --name ubntu ubuntu:20.04
+		;;
+	ps|images)
+		docker $1 $2 $3 $4
+		;;
+	clean)
+		docker system prune -f
+		;;
+	*)
+		echo "usage: jdocker [login|nvidia|l4t|foxy|ubuntu|<command>]"
+		;;
+	esac
+}
+
+function usage() {
+	jdocker
+}
+
