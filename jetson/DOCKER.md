@@ -11,6 +11,7 @@
 
 
 ### Open Source
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers)
 - [osrf/docker_images](https://github.com/osrf/docker_images)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker)
