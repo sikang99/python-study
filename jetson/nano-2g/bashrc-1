@@ -1,0 +1,192 @@
+## ---------- by stoney
+alias bashrc="vi ~/.bashrc; source ~/.bashrc"
+alias bashrcx="source ~/.bashrc"
+alias update="sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y"
+
+
+alias ed="vi Dockerfile"
+alias em="vi Makefile"
+alias er="vi README.md"
+alias ey="vi docker-compose.yml"
+alias ei="vi .gitignore"
+
+alias lr="ls -alR | less"
+
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/games:/usr/local/games
+
+if [[ -x $HOME/coding/go/root/go ]]; then
+	export GOROOT=$HOME/coding/go/root/go
+	export GOPATH=$HOME/coding/go
+	export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+	echo "Golang setting: `go version`"
+fi
+
+if [[ -x $HOME/coding/jl/root/julia ]]; then
+	export JULIA_HOME=$HOME/coding/jl/root/julia
+	export PATH=$PATH:$JULIA_HOME/bin
+	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$JULIA_HOME/lib
+	echo "Julia setting: `julia --version`"
+fi
+
+if [[ -x $HOME/.pyenv/ ]]; then
+	export PATH=$PATH:"$HOME/.pyenv/bin"
+	eval "$(pyenv init -)"
+	eval "$(pyenv virtualenv-init -)"
+	echo "pyenv setting: `pyenv --version`"
+fi
+
+if [[ -x $HOME/.local ]]; then
+	export PATH=$PATH:$HOME/.local/bin
+fi
+
+if [[ -x /usr/local/nodejs ]]; then
+	export PATH=$PATH:/usr/local/nodejs/bin
+	echo "nodjs setting: `node --version`"
+fi
+
+## https://github.com/JetsonHacksNano/installROS
+if [[ -x /opt/ros/melodic ]]; then
+	source /opt/ros/melodic/setup.bash
+	echo "ROS setting: melodic"
+fi
+
+
+## -- user-defined functions
+function jetson() {
+	case $1 in 
+	install)
+		sudo apt install -y tree make cmake curl wget htop git tig neofetch hardinfo nmap
+		sudo apt install -y apt-utils xz-utils build-essential
+		sudo apt install -y libreadline-dev libbz2-dev libffi-dev libssl1.0-dev
+		sudo apt install -y python3-numpy python3-scipy python3-matplotlib
+		sudo apt install -y python-numpy python-scipy python-matplotlib
+		;;
+	nano)
+		sudo apt install -y deepstream-5.0
+		;;
+	ros)
+		sudo apt install -y ros-melodic-desktop ros-melodic-image-transport ros-melodic-vision-msgs
+		sudo apt install -y python-rosdep python-rosinstall python-rosinstall-generator python-wstool
+		sudo rosdep init
+		rosdep update
+		;;
+	jupyter)
+		pip install jupyterlab Cython ipywidgets ipywebrtc ipyleaflet bqplot
+		jupyter labextension install @jupyter-widgets/jupyterlab-manager
+		jupyter nbextension enable --py widgetsnbextension
+		jupyter labextension install jupyter-webrtc
+		jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-leaflet
+		jupyter labextension install bqplot
+		;;
+	usermod)
+		sudo usermod -aG docker $USER
+		sudo usermod -aG video $USER
+		sudo usermod -aG dialout $USER
+		sudo usermod -aG gpio $USER
+		;;
+	camera)
+		gst-launch-1.0 nvarguscamerasrc ! nvoverlaysink
+		;;
+	csi-camera)
+		gst-launch-1.0 nvarguscamerasrc sensor_mode=0 ! \
+			'video/x-raw(memory:NVMM),width=1280, height=720, framerate=21/1, format=NV12' ! \
+			nvvidconv flip-method=0 ! 'video/x-raw,width=960, height=616' ! \
+			nvvidconv ! nvegltransform ! nveglglessink -e
+		;;
+	illegal-error)
+		pip3 uninstall numpy
+		pip3 install -U numpy --no-cache-dir --no-binary numpy
+		;;
+	record)
+		pip freeze > requirements.txt 
+		more requirements.txt
+		;;
+
+	*)
+		echo "usage: jetson [usermod|camera|record]"
+	esac
+}
+
+function goto() {
+	case $1 in 
+	cc|go|jl|js|py)
+		cd ~/coding/$1/src ;;
+	*)
+		echo "usage: goto [cc|go|js|py]" ;;
+	esac
+}
+
+function gofind() {
+	if [ $# -eq 0 ]; then
+		echo "usage: gofind [<string>] [<path>]"
+		return
+	fi	
+	if [ $# -gt 1 ]; then
+		find $2 -name "*$1*" -print
+	else 
+		find . -name "*$1*" -print
+	fi	
+}
+
+## https://golang.org/dl/
+function gover() {
+	pushd . > /dev/null
+	cd $HOME/coding/go/root
+	case $1 in 
+	1.14)
+		unlink go
+		ln -s go1.14.15 go
+		;;
+	1.15)
+		unlink go
+		ln -s go1.15.8 go
+		;;
+	1.16)
+		unlink go
+		ln -s go1.16rc1 go
+		;;
+	list)
+		ls -alF
+		;;
+	*)
+		echo "usage: gover [1.14|1.15|1.16|list]" ;;
+	esac
+	popd > /dev/null 
+	go version
+}
+
+## https://github.com/pyenv/pyenv
+function pyver() {
+	case $1 in 
+	2.7)
+		pyenv shell 2.7.17 ;;	# 2.7.18
+	3.6)
+		pyenv shell 3.6.9 ;;	# 3.6.12
+	3.7)
+		pyenv shell 3.7.9 ;;
+	3.8)
+		pyenv shell 3.8.7 ;;
+	3.9)
+		pyenv shell 3.9.1 ;;
+	list)
+		pyenv versions ;;
+	base)
+		sudo apt install libreadline-dev libbz2-dev libffi-dev ;;
+	*)
+		echo "usage: pyver [2.7|3.6|3.7|3.8|3.9|list]" ;;
+	esac
+	python -V
+}
+
+function usage() {
+	jetson
+	goto
+	gofind
+	gover
+	pyver
+}
+
+
+## --- final setting
+pyver 3.6
+
