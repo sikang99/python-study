@@ -27,7 +27,8 @@
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
 - [jetsonhacks/installROS](https://github.com/jetsonhacks/installROS)
 - [JetsonHacksNano/buildOpenCV](https://github.com/JetsonHacksNano/buildOpenCV)
-- [https://github.com/theerawatramchuen/Jetson-Nano-Installation](https://github.com/theerawatramchuen/Jetson-Nano-Installation) 
+- [theerawatramchuen/Jetson-Nano-Installation](https://github.com/theerawatramchuen/Jetson-Nano-Installation) 
+- [**gsurma/jetson**](https://github.com/gsurma/jetson) - Self-driving AI toy car
 
 
 ### Tips
