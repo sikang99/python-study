@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/05/10 [Raspberry Pi Foundation Announces Libcamera-Based Open Source Camera Stack](https://www.hackster.io/news/raspberry-pi-foundation-announces-libcamera-based-open-source-camera-stack-eb41f911c9f7)
 - 2019/08/27 [Jetson Nano - Developing a Pi v1.3 camera driver Part 2](https://jas-hacks.blogspot.com/2019/08/jetson-nano-developing-pi-v13-camera.html)
 - 2019/06/23 [Jetson Nano – Developing a Pi v1.3 camera driver Part 1](https://jas-hacks.blogspot.com/2019/06/jetson-nano-developing-pi-v13-camera.html)
 
