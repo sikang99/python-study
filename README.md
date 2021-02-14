@@ -8,6 +8,8 @@ Python Programming
 
 
 ### Information
+- [Python](https://www.python.org)
+- [PyPy](https://www.pypy.org/)
 
 
 ### Open Source
