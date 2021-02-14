@@ -39,9 +39,9 @@
 
 ### Tips
 ```
-gst-launch-1.0 nvarguscamerasrc gainrange="16 16" !\
-    'video/x-raw(memory:NVMM),width=1280, height=720, framerate=60/1' !\
-    nvvidconv flip-method=0 ! 'video/x-raw,width=1280, height=720' !\
+gst-launch-1.0 nvarguscamerasrc gainrange="16 16" ! \
+    'video/x-raw(memory:NVMM),width=1280, height=720, framerate=60/1' ! \
+    nvvidconv flip-method=0 ! 'video/x-raw,width=1280, height=720' ! \
     nvvidconv ! nvegltransform ! nveglglessink -e
 ```
 
