@@ -11,6 +11,11 @@
 - [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
 - [NVIDIA Jetson Linux Developer Guide](https://docs.nvidia.com/jetson/l4t/index.html))
     - [Camera Development](https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/camera_dev.html#)
+- [Allied Vision](https://www.alliedvision.com/en/digital-industrial-camera-solutions.html)
+- [ArduCam](https://www.arducam.com)
+    - [Jetson Cameras](https://www.arducam.com/docs/camera-for-jetson-nano/)
+- [e-con Systems](https://www.e-consystems.com)
+    - [Jetson Cameras](https://www.e-consystems.com/nvidia-jetson-camera.asp)
 
 
 
