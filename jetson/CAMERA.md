@@ -9,6 +9,8 @@
 ### Information
 - [NVIDIA Jetson Linux Developer Guide](https://docs.nvidia.com/jetson/l4t/index.html))
     - [Camera Development](https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/camera_dev.html#)
+- [RidgeRun](https://developer.ridgerun.com/wiki/index.php)
+    - [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
 - [Allied Vision](https://www.alliedvision.com/en/digital-industrial-camera-solutions.html)
 - [ArduCam](https://www.arducam.com)
     - [Jetson Cameras](https://www.arducam.com/docs/camera-for-jetson-nano/)
@@ -18,8 +20,9 @@
     - [Carrier board for NVIDIA Jetson and cameras](https://www.ximea.com/en/products/xilab-application-specific-custom-oem/embedded-vision-and-multi-camera-setup-xix/carrier-board-for-nvidia-jetson-and-cameras)
 - [Fastvideo](https://www.fastcompression.com/) - GPU Image Processing
     - [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
-- [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
-- [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
+- [veye Imaging](http://veye.cc/en)
+    - [Nvidia Jetson Camera](http://www.veye.cc/en/product/nivdia-jetson-camera/)
+    - [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
 
 
 ### Open Source
