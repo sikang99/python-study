@@ -44,10 +44,11 @@ gst-launch-1.0 nvarguscamerasrc gainrange="16 16" ! \
     nvvidconv flip-method=0 ! 'video/x-raw,width=1280, height=720' ! \
     nvvidconv ! nvegltransform ! nveglglessink -e
 ```
+
 ```
 gst-launch-1.0 nvarguscamerasrc ! \
     'video/x-raw(memory:NVMM),width=1280, height=720, framerate=30/1, format=NV12' ! \
-    nvvidconv flip-method=0 ! nvvidconv !nvegltransform ! nveglglessink -e
+    nvvidconv flip-method=0 ! nvvidconv ! nvegltransform ! nveglglessink -e
 ```
 
 
