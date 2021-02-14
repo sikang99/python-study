@@ -16,7 +16,7 @@
     - [VPI](https://docs.nvidia.com/vpi/index.html) - VPI - Vision Programming Interface Documentation
     - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
 - desertbot.io: [Jetson](https://desertbot.io/jetson/)
-
+- [OpenDataCam](https://opendata.cam/)
 
 ### Open Source
 - [elloza/awesome-jetson-nano](https://github.com/elloza/awesome-jetson-nano)
@@ -31,6 +31,8 @@
 - [theerawatramchuen/Jetson-Nano-Installation](https://github.com/theerawatramchuen/Jetson-Nano-Installation) 
 - [**gsurma/jetson**](https://github.com/gsurma/jetson) - Self-driving AI toy car
 - [Tony607/tf_jetson_nano](https://github.com/Tony607/tf_jetson_nano)
+- [jocover/jetson-ffmpeg](https://github.com/jocover/jetson-ffmpeg) - ffmpeg support on jetson nano
+- [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
 
 
 ### Tips
