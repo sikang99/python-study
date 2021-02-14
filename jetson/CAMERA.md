@@ -20,14 +20,16 @@
     - [Carrier board for NVIDIA Jetson and cameras](https://www.ximea.com/en/products/xilab-application-specific-custom-oem/embedded-vision-and-multi-camera-setup-xix/carrier-board-for-nvidia-jetson-and-cameras)
 - [Fastvideo](https://www.fastcompression.com/) - GPU Image Processing
     - [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
-- [veye Imaging](http://veye.cc/en)
+- [VEYE Imaging](http://veye.cc/en)
     - [Nvidia Jetson Camera](http://www.veye.cc/en/product/nivdia-jetson-camera/)
     - [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
+- [libcamera](https://libcamera.org/)
 
 
 ### Open Source
 - [alliedvision/linux_nvidia_jetson](https://github.com/alliedvision/linux_nvidia_jetson) - Allied Vision CSI-2 camera driver for NVIDIA Jetson Nano, TX2, and Xavier
 - [fastvideo/gpu-camera-sample](https://github.com/fastvideo/gpu-camera-sample)
+- [kbingham/libcamera](https://github.com/kbingham/libcamera)
 
 
 ### Tips
