@@ -9,6 +9,10 @@
 - 2019/07/25 [Access to complex video devices with libcamera](https://lwn.net/Articles/794555/)
 
 
+### Articles (Korean)
+- [opencv를 사용하여 Jetson 내장 Camera 영상 받아오기](https://kyubot.tistory.com/95)
+
+
 ### Information
 - [NVIDIA Jetson Linux Developer Guide](https://docs.nvidia.com/jetson/l4t/index.html))
     - [Camera Development](https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/camera_dev.html#)
