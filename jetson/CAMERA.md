@@ -5,6 +5,7 @@
 - 2020/05/10 [Raspberry Pi Foundation Announces Libcamera-Based Open Source Camera Stack](https://www.hackster.io/news/raspberry-pi-foundation-announces-libcamera-based-open-source-camera-stack-eb41f911c9f7)
 - 2019/08/27 [Jetson Nano - Developing a Pi v1.3 camera driver Part 2](https://jas-hacks.blogspot.com/2019/08/jetson-nano-developing-pi-v13-camera.html)
 - 2019/06/23 [Jetson Nano – Developing a Pi v1.3 camera driver Part 1](https://jas-hacks.blogspot.com/2019/06/jetson-nano-developing-pi-v13-camera.html)
+- 2019/07/25 [Access to complex video devices with libcamera](https://lwn.net/Articles/794555/)
 
 
 ### Information
@@ -21,9 +22,10 @@
     - [Carrier board for NVIDIA Jetson and cameras](https://www.ximea.com/en/products/xilab-application-specific-custom-oem/embedded-vision-and-multi-camera-setup-xix/carrier-board-for-nvidia-jetson-and-cameras)
 - [Fastvideo](https://www.fastcompression.com/) - GPU Image Processing
     - [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
-- [VEYE Imaging](http://veye.cc/en)
+- [VEYE Imaging](http://veye.cc/en) : China
     - [Nvidia Jetson Camera](http://www.veye.cc/en/product/nivdia-jetson-camera/)
     - [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
+- [Soho Enterprise](https://soho-enterprise.com/) : Japan
 - [libcamera](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
     - [libcamera and libcamera-apps installation for Raspberry Pi](https://github.com/raspberrypi/documentation/tree/master/linux/software/libcamera)
 
