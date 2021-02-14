@@ -9,6 +9,10 @@
 - 2019/04/22 [How to run TensorFlow Object Detection model on Jetson Nano](https://medium.com/swlh/how-to-run-tensorflow-object-detection-model-on-jetson-nano-8f8c6d4352e8)
 
 
+### Articles (Korean)
+- [opencv를 사용하여 Jetson 내장 Camera 영상 받아오기](https://kyubot.tistory.com/95)
+
+
 
 ### Information
 - [Jetson Nano](https://elinux.org/Jetson_Nano)
