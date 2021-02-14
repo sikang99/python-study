@@ -40,13 +40,15 @@ def gstreamer_pipeline(
         )
     )
 
-camSet='nvarguscamerasrc !  video/x-raw(memory:NVMM), width=1280, height=720, format=NV12, framerate=21/1 ! nvvidconv flip-method=0 ! video/x-raw, width=640, height=480, format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink'
+camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=1280, height=720, format=NV12, framerate=21/1 ! nvvidconv flip-method=0 ! video/x-raw, width=640, height=480, format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink'
+
+NcamSet='nvarguscamerasrc ! video/x-raw(memory:NVMM),width=1280, height=720, framerate=30/1, format=NV12 ! nvvidconv flip-method=0 ! nvvidconv ! nvegltransform ! appsink'
 
 def show_camera():
     # To flip the image, modify the flip_method parameter (0 and 2 are the most common)
     print(gstreamer_pipeline(flip_method=0))
     #cap = cv2.VideoCapture(gstreamer_pipeline(flip_method=0), cv2.CAP_GSTREAMER)
-    csi_cap = cv2.VideoCapture(camSet)
+    csi_cap = cv2.VideoCapture(NcamSet)
     web_cap = cv2.VideoCapture(1)
     web_cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
     web_cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
