@@ -24,6 +24,7 @@
     - [Nvidia Jetson Camera](http://www.veye.cc/en/product/nivdia-jetson-camera/)
     - [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
 - [libcamera](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
+    - [libcamera and libcamera-apps installation for Raspberry Pi](https://github.com/raspberrypi/documentation/tree/master/linux/software/libcamera)
 
 
 ### Open Source
