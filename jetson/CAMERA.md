@@ -16,10 +16,10 @@
     - [Jetson Cameras](https://www.e-consystems.com/nvidia-jetson-camera.asp)
 - [ximea](https://www.ximea.com/)
     - [Carrier board for NVIDIA Jetson and cameras](https://www.ximea.com/en/products/xilab-application-specific-custom-oem/embedded-vision-and-multi-camera-setup-xix/carrier-board-for-nvidia-jetson-and-cameras)
-- [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
 - [Fastvideo](https://www.fastcompression.com/) - GPU Image Processing
     - [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
-
+- [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
+- [CS-MIPI-IMX307 for Jetson Nano](http://wiki.veye.cc/index.php/CS-MIPI-IMX307_for_Jetson_Nano)
 
 
 ### Open Source
