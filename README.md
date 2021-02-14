@@ -16,7 +16,7 @@ Python Programming
 
 ### Open Source
 - [kunchalavikram1427/Python_public](https://github.com/kunchalavikram1427/Python_public) 
-
+- [zainali60/Data-Analysis-practice](https://github.com/zainali60/Data-Analysis-practice) 
 
 
 ### Tips and Techniques
