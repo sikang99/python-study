@@ -19,6 +19,9 @@
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers)
 - [osrf/docker_images](https://github.com/osrf/docker_images)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker)
+- [BouweCeunen/computer-vision-jetson-nano](https://github.com/BouweCeunen/computer-vision-jetson-nano) - Object detection with SSD MobileNet v2 COCO model optimized with TensorRT on NVIDIA Jetson Nano
+
+
 
 ### Tips
 - Account
@@ -28,4 +31,8 @@
 	Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj
 	```
 
+```
+docker run --privileged -it bouwe/computer-vision-jetson-nano:latest
+docker run --privileged --entrypoint /bin/systemd -it bouwe/jetson-nano-vision:latest
+```
 
