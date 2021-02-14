@@ -40,32 +40,27 @@ def gstreamer_pipeline(
         )
     )
 
-camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=1280, height=720, format=NV12, framerate=21/1 ! nvvidconv flip-method=0 ! video/x-raw, width=640, height=480, format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink'
-
-NcamSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=1280, height=720, format=NV12, framerate=30/1 ! nvvidconv flip-method=0 ! nvegltransform ! appsink'
-
 def show_camera():
     # To flip the image, modify the flip_method parameter (0 and 2 are the most common)
     print(gstreamer_pipeline(flip_method=0))
-    #cap = cv2.VideoCapture(gstreamer_pipeline(flip_method=0), cv2.CAP_GSTREAMER)
-    csi_cap = cv2.VideoCapture(NcamSet)
-    web_cap = cv2.VideoCapture(1)
-    web_cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
-    web_cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+    csi_cap = cv2.VideoCapture(gstreamer_pipeline(flip_method=0), cv2.CAP_GSTREAMER)
+    usb_cap = cv2.VideoCapture(1)
+    usb_cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+    usb_cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
-    if csi_cap.isOpened() and web_cap.isOpened():
+    if csi_cap.isOpened() and usb_cap.isOpened():
         while True:
-            ret_valw, imgw = web_cap.read()
-            ret_val, img = csi_cap.read()
-            cv2.imshow("Web Camera", imgw)
-            cv2.imshow("CSI Camera", img)
+            ret_valc, img_csi = csi_cap.read()
+            ret_valu, img_usb = usb_cap.read()
+            cv2.imshow("CSI Camera", img_csi)
+            cv2.imshow("Web Camera", img_usb)
            # This also acts as
             keyCode = cv2.waitKey(30) & 0xFF
             # Stop the program on the ESC key
             if keyCode == 27:
                 break
         csi_cap.release()
-        web_cap.release()
+        usb_cap.release()
         cv2.destroyAllWindows()
     else:
         print("Unable to open camera")
