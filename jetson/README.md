@@ -30,6 +30,7 @@
 - [JetsonHacksNano/buildOpenCV](https://github.com/JetsonHacksNano/buildOpenCV)
 - [theerawatramchuen/Jetson-Nano-Installation](https://github.com/theerawatramchuen/Jetson-Nano-Installation) 
 - [**gsurma/jetson**](https://github.com/gsurma/jetson) - Self-driving AI toy car
+- [Tony607/tf_jetson_nano](https://github.com/Tony607/tf_jetson_nano)
 
 
 ### Tips
