@@ -3,6 +3,7 @@
 
 ### Articles
 - 2020/03/17 [MixPose: AI on the Edge streaming platform for yoga instructors and fitness coaches.](https://www.hackster.io/mixpose/mixpose-722df5#toc-step-4--setup-webrtc-6)
+- 2020/02/21 [Camera - CSI Camera (Raspberry Pi camera V2)](https://spyjetson.blogspot.com/2020/02/camera-csi-camera-raspberry-pi-camera-v2.html)
 - 2020/02/07 [Get to know the Jetson Nano in this face detection project using the Raspberry Pi camera and OpenCV!](https://maker.pro/nvidia-jetson/tutorial/real-time-face-detection-on-jetson-nano-using-opencv)
 - 2020/01/17 [NVIDIA Jetson Nano Developer Kit-B01 Gets an Extra Camera Connector](https://www.cnx-software.com/2020/01/17/nvidia-jetson-nano-developer-kit-b01-gets-an-extra-camera-connector/)
 - 2019/04/22 [How to run TensorFlow Object Detection model on Jetson Nano](https://medium.com/swlh/how-to-run-tensorflow-object-detection-model-on-jetson-nano-8f8c6d4352e8)
@@ -33,6 +34,7 @@
 - [Tony607/tf_jetson_nano](https://github.com/Tony607/tf_jetson_nano)
 - [jocover/jetson-ffmpeg](https://github.com/jocover/jetson-ffmpeg) - ffmpeg support on jetson nano
 - [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
+- [NVIDIA/jetson-gpio](https://github.com/NVIDIA/jetson-gpio)
 
 
 ### Tips
