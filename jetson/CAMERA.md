@@ -17,12 +17,14 @@
 - [ximea](https://www.ximea.com/)
     - [Carrier board for NVIDIA Jetson and cameras](https://www.ximea.com/en/products/xilab-application-specific-custom-oem/embedded-vision-and-multi-camera-setup-xix/carrier-board-for-nvidia-jetson-and-cameras)
 - [V4L2 driver for camera sensor or capture chip](https://developer.ridgerun.com/wiki/index.php?title=V4L2_driver_for_camera_sensor_or_capture_chip)
-- [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
+- [Fastvideo](https://www.fastcompression.com/) - GPU Image Processing
+    - [Jetson image processing for camera applications](https://www.fastcompression.com/blog/jetson-image-processing.htm)
 
 
 
 ### Open Source
 - [alliedvision/linux_nvidia_jetson](https://github.com/alliedvision/linux_nvidia_jetson) - Allied Vision CSI-2 camera driver for NVIDIA Jetson Nano, TX2, and Xavier
+- [fastvideo/gpu-camera-sample](https://github.com/fastvideo/gpu-camera-sample)
 
 
 ### Tips
