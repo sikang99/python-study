@@ -14,7 +14,7 @@
 - [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi)
     - [VPI](https://docs.nvidia.com/vpi/index.html) - VPI - Vision Programming Interface Documentation
     - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
-
+- desertbot.io: [Jetson](https://desertbot.io/jetson/)
 
 
 ### Open Source
