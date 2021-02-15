@@ -2,6 +2,7 @@
 
 
 ## Articles
+- 2020/12/30 [Go Language at 13 Years: Ecosystem, Evolution, and Future in Conversation with Steve Francia](https://www.infoq.com/articles/go-language-13-years/)
 - 2020/04/29 [**Go for ROS**](https://ubuntu.com/blog/go-for-ros)
 - 2020/04/13 [Golang, Gobot, Go-Hard](https://medium.com/@miriamgrigsby/golang-gobot-go-hard-e915a840664) - Firmata protocol
 
