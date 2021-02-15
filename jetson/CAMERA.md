@@ -46,6 +46,9 @@
 sudo apt install v4l-utils
 v4l-ctl --info --list-devices
 ```
+```
+gst-launch-1.0 nvarguscamerasrc ! nvoverlaysink
+```
 
 ```
 gst-launch-1.0 nvarguscamerasrc gainrange="16 16" ! \
@@ -59,5 +62,4 @@ gst-launch-1.0 nvarguscamerasrc ! \
     'video/x-raw(memory:NVMM),width=1280, height=720, framerate=30/1, format=NV12' ! \
     nvvidconv flip-method=0 ! nvvidconv ! nvegltransform ! nveglglessink -e
 ```
-
 
