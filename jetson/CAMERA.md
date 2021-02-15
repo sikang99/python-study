@@ -33,6 +33,7 @@
 - [Soho Enterprise](https://soho-enterprise.com/) : Japan
 - [libcamera](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
     - [libcamera and libcamera-apps installation for Raspberry Pi](https://github.com/raspberrypi/documentation/tree/master/linux/software/libcamera)
+- [libuvc](https://ken.tossell.net/libuvc/doc/index.html)
 
 
 ### Open Source
