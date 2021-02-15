@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/09/02 [How to use the WiFi in Ubuntu 20.04 using realtek semiconductor 802.11n](https://dev.to/darkdebo/how-to-use-the-wifi-in-ubuntu-20-04-using-realtek-semiconductor-802-11n-53c0)
 - [Getting USB wifi adapter to work with Ubuntu 18.04](https://askubuntu.com/questions/1273361/getting-usb-wifi-adapter-to-work-with-ubuntu-18-04)
 
 
