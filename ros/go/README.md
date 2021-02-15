@@ -10,6 +10,7 @@
     - [Implementing Client Libraries](https://wiki.ros.org/Implementing%20Client%20Libraries)
 - lib.graden: [Go/ros](https://libs.garden/go/search?q=ros&sort=growing)
 - [gobot](https://gobot.io/) - Golang Powered Robotics, Next generation robotics/IoT framework with support for 35 different platforms
+- Reddit: [golang](https://www.reddit.com/r/golang/)
 
 
 ### Open Source
