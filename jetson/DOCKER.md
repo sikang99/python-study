@@ -4,6 +4,7 @@
 ### Articles
 - 2021/02/07 [LiDAR integration with ROS 2 Foxy on the Nvidia Jetson Board](https://www.hackster.io/shahizat005/lidar-integration-with-ros-2-foxy-on-the-nvidia-jetson-board-34fa62)
 - 2020/11/18 [Docker for Nvidia GPU](http://www.legendu.net/misc/blog/docker-for-nvidia-gpu/)
+- 2020/09/22 [Nvidia drivers docker](https://www.xspdf.com/resolution/54156497.html)
 - 2020/06/03 [Running Docker Containers for the NVIDIA Jetson Nano](https://dev.to/caelinsutch/running-docker-containers-for-the-nvidia-jetson-nano-5a06)
 - 2020/01/24 [How to get your CUDA application running in a Docker container](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/) 
 
@@ -15,6 +16,7 @@
 - [Container Toolkit User Guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html)
 - [Nvidia rendering on Docker](https://askubuntu.com/questions/1294995/nvidia-rendering-on-docker)
 - [How to Install ZED SDK with Docker on Linux](https://www.stereolabs.com/docs/docker/install-guide-linux/)
+- [PX4 Docker Containers](https://docs.px4.io/master/en/test_and_ci/docker.html)
 
 
 ### Open Source
@@ -23,6 +25,11 @@
 - [osrf/docker_images](https://github.com/osrf/docker_images)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker)
 - [BouweCeunen/computer-vision-jetson-nano](https://github.com/BouweCeunen/computer-vision-jetson-nano) - Object detection with SSD MobileNet v2 COCO model optimized with TensorRT on NVIDIA Jetson Nano
+
+
+### Papers
+- 2017 [ROS and Docker](https://www.researchgate.net/publication/317751755_ROS_and_Docker)
+
 
 
 ### Tips
