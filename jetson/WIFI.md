@@ -6,7 +6,7 @@
 
 
 ### Information
-
+- [Wireless USB Adapters for Linux](https://learnubuntumate.weebly.com/wireless-usb-adapters.html)
 
 
 ### Open Source
