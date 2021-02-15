@@ -1,6 +1,7 @@
 ## ROS (Robot Operating System)
 - LOAM (Lidar Odometry And Mapping)
-`
+- SLAM (Simultaneous Localization and Mapping)`
+
 
 ### Articles
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
@@ -16,7 +17,8 @@
 ### Open Source
 - [jdgalviss/jetbot-ros2](https://github.com/jdgalviss/jetbot-ros2)
 - [ros2/ros1_bridge](https://github.com/ros2/ros1_bridge)
-
+- [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization (Lidar SLAM)
+- [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
 
 
 ### Papers
