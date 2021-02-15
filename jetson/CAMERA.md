@@ -42,6 +42,7 @@
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - backup of git://linuxtv.org/libcamera.git
 - [ktossell/libuvc]( https://github.com/ktossell/libuvc)
     - [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
+    - [ricohapi/libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) 
 
 
 ### Tips
