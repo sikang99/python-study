@@ -14,5 +14,6 @@
 - [aler9/goroslib](https://github.com/aler9/goroslib) - ROS client library for the Go
 - [juaruipav/rclgo](https://github.com/juaruipav/rclgo) 
 - [sivamgr/goros](https://github.com/sivamgr/goros) - The golang equivalent of roslibjs. Communicates with ROS over a rosbridge.
-
+    - [hosokawa-ikuto/goros](https://github.com/hosokawa-ikuto/goros)
+        - [brychanrobot/goros](https://github.com/brychanrobot/goros)
 
