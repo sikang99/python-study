@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/02/07 [LiDAR integration with ROS 2 Foxy on the Nvidia Jetson Board](https://www.hackster.io/shahizat005/lidar-integration-with-ros-2-foxy-on-the-nvidia-jetson-board-34fa62)
+- 2020/11/18 [Docker for Nvidia GPU](http://www.legendu.net/misc/blog/docker-for-nvidia-gpu/)
 - 2020/01/24 [How to get your CUDA application running in a Docker container](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/) 
 
 
