@@ -35,6 +35,7 @@
 - [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
 - [NVIDIA/jetson-gpio](https://github.com/NVIDIA/jetson-gpio)
 - [NVIDIA/NvPipe](https://github.com/NVIDIA/NvPipe) - NVIDIA-accelerated zero latency video compression library for interactive remoting applications
+    - [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
 
 
 
