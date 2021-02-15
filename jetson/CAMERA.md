@@ -40,7 +40,8 @@
 - [alliedvision/linux_nvidia_jetson](https://github.com/alliedvision/linux_nvidia_jetson) - Allied Vision CSI-2 camera driver for NVIDIA Jetson Nano, TX2, and Xavier
 - [fastvideo/gpu-camera-sample](https://github.com/fastvideo/gpu-camera-sample)
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - backup of git://linuxtv.org/libcamera.git
-- [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
+- [ktossell/libuvc]( https://github.com/ktossell/libuvc)
+    - [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
 
 
 ### Tips
