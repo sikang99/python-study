@@ -3,6 +3,7 @@
 
 
 ### Information
+- [Client Libraries](http://wiki.ros.org/Client%20Libraries)
 - [Go for ROS](https://ubuntu.com/blog/go-for-ros)
 
 
