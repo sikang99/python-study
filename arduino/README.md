@@ -8,5 +8,7 @@
 
 ### Open Source
 - [tino/pyFirmata](https://github.com/tino/pyFirmata)
+- [firmata](https://github.com/firmata)
+    - [firmata/protocol](https://github.com/firmata/protocol)
 
 
