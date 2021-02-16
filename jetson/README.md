@@ -47,7 +47,7 @@ $ gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=3820, height
 
 ```
 not use v4l2src
-v4l2-ctl -d /dev/video0 --set-fmt-video=width=1920,height=1080,pixelformat=RG10 --set-ctrl bypass_mode=0 --stream-mmap --stream-count=50
+$ v4l2-ctl -d /dev/video0 --set-fmt-video=width=1920,height=1080,pixelformat=RG10 --set-ctrl bypass_mode=0 --stream-mmap --stream-count=50
 ```
 
 ```

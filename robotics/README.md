@@ -7,6 +7,7 @@
 
 ### Information
 - [Weekly Robotics](https://weeklyrobotics.com/)
+- [Robot Weekly](http://robotweekly.org/)
 
 
 ### Open Source
