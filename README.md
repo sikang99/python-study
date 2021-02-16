@@ -12,6 +12,7 @@ Python Programming
     - [Versions](https://www.python.org/doc/versions/) : 3.9.1, 3.8.7, 3.7.9, 3.6.12, ... 2.7.18
 - [PyPy](https://www.pypy.org/)
 - [Pipenv](https://pipenv.pypa.io/en/latest/): Python Dev Workflow for Humans
+- [PyCoder's Weekly](https://pycoders.com/)
 
 
 ### Open Source
