@@ -8,6 +8,7 @@
 ### Information
 - [Weekly Robotics](https://weeklyrobotics.com/)
 - [Robot Weekly](http://robotweekly.org/)
+- [Robot Business Review](https://www.roboticsbusinessreview.com/)
 
 
 ### Open Source
