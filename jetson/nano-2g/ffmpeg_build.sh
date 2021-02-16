@@ -2,7 +2,7 @@
 git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg/
 cd ffmpeg
 ./configure --disable-static --enable-shared --disable-doc
-make
+make -j4
 sudo make install
 sudo ldconfig
 
@@ -15,6 +15,6 @@ sudo apt-get install build-essential yasm cmake libtool libc6 libc6-dev unzip wg
 git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg/
 cd ffmpeg
 ./configure --enable-nonfree --enable-cuda-nvcc --enable-libnpp --extra-cflags=-I/usr/local/cuda/include --extra-ldflags=-L/usr/local/cuda/lib64
-make -j4
+make -j8
 sudo make install
 sudo ldconfig
