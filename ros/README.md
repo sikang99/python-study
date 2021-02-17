@@ -7,6 +7,7 @@
 
 
 ### Articles
+- [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
 - [Robot Operating System ROS on Jetson Platforms](https://developer.ridgerun.com/wiki/index.php?title=Robot_Operating_System_ROS_on_Jetson_Platforms)
 
