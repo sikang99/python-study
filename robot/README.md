@@ -10,6 +10,12 @@
 - [Robot Weekly](http://robotweekly.org/)
 - [Robot Business Review](https://www.roboticsbusinessreview.com/)
 - [ROSCOS](https://www.rocos.io/)
+- [Robotics & Automation](https://roboticsandautomationnews.com/)
+
+
+
+### Vendors
+- [PAL Robotics](https://pal-robotics.com/) - TIAGo
 
 
 ### Open Source
