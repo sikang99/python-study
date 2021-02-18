@@ -9,6 +9,11 @@
 - 2020/01/24 [How to get your CUDA application running in a Docker container](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/) 
 
 
+### Articles (Korean)
+- 2021/01/29 [Jetson nano AI course Headless mode 요약](https://endland.medium.com/jetson-nano-ai-course-headless-mode-%EC%9A%94%EC%95%BD-7b19548e9b2a)
+
+
+
 ### Information
 - [NVIDIA NGC](https://ngc.nvidia.com/catalog)
     - [Containers](https://ngc.nvidia.com/catalog/containers)
