@@ -14,7 +14,6 @@
 - [Robotics Tomorrow](https://www.roboticstomorrow.com/)
 
 
-
 ### Vendors
 - [PAL Robotics](https://pal-robotics.com/) - TIAGo
 
@@ -25,3 +24,12 @@
 
 ### Papers
 - 2020 [BenchBot: Evaluating Robotics Research in Photorealistic 3D Simulation and on Real Robots](https://arxiv.org/pdf/2008.00635.pdf)
+
+-------------------------------------
+## Military Robotics
+
+
+### Information
+- [MILREM Robotics](https://milremrobotics.com/)
+
+

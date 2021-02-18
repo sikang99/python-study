@@ -12,7 +12,13 @@ alias ei="vi .gitignore"
 
 alias lr="ls -alR | less"
 
-export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/local/cuda
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin
+
+if [[ -x /usr/local/cuda ]]; then
+	export PATH=$PATH:/usr/local/cuda/bin
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+	echo "CUDA setting: `cat /usr/local/cuda/version.txt`"
+fi
 
 if [[ -x $HOME/coding/go/root/go ]]; then
 	export GOROOT=$HOME/coding/go/root/go
