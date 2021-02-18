@@ -12,7 +12,7 @@ alias ei="vi .gitignore"
 
 alias lr="ls -alR | less"
 
-export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/games:/usr/local/games
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/local/cuda
 
 if [[ -x $HOME/coding/go/root/go ]]; then
 	export GOROOT=$HOME/coding/go/root/go
