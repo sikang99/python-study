@@ -16,6 +16,7 @@
 - [EntropicEffect/rtl8822bu](https://github.com/EntropicEffect/rtl8822bu) - RTL8822BU Wireless Driver for Linux
 - [Install TP-Link Archer T2U Nano on Jetson Nano](https://gist.github.com/allanbatista/708db0a17f03ccfb9b70275eebdb2f5b)
 - [Jetson Nano TP Link AC600 Drivers](https://gist.github.com/feedsbrain/8f3a20ba90edfed01b67a731aebcaabe)
+- [Fixing WiFi connectivity on Nvidia Jetson Nano?](https://www.datatobiz.com/blog/fixing-wifi-connectivity-nvidia-jetson-nano/)
 
 
 
