@@ -38,7 +38,13 @@
 - [NVIDIA/jetson-gpio](https://github.com/NVIDIA/jetson-gpio)
 - [NVIDIA/NvPipe](https://github.com/NVIDIA/NvPipe) - NVIDIA-accelerated zero latency video compression library for interactive remoting applications
     - [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
-
+- [bastulli/AutoCarJetsonNano](https://github.com/bastulli/AutoCarJetsonNano)
+- [kkishore9891/Jetson-Nano-Self-Driving-Car](https://github.com/kkishore9891/Jetson-Nano-Self-Driving-Car)
+- [datlife/jetson-car](https://github.com/datlife/jetson-car)
+- [alexoliveira21/Autonomous-Jetson-Nano-RC-Car](https://github.com/alexoliveira21/Autonomous-Jetson-Nano-RC-Car)
+- [sdracula/AI-Car](https://github.com/sdracula/AI-Car)
+- [gordonsolar/ai_jetson_nano_car](https://github.com/gordonsolar/ai_jetson_nano_car)
+- [autorope/donkeycar](https://github.com/autorope/donkeycar)
 
 
 ### Tips
