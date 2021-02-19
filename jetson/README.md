@@ -12,6 +12,10 @@
 - 2019/04/22 [How to run TensorFlow Object Detection model on Jetson Nano](https://medium.com/swlh/how-to-run-tensorflow-object-detection-model-on-jetson-nano-8f8c6d4352e8)
 
 
+### Articles (Korean)
+- 2021/02/01 [NVIDIA Jetson Nano보드 기반 차량 ADAS(Advanced Driver Assistance System) 개발 사례 소개](https://sites.google.com/site/bimprinciple/in-the-news/nvidiajetsonnanobodeugibanadasadvanceddriverassistancesystemgaebalsalyesogae)
+
+
 ### Information
 - [Jetson Nano](https://elinux.org/Jetson_Nano)
 - [Jetson Download Center](https://developer.nvidia.com/embedded/downloads)
