@@ -19,12 +19,12 @@
 - [ROS-Industrial](https://rosindustrial.org/)
 
 
-
 ### Open Source
 - [jdgalviss/jetbot-ros2](https://github.com/jdgalviss/jetbot-ros2)
 - [ros2/ros1_bridge](https://github.com/ros2/ros1_bridge)
 - [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization (Lidar SLAM)
 - [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+- [stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) - ROS wrapper for the ZED SDK
 
 
 ### Papers
