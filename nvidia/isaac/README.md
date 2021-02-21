@@ -15,3 +15,6 @@
 
 ### Open Source
 - [nvidia-isaac](https://github.com/nvidia-isaac)
+- [UniversalRobots/Universal_Robots_Isaac_Driver](https://github.com/UniversalRobots/Universal_Robots_Isaac_Driver) - Driver enabling NVIDIA Isaac SDK operation of UR robots.
+
+
