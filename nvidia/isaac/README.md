@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/11/18 [NVIDIA: Implementing Robotics Applications with ROS 2 and AI on the Jetson Platform](https://www.pye.ai/2020/11/18/nvidia-implementing-robotics-applications-with-ros-2-and-ai-on-the-nvidia-jetson-platform/)
 - 2020/08/26 [Developing Robotics Applications in Python with NVIDIA Isaac SDK](https://www.edge-ai-vision.com/2020/08/developing-robotics-applications-in-python-with-nvidia-isaac-sdk/)
 - 2020/08/18 [Jetson nano install Isaac SDK](https://www.programmersought.com/article/61485096734/)
 - 2020/05/15 [BMW Group selects NVIDIA Isaac platform to redefine factory logistics](https://www.greencarcongress.com/2020/05/20200515-nvidia.html)
