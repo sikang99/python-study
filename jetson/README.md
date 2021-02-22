@@ -51,6 +51,7 @@
 - [sdracula/AI-Car](https://github.com/sdracula/AI-Car)
 - [gordonsolar/ai_jetson_nano_car](https://github.com/gordonsolar/ai_jetson_nano_car)
 - [autorope/donkeycar](https://github.com/autorope/donkeycar)
+- [jugfk/downloadManuals](https://github.com/jugfk/downloadManuals) - 젯슨나노를 위한 다운로드용 설치매뉴얼 텍스트파일(.txt)입니다.
 
 
 ### Tips
