@@ -14,5 +14,6 @@
 ### Open Source
 - [rgiduthuri/openvx_tutorial](https://github.com/rgiduthuri/openvx_tutorial) - Khronos OpenVX Tutorial Material
     - SIGGRAPH Asia 2016, use OpenCV
+- [KhronosGroup/OpenVX-sample-impl](https://github.com/KhronosGroup/OpenVX-sample-impl) 
 
 
