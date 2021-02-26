@@ -8,6 +8,7 @@
 ### Information
 - [OpenVX](https://www.khronos.org/openvx/) - OpenVX 1.3
     - OpenVX and OpenCV are Complementary
+- [Intel Distribution of OpenVX Implementation Developer Guida](https://software.intel.com/content/www/us/en/develop/documentation/openvino-ovx-guide/top/openvx-basics.html)
 
 
 
