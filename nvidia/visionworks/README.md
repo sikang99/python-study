@@ -2,6 +2,7 @@
 
 
 ## Articles
+- 2020/06/01 [OpenVX API for Raspberry Pi](https://www.raspberrypi.org/blog/openvx-api-for-raspberry-pi/)
 
 
 ### Information
