@@ -12,6 +12,7 @@
 - [ROSCOS](https://www.rocos.io/)
 - [Robotics & Automation](https://roboticsandautomationnews.com/)
 - [Robotics Tomorrow](https://www.roboticstomorrow.com/)
+- [MORPH : Modular Open Robotics Platform for Hackers](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers)
 
 
 ### Vendors
