@@ -5,6 +5,7 @@ Python Programming
 
 ### Articles
 - 2020/11/25 [Comparison of 11 New Python Web Frameworks](https://dzone.com/articles/comparison-of-11-new-python-web-frameworks)
+- 2019/02/30 [Memory Management in Python](https://realpython.com/python-memory-management/)
 
 
 ### Information
