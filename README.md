@@ -14,6 +14,7 @@ Python Programming
 - [PyPy](https://www.pypy.org/)
 - [Pipenv](https://pipenv.pypa.io/en/latest/): Python Dev Workflow for Humans
 - [PyCoder's Weekly](https://pycoders.com/)
+- [Real Python](https://realpython.com/)
 
 
 ### Open Source
