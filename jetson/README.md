@@ -65,6 +65,7 @@ $ v4l2-ctl -d /dev/video0 --set-fmt-video=width=1920,height=1080,pixelformat=RG1
 ```
 
 ```
+sudo apt install v4l-utils
 sudo apt install guvcview
 ```
 

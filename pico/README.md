@@ -17,5 +17,6 @@
 
 ### Open Source
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
+- [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) 
 
 
