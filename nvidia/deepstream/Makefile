@@ -2,7 +2,7 @@
 
 
 
-git-update du:
+git-update gu:
 	cd ../..; make gu
 
 
