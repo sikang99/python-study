@@ -3,7 +3,7 @@ alias bashrc="vi ~/.bashrc; source ~/.bashrc"
 alias bashrcx="source ~/.bashrc"
 alias update="sudo apt update -y; sudo apt upgrade -y"
 
-alias ndocker="nvidia-docker"
+alias ndocker="nvidia-docker"	# docker --runtime=nvidia
 
 alias lr="tree | less"
 
@@ -15,7 +15,12 @@ alias er="vi README.md"
 function jdocker() {
 	case $1 in
 	login)
+		echo "Username: $oauthtoken"
+		echo "Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj"
 		docker login nvcr.io
+		;;
+	edit)	# adding "default-runtime": "nvidia"
+		sudo vi /etc/docker/daemon.json
 		;;
 	julia)
 		docker run -it --rm --name julia nvcr.io/hpc/julia:2.4.0
@@ -24,6 +29,8 @@ function jdocker() {
 		docker run -it --rm --net=host --runtime nvidia  -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix nvcr.io/nvidia/l4t-base:r32.5.0
 		;;
 	nvidia)
+		docker pull nvcr.io/nvidia/deepstream-l4t:5.0-dp-20.04-samples
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
 		docker pull nvcr.io/nvidia/cuda:11.2.1-devel-ubi8
 		docker pull nvcr.io/nvidia/l4t-base:r32.5.0
 		docker pull nvcr.io/nvidia/l4t-ml:r32.5.0-py3
@@ -33,6 +40,8 @@ function jdocker() {
 		docker pull nvcr.io/nvidia/mxnet:20.12-py3
 		docker pull nvcr.io/nvidia/nemo:1.0.0b3
 		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		;;
+	julia)
 		docker pull nvcr.io/hpc/julia:2.4.0
 		;;
 	foxy)
@@ -54,11 +63,14 @@ function jdocker() {
 	ubuntu-run)
 		docker run -it --rm --net=host --name ubntu ubuntu:20.04
 		;;
-	ps|images)
+	ps|images|rmi)
 		docker $1 $2 $3 $4
 		;;
 	clean)
 		docker system prune -f
+		;;
+	test)
+		docker run --privileged -it bouwe/computer-vision-jetson-nano:latest	
 		;;
 	*)
 		echo "usage: jdocker [login|nvidia|l4t|foxy|ubuntu|<command>]"
