@@ -2,7 +2,7 @@
 # Makefile for python-study
 #
 .PHONY: usage edit build clean git
-VERSION=0.0.1.2
+VERSION=0.0.1.3
 #----------------------------------------------------------------------------------
 usage:
 	@echo "make [edit|build]"
