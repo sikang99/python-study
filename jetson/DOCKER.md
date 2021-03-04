@@ -24,12 +24,14 @@
 - [Nvidia rendering on Docker](https://askubuntu.com/questions/1294995/nvidia-rendering-on-docker)
 - [How to Install ZED SDK with Docker on Linux](https://www.stereolabs.com/docs/docker/install-guide-linux/)
 - [PX4 Docker Containers](https://docs.px4.io/master/en/test_and_ci/docker.html)
+- [Using Hardware Acceleration with Docker](http://wiki.ros.org/docker/Tutorials/Hardware%20Acceleration)
 
 
 ### Open Source
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers)
 - [osrf/docker_images](https://github.com/osrf/docker_images)
+- [osrf/rocker](https://github.com/osrf/rocker)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker)
 - [BouweCeunen/computer-vision-jetson-nano](https://github.com/BouweCeunen/computer-vision-jetson-nano) - Object detection with SSD MobileNet v2 COCO model optimized with TensorRT on NVIDIA Jetson Nano
 - [stereolabs/zed-docker](https://github.com/stereolabs/zed-docker)
