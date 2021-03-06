@@ -1,3 +1,4 @@
+# sudo apt remove libopencv-dev
 cmake -D CMAKE_BUILD_TYPE=RELEASE \
         -D CMAKE_INSTALL_PREFIX=/usr/local \
         -D OPENCV_EXTRA_MODULES_PATH=../../opencv_contrib/modules \
@@ -24,9 +25,9 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
         -D WITH_V4L=ON \
         -D WITH_LIBV4L=ON \
         -D OPENCV_ENABLE_NONFREE=ON \
-        -D INSTALL_C_EXAMPLES=OFF \
-        -D INSTALL_PYTHON_EXAMPLES=OFF \
+        -D INSTALL_C_EXAMPLES=ON \
+        -D INSTALL_PYTHON_EXAMPLES=ON \
         -D BUILD_NEW_PYTHON_SUPPORT=ON \
         -D BUILD_opencv_python3=TRUE \
         -D OPENCV_GENERATE_PKGCONFIG=ON \
-        -D BUILD_EXAMPLES=OFF ..
+        -D BUILD_EXAMPLES=ON ..
