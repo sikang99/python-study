@@ -4,6 +4,7 @@ Python Programming
 
 
 ### Articles
+- 2021/03/06 [파이썬 3.10의 새 '패턴 매칭'이 할 수 있는 일](https://www.ciokorea.com/news/185423)
 - 2020/11/25 [Comparison of 11 New Python Web Frameworks](https://dzone.com/articles/comparison-of-11-new-python-web-frameworks)
 - 2019/02/30 [Memory Management in Python](https://realpython.com/python-memory-management/)
 
