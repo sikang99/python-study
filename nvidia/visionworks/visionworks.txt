@@ -1,8 +1,6 @@
 
 
-
-
-# VisionWorks sample install and run
+# VisionWorks samples install and run
 
 $ ls /usr/share/visionworks*
 /usr/share/visionworks:
@@ -38,7 +36,14 @@ nvx_demo_feature_tracker        nvx_demo_motion_estimation  nvx_sample_nvgstcame
 nvx_demo_feature_tracker_nvxcu  nvx_demo_stereo_matching    nvx_sample_object_tracker_nvxcu  nvx_sample_player
 nvx_demo_hough_transform        nvx_demo_video_stabilizer   nvx_sample_opencv_npp_interop
 
+$ cd ~/coding/cc/src/visionworks/VisionWorks-SFM-0.90-Samples
+$ make -j4
+$ ls ~/coding/cc/src/visionworks/VisionWorks-SFM-0.90-Samples/bin/aarch64/linux/release
 
+
+$ cd ~/coding/cc/src/visionworks/VisionWorks-Tracking-0.88-Samples
+$ make -j4
+$ ls ~/coding/cc/src/visionworks/VisionWorks-Tracking-0.88-Samples/bin/aarch64/linux/release
 
 
 
