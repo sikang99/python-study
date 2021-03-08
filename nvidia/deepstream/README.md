@@ -10,6 +10,7 @@
 
 ### Information
 - [DeepStream SDK 5.0. for NVIDIA dGPU and Jetson](https://docs.nvidia.com/metropolis/deepstream/DeepStream_5.0_Release_Notes.pdf)
+- [DeepStream: A Docker Container for Jetson](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_docker_containers.html#a-docker-container-for-jetson)
 
 
 ### Open Source
