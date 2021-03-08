@@ -26,6 +26,8 @@
     - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
 - desertbot.io: [Jetson](https://desertbot.io/jetson/)
 - [OpenDataCam](https://opendata.cam/)
+- [Jetson Nano / Xavier NX baseboard](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/)
+
 
 ### Open Source
 - [elloza/awesome-jetson-nano](https://github.com/elloza/awesome-jetson-nano)
@@ -53,6 +55,8 @@
 - [gordonsolar/ai_jetson_nano_car](https://github.com/gordonsolar/ai_jetson_nano_car)
 - [autorope/donkeycar](https://github.com/autorope/donkeycar)
 - [jugfk/downloadManuals](https://github.com/jugfk/downloadManuals) - 젯슨나노를 위한 다운로드용 설치매뉴얼 텍스트파일(.txt)입니다.
+- [antmicro/jetson-nano-baseboard](https://github.com/antmicro/jetson-nano-baseboard) - Antmicro's open hardware baseboard for the NVIDIA Jetson Nano and Jetson Xavier NX
+
 
 
 ### Tips
