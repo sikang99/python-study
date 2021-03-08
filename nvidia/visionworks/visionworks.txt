@@ -20,9 +20,6 @@ $ /usr/share/visionworks-sfm/sources/install-samples.sh ~/coding/cc/src/visionwo
 $ /usr/share/visionworks-tracking/sources/install-samples.sh ~/coding/cc/src/visionworks
 
 $ ls -al ~/coding/cc/src/visionworks/
-total 20
-drwxrwxr-x 5 stoney stoney 4096  3월  8 08:55 .
-drwxrwxr-x 6 stoney stoney 4096  3월  8 08:54 ..
 drwxrwxr-x 9 stoney stoney 4096  3월  8 08:58 VisionWorks-1.6-Samples
 drwxrwxr-x 6 stoney stoney 4096  3월  8 08:55 VisionWorks-SFM-0.90-Samples
 drwxrwxr-x 6 stoney stoney 4096  3월  8 08:55 VisionWorks-Tracking-0.88-Samples`
@@ -30,6 +27,7 @@ drwxrwxr-x 6 stoney stoney 4096  3월  8 08:55 VisionWorks-Tracking-0.88-Samples
 $ cd ~/coding/cc/src/visionworks/VisionWorks-1.6-Samples
 $ ls
 3rdparty  bin  data  demos  libs  Makefile  nvxio  samples  user_guide_linux.md
+
 $ make -j4
 $ cd bin/aarch64/linux/release 
 nvx_demo_feature_tracker        nvx_demo_motion_estimation  nvx_sample_nvgstcamera_capture   nvx_sample_opengl_interop
@@ -39,11 +37,12 @@ nvx_demo_hough_transform        nvx_demo_video_stabilizer   nvx_sample_opencv_np
 $ cd ~/coding/cc/src/visionworks/VisionWorks-SFM-0.90-Samples
 $ make -j4
 $ ls ~/coding/cc/src/visionworks/VisionWorks-SFM-0.90-Samples/bin/aarch64/linux/release
-
+nvx_sample_sfm
 
 $ cd ~/coding/cc/src/visionworks/VisionWorks-Tracking-0.88-Samples
 $ make -j4
 $ ls ~/coding/cc/src/visionworks/VisionWorks-Tracking-0.88-Samples/bin/aarch64/linux/release
+nvx_sample_object_tracker
 
 
 
