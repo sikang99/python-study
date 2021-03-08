@@ -27,6 +27,7 @@
 - desertbot.io: [Jetson](https://desertbot.io/jetson/)
 - [OpenDataCam](https://opendata.cam/)
 - [Jetson Nano / Xavier NX baseboard](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/)
+- [Jetson Xavier NX Developer Kit](https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit) - $399
 
 
 ### Open Source
