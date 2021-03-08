@@ -9,3 +9,7 @@
 
 
 
+### Information
+- [Vision processing unit](https://en.wikipedia.org/wiki/Vision_processing_unit)
+
+
