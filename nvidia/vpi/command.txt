@@ -1,0 +1,33 @@
+
+
+$ sudo apt show nvidia-jetpack -a
+Package: nvidia-jetpack
+Version: 4.5.1-b17
+Priority: standard
+Section: metapackages
+Maintainer: NVIDIA Corporation
+Installed-Size: 199 kB
+Depends: nvidia-cuda (= 4.5.1-b17), nvidia-opencv (= 4.5.1-b17), nvidia-cudnn8 (= 4.5.1-b17), nvidia-tensorrt (= 4.5.1-b17), nvidia-visionworks (= 4.5.1-b17), nvidia-container (= 4.5.1-b17), nvidia-vpi (= 4.5.1-b17), nvidia-l4t-jetson-multimedia-api (>> 32.5-0), nvidia-l4t-jetson-multimedia-api (<< 32.6-0)
+Homepage: http://developer.nvidia.com/jetson
+Download-Size: 29.4 kB
+APT-Sources: https://repo.download.nvidia.com/jetson/t210 r32.5/main arm64 Packages
+Description: NVIDIA Jetpack Meta Package
+
+Package: nvidia-jetpack
+Version: 4.5-b129
+Priority: standard
+Section: metapackages
+Maintainer: NVIDIA Corporation
+Installed-Size: 199 kB
+Depends: nvidia-cuda (= 4.5-b129), nvidia-opencv (= 4.5-b129), nvidia-cudnn8 (= 4.5-b129), nvidia-tensorrt (= 4.5-b129), nvidia-visionworks (= 4.5-b129), nvidia-container (= 4.5-b129), nvidia-vpi (= 4.5-b129), nvidia-l4t-jetson-multimedia-api (>> 32.5-0), nvidia-l4t-jetson-multimedia-api (<< 32.6-0)
+Homepage: http://developer.nvidia.com/jetson
+Download-Size: 29.4 kB
+APT-Sources: https://repo.download.nvidia.com/jetson/t210 r32.5/main arm64 Packages
+Description: NVIDIA Jetpack Meta Package
+
+$ ls /usr/include/vpi
+algo         ArrayType.h  CUDAInterop.h  EGLInterop.h  Export.h        Image.h                 NvBufferInterop.h  Pyramid.h  Types.h    WarpGrid.h
+AlgoFlags.h  ColorSpec.h  DataLayout.h   Event.h       HostFunction.h  Interpolation.h         OpenCVInterop.hpp  Status.h   Version.h  WarpMap.h
+Array.h      Context.h    detail         experimental  ImageFormat.h   LensDistortionModels.h  PixelType.h        Stream.h   VPI.h
+
+

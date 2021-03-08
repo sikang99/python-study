@@ -1,0 +1,18 @@
+
+
+
+$ nvidia-container-cli -V
+version: 0.9.0+beta1
+build date: 2019-06-24T22:00+00:00
+build revision: 77c1cbc2f6595c59beda3699ebb9d49a0a8af426
+build compiler: aarch64-linux-gnu-gcc-7 7.4.0
+build platform: aarch64
+build flags: -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -g3 -D JETSON=TRUE -DNDEBUG -std=gnu11 -O0 -g3 -fdata-sections -ffunction-sections -fstack-protector -fno-strict-aliasing -fvisibility=hidden -Wall -Wextra -Wcast-align -Wpointer-arith -Wmissing-prototypes -Wnonnull -Wwrite-strings -Wlogical-op -Wformat=2 -Wmissing-format-attribute -Winit-self -Wshadow -Wstrict-prototypes -Wunreachable-code -Wconversion -Wsign-conversion -Wno-unknown-warning-option -Wno-format-extra-args -Wno-gnu-alignof-expression -Wl,-zrelro -Wl,-znow -Wl,-zdefs -Wl,--gc-sections
+
+
+$ nvidia-docker --version
+Docker version 19.03.6, build 369ce74a3c
+
+$ docker --version
+Docker version 19.03.6, build 369ce74a3c
+
