@@ -38,6 +38,7 @@
 - [micro-ROS/docker](https://github.com/micro-ROS/docker)
 - [BouweCeunen/computer-vision-jetson-nano](https://github.com/BouweCeunen/computer-vision-jetson-nano) - Object detection with SSD MobileNet v2 COCO model optimized with TensorRT on NVIDIA Jetson Nano
 - [stereolabs/zed-docker](https://github.com/stereolabs/zed-docker)
+- [atinfinity/jetson_ros_docker](https://github.com/atinfinity/jetson_ros_docker) - Dockerfile to launch ROS on NVIDIA Jetson devices
 
 
 ### Papers
