@@ -5,10 +5,12 @@
 - 2020/09/02 [How to use the WiFi in Ubuntu 20.04 using realtek semiconductor 802.11n](https://dev.to/darkdebo/how-to-use-the-wifi-in-ubuntu-20-04-using-realtek-semiconductor-802-11n-53c0)
 - 2020/0218 [Best USB WiFi Adapters for Linux (Review) in 2021](https://www.addictivetips.com/ubuntu-linux-tips/usb-wifi-adapter-linux/)
 - [Getting USB wifi adapter to work with Ubuntu 18.04](https://askubuntu.com/questions/1273361/getting-usb-wifi-adapter-to-work-with-ubuntu-18-04)
+- 2019/07/31 [You too can have a sub-$200 .11ax client](https://wifi.hypergeek.net/you-too-can-have-a-sub-200-11ax-client/)
 
 
 ### Information
 - [Wireless USB Adapters for Linux](https://learnubuntumate.weebly.com/wireless-usb-adapters.html)
+
 
 
 ### Open Source
