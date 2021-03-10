@@ -31,6 +31,7 @@
 - [stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) - ROS wrapper for the ZED SDK
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
 - [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
+- [fetchrobotics/fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo)
 
 
 ### Papers
