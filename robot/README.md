@@ -13,10 +13,12 @@
 - [Robotics & Automation](https://roboticsandautomationnews.com/)
 - [Robotics Tomorrow](https://www.roboticstomorrow.com/)
 - [MORPH : Modular Open Robotics Platform for Hackers](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers)
+- [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries/)
 
 
 ### Vendors
 - [PAL Robotics](https://pal-robotics.com/) - TIAGo
+- [FastSense Tech](https://www.fastsense.tech/robotics_ai) - Fast Sense X Robotics AI Platform
 
 
 ### Open Source

@@ -41,7 +41,7 @@
 - [stereolabs/zed-docker](https://github.com/stereolabs/zed-docker)
 - [atinfinity/jetson_ros_docker](https://github.com/atinfinity/jetson_ros_docker) - Dockerfile to launch ROS on NVIDIA Jetson devices
 - [atinfinity/isaac_sdk_docker](https://github.com/atinfinity/isaac_sdk_docker) - Dockerfile to use NVIDIA Isaac SDK on Docker container
-
+- [FastSense/edge_ai_demo](https://github.com/FastSense/edge_ai_demo)
 
 
 ### Papers
