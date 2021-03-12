@@ -1,0 +1,39 @@
+# VPI Samples run
+usage:
+	@echo "usage: make [00|01|02|...|11|12]"
+00:
+	./vpi_blur kodim08.png
+	xdg-open tutorial_blurred.png
+01:
+	./vpi_sample_01_convolve_2d cuda kodim08.png
+	xdg-open edges_cuda.png
+02:
+	./vpi_sample_02_stereo_disparity cuda chair_stereo_left.png chair_stereo_right.png
+03:
+	./vpi_sample_03_harris_corners cuda kodim08.png
+	xdg-open harris_corners_cuda.png
+04:
+	./vpi_sample_04_rescale cuda kodim08.png
+	xdg-open scaled_cuda.png
+05:
+	./vpi_sample_05_timing cuda
+06:
+	./vpi_sample_06_klt_tracker cuda dashcam.mp4 dashcam_bboxes.txt frame/frame.png
+	xdg-open frame/frame_000.png
+07:
+	./vpi_sample_07_fft cuda kodim08.png
+	xdg-open spectrum_cuda.png
+08:
+	./vpi_sample_08_cross_aarch64_l4t cuda
+09:
+	./vpi_sample_09_tnr cuda noisy.mp4 noisy_tnr.mp4
+	ffplay noisy_tnr.mp4
+10:
+	./vpi_sample_10_perspwarp cuda noisy.mp4 noisy_perspwarp.mp4
+	ffplay noisy_perspwarp.mp4
+11:
+	./vpi_sample_11_fisheye -c 10,7 -s 22 fisheye/*.jpg
+	xdg-open undistort_000.jpg
+12:
+	./vpi_sample_12_optflow_lk cuda dashcam.mp4 5 frame/frame.png
+	xdg-open frame/frame_000.png
