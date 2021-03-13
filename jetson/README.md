@@ -31,6 +31,7 @@
 
 
 ### Open Source
+- [opics/jetson](https://github.com/topics/jetson) - jetson topic
 - [elloza/awesome-jetson-nano](https://github.com/elloza/awesome-jetson-nano)
 - [rbonghi/jetson_stats](https://github.com/rbonghi/jetson_stats) - jtop
 - [rbonghi/ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)
