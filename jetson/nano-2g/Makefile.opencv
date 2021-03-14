@@ -1,28 +1,56 @@
 #
-# Makefile for OpenCV Build on Jetson Nano
-
-
+# Makefile for building opencv
+#
 VERSION=4.5.1
-
 usage:
-	@echo "usage: make [download]"
+	@echo "usage: make [download|checkout]"
 
 download:
-	wget -O opencv-$(VERSION).zip https://github.com/opencv/opencv/archive/$(VERSION).zip
-	wget -O opencv-$(VERSION)_contrib.zip https://github.com/opencv/opencv_contrib/archive/$(VERSION).zip
-	unzip opencv-$(VERSION).zip
-	unzip opencv-$(VERSION)_contrib.zip
-	mv opencv-4.5.0 opencv
-	mv opencv_contrib-4.5.0 opencv_contrib
-
-download-extra:
+	git clone https://github.com/opencv/opencv.git
+	git clone https://github.com/opencv/opencv_contrib.git
 	git clone https://github.com/opencv/opencv_extra.git
 
 
-build:
+checkout:
+	cd opencv; git checkout -b v$(VERSION) $(VERSION)
+	cd opencv_contrib; git checkout -b v$(VERSION) $(VERSION)
+	cd opencv_extra; git checkout -b v$(VERSION) $(VERSION)
+
+configure:
 	mkdir -p opencv/build
-
-clean:
-	rm -f *.zip
-
-
+	cd opencv/build; \
+	cmake \
+	-D CMAKE_BUILD_TYPE=Release \
+	-D CMAKE_INSTALL_PREFIX=/usr \
+	-D OPENCV_EXTRA_MODULES_PATH=../../opencv_contrib/modules \
+	-D BUILD_PNG=ON \
+	-D BUILD_TIFF=ON \
+	-D BUILD_TBB=OFF \
+	-D BUILD_JPEG=ON \
+	-D BUILD_JASPER=ON \
+	-D BUILD_ZLIB=ON \
+	-D BUILD_EXAMPLES=ON \
+	-D BUILD_JAVA=OFF \
+	-D BUILD_opencv_python2=ON \
+	-D BUILD_opencv_python3=ON \
+	-D ENABLE_PRECOMPILED_HEADERS=OFF \
+	-D WITH_CUDNN=ON \
+	-D WITH_OPENCL=OFF \
+	-D WITH_OPENMP=OFF \
+	-D WITH_FFMPEG=ON \
+	-D WITH_GSTREAMER=ON \
+	-D WITH_GSTREAMER_0_10=OFF \
+	-D WITH_CUDA=ON \
+	-D WITH_GTK=ON \
+	-D WITH_VTK=OFF \
+	-D WITH_TBB=ON \
+	-D WITH_1394=OFF \
+	-D WITH_OPENEXR=OFF \
+	-D CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda \
+	-D CUDA_ARCH_BIN=5.3 \
+	-D CUDA_ARCH_PTX="" \
+	-D INSTALL_C_EXAMPLES=ON \
+	-D INSTALL_PYTHON_EXAMPLES=ON \
+	-D INSTALL_TESTS=OFF \
+	-D OPENCV_TEST_DATA_PATH=../../opencv_extra/testdata \
+	..

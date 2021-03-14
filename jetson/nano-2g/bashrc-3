@@ -133,10 +133,11 @@ alias ei="vi .gitignore"
 alias lr="ls -alR | less"
 
 export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin
+#export PATH=/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
 
 if [[ -x /usr/local/cuda ]]; then
 	export PATH=$PATH:/usr/local/cuda/bin
-    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
 	echo "CUDA setting: `cat /usr/local/cuda/version.txt`"
 fi
 
@@ -147,9 +148,11 @@ if [[ -x $HOME/coding/go/root/go ]]; then
 	echo "Golang setting: `go version`"
 fi
 
+
 if [[ -x $HOME/coding/jl/root/julia ]]; then
-	export JULIA_HOME=$HOME/coding/jl/root/julia
-	export PATH=$PATH:$JULIA_HOME/bin
+	export JULIA_BINDIR=$HOME/coding/jl/root/julia/bin
+	export JULIA_PKG_INSTALL_PATH=$HOME/.julia/packages
+	export PATH=$PATH:$JULIA_BINDIR
 	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$JULIA_HOME/lib
 	echo "Julia setting: `julia --version`"
 fi
@@ -190,7 +193,8 @@ function jetson() {
 	media)
 		sudo apt install libavcodec-dev libavformat-dev libavfilter-dev libavutil-dev libavresample-dev libavdevice-dev
 		sudo apt install libswscale-dev libswresample-dev libpostproc-dev
-		sudo apt install libvpx-dev libopus-dev 
+		sudo apt install libvpx-dev libopus-dev libxvidcore-dev libx264-dev 
+		sudo apt install libfaac-dev libmp3lame-dev libtheora-dev
 		sudo apt install libsdl2-dev	# for ffplay
 		;;
 	nano)
@@ -209,6 +213,14 @@ function jetson() {
 		jupyter labextension install jupyter-webrtc
 		jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-leaflet
 		jupyter labextension install bqplot
+		;;
+	deepstream)
+		sudo apt install libgstrtspserver-1.0-0
+		sudo dpkg -i deepstream-5.1_5.1.0-1_arm64.deb
+		;;
+	visionworks)
+		mkdir -p ~/coding/cc/src/visionworks
+		/usr/share/visionworks/sources/install-samples.sh  ~/coding/cc/src/visionworks
 		;;
 	usermod)
 		sudo usermod -aG docker $USER
@@ -313,34 +325,60 @@ function pyver() {
 function jdocker() {
 	case $1 in
 	login)
-		echo "Username: $oauthtoken"
-		echo "Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj"
+		echo "> Username: \$oauthtoken"
+		echo "> Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj"
 		docker login nvcr.io
 		;;
 	edit)	# adding "default-runtime": "nvidia"
 		sudo vi /etc/docker/daemon.json
 		;;
 	julia)
-		docker run -it --rm --name julia nvcr.io/hpc/julia:2.4.0
+		docker run -it --rm --name julia nvcr.io/hpc/julia:v2.4.1
 		;;
 	l4t)
 		docker run -it --rm --net=host --runtime nvidia  -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix nvcr.io/nvidia/l4t-base:r32.5.0
 		;;
 	nvidia)
+		docker pull nvcr.io/nvidia/deepstream-l4t:5.1-21.02-base
 		docker pull nvcr.io/nvidia/deepstream-l4t:5.0-dp-20.04-samples
-		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
 		docker pull nvcr.io/nvidia/cuda:11.2.1-devel-ubi8
+		docker pull nvcr.io/nvidia/cuda-arm64:11.2.1-devel-ubuntu20.04
+		docker pull nvcr.io/nvidia/cuda-ppc64le:11.0.3-devel-centos8
+		docker pull nvcr.io/nvidia/cudagl:11.2.1-devel-ubuntu18.04
 		docker pull nvcr.io/nvidia/l4t-base:r32.5.0
 		docker pull nvcr.io/nvidia/l4t-ml:r32.5.0-py3
-		docker pull nvcr.io/nvidia/tensorflow:20.12-tf1-py3
-		docker pull nvcr.io/nvidia/pytorch:20.12-py3
-		docker pull nvcr.io/nvidia/tensorrt:20.12-py3
-		docker pull nvcr.io/nvidia/mxnet:20.12-py3
+		docker pull nvcr.io/nvidia/dli/dli-nano-ai:v2.0.1-r32.5.0
+		docker pull nvcr.io/nvidia/tensorrt:21.02-py3
+		docker pull nvcr.io/nvidia/tensorflow:21.02-tf1-py3
+		docker pull nvcr.io/nvidia/pytorch:21.02-py3
+		docker pull nvcr.io/nvidia/tlt-pytorch:v3.0-dp-py3
+		docker pull nvcr.io/nvidia/tlt-streamanalytics:v3.0-dp-py3
+		docker pull nvcr.io/nvidia/mxnet:21.02-py3
 		docker pull nvcr.io/nvidia/nemo:1.0.0b3
-		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/nvidia/gpu-operator:1.6.1
+		docker pull nvcr.io/nvidia/k8s/container-toolkit:1.4.6-ubuntu18.04
+		docker pull nvcr.io/nvidia/nvhpc:21.1-runtime-cuda11.2-ubuntu20.04
+		docker pull nvcr.io/nvidia/tritonserver:21.02-py3
 		;;
-	julia)
-		docker pull nvcr.io/hpc/julia:2.4.0
+	hpc)
+		docker pull nvcr.io/hpc/julia:v2.4.1
+		docker pull nvcr.io/hpc/preflightcheck:20.11
+		docker pull nvcr.io/hpc/openacc-training-materials:20.9
+		docker pull nvcr.io/hpc/quantum_espresso:v6.7
+		docker pull nvcr.io/hpc/microvolution:2018.12
+		docker pull nvcr.io/hpc/milc:quda0.8-patch4Oct2017
+		docker pull nvcr.io/hpc/picongpu:june2018patch
+		docker pull nvcr.io/hpc/qmcpack:v3.5.0
+		docker pull nvcr.io/hpc/relion:3.1.0
+		docker pull nvcr.io/hpc/lammps:29Oct2020
+		docker pull nvcr.io/hpc/vmd:1.9.4a44
+		;;
+	partner)
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/partners/brightics_ai_ccelerator:cluster01262021535
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/partners/matlab:r2020b
+		docker pull nvcr.io/hpc/chroma:2020.06
 		;;
 	foxy)
 		docker pull arm64v8/ros:foxy-ros-base
