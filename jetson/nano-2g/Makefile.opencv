@@ -5,6 +5,11 @@ VERSION=4.5.1
 usage:
 	@echo "usage: make [download|checkout]"
 
+preinstall:
+	sudo apt install libglew-dev libtiff5-dev zlib1g-dev libjpeg-dev libpng12-dev libjasper-dev 
+	sudo apt install libavcodec-dev libavformat-dev libavutil-dev libpostproc-dev libswscale-dev 
+	sudo apt install libeigen3-dev libtbb-dev libgtk2.0-dev pkg-config
+
 download:
 	git clone https://github.com/opencv/opencv.git
 	git clone https://github.com/opencv/opencv_contrib.git
@@ -54,3 +59,11 @@ configure:
 	-D INSTALL_TESTS=OFF \
 	-D OPENCV_TEST_DATA_PATH=../../opencv_extra/testdata \
 	..
+
+build:
+	cd opencv/build; make -j4
+
+install:
+	cd opencv/build; sudo make install
+	sudo ldconfig
+
