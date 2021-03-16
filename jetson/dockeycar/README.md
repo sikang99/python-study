@@ -13,3 +13,6 @@
 ### Open Source
 - [rusi/jetson-nano-docker-donkeycar](https://github.com/rusi/jetson-nano-docker-donkeycar)
 
+
+### Papers
+- 2018 [DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car](https://arxiv.org/pdf/1712.08644.pdf)
