@@ -15,3 +15,4 @@
 ### Open Source
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
+- [expectopatronm/platooning-demonstrator](https://github.com/expectopatronm/platooning-demonstrator) - A Platooning demonstrator consisting of a convoy of 1/10 scale RC cars. Deep Learning and Computer Vision concepts utilized and system implemented on the Jetson Nano.
