@@ -13,6 +13,7 @@
 
 ### Information
 - NVIDIA Developer: [Jetson Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx)
+- NVIDIA Developer: [Jetson Xavier NX Developer Kit](https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit)
 - eLinux: [Jetson Xavier NX](https://elinux.org/Jetson_Xavier_NX)
 
 
@@ -20,5 +21,6 @@
 ### Open Source
 - [topics/jetson-xavier-nx](https://github.com/topics/jetson-xavier-nx)
 - [zhanghan4521/Jetson-Xavier-NX-Developer-Kit](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit)
+- [StrongRay/NVIDIA-Jetson-Xavier-NX](https://github.com/StrongRay/NVIDIA-Jetson-Xavier-NX)
 
 
