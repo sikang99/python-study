@@ -12,8 +12,8 @@
 
 
 ### Information
-- [Jetson Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx)
-- [Jetson Xavier NX](https://elinux.org/Jetson_Xavier_NX)
+- NVIDIA Developer: [Jetson Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx)
+- eLinux: [Jetson Xavier NX](https://elinux.org/Jetson_Xavier_NX)
 
 
 
