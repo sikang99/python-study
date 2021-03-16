@@ -18,6 +18,7 @@
 
 
 ### Open Source
-
+- [topics/jetson-xavier-nx](https://github.com/topics/jetson-xavier-nx)
+- [zhanghan4521/Jetson-Xavier-NX-Developer-Kit](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit)
 
 
