@@ -42,5 +42,5 @@
 - 2019 [OPC UA versus ROS, DDS, and MQTT: Performance Evaluation of Industry 4.0 Protocols](https://mediatum.ub.tum.de/doc/1470362/1470362.pdf)
 
 ### Books
-= [ROS Robotics Projects: Build and control robots powered by the Robot](https://books.google.co.kr/books?id=ENzFDwAAQBAJ&pg=PA214&lpg=PA214&dq=jetson+nano+reality&source=bl&ots=PAf1sAl6H9&sig=ACfU3U2fWJxlzNrnnfgWL4Dvj3I_670AYg&hl=ko&sa=X&ved=2ahUKEwj70arC-_TuAhVD-WEKHYbPAY04UBDoATAGegQIDBAD#v=onepage&q=jetson%20nano%20reality&f=false)
+- [ROS Robotics Projects: Build and control robots powered by the Robot](https://books.google.co.kr/books?id=ENzFDwAAQBAJ&pg=PA214&lpg=PA214&dq=jetson+nano+reality&source=bl&ots=PAf1sAl6H9&sig=ACfU3U2fWJxlzNrnnfgWL4Dvj3I_670AYg&hl=ko&sa=X&ved=2ahUKEwj70arC-_TuAhVD-WEKHYbPAY04UBDoATAGegQIDBAD#v=onepage&q=jetson%20nano%20reality&f=false)
 
