@@ -6,7 +6,7 @@
 
 
 ### Information
-
+- [DonkeyCar for Jetson Nano-Setup Jetson Nano](https://www.waveshare.com/wiki/DonkeyCar_for_Jetson_Nano-Setup_Jetson_Nano)
 
 
 
