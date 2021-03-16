@@ -2,6 +2,8 @@
 
 
 ### Articles
+- 2021/03/09 [Xavier NX powered system offers dual GbE with PoE and HDMI in and out](http://linuxgizmos.com/xavier-nx-powered-system-offers-dual-gbe-with-poe-and-hdmi-in-and-out/)
+- 2021/03/08 [IP67-rated edge AI gateway runs Linux on Jetson Xavier NX](http://linuxgizmos.com/ip67-rated-edge-ai-gateway-runs-linux-on-jetson-xavier-nx/)
 - 2021/01/02 [How To Install PyCUDA On NVIDIA Jetson Xavier NX & Jetson Nano Devices](https://zlab.medium.com/how-to-install-pycuda-on-nvidia-jetson-xavier-nx-jetson-nano-devices-30304bf3b9f7)
 - 2020/07/26 [Setting up Jetson Xavier NX](https://jkjung-avt.github.io/setting-up-xavier-nx/)
 - 2020/05/29 [Jetson Xavier NX – Run from SSD](https://www.jetsonhacks.com/2020/05/29/jetson-xavier-nx-run-from-ssd/)
