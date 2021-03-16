@@ -19,4 +19,5 @@
 
 
 ### Papers
+- 2019 [Hardware-Software Stack for an RC car for testing autonomous driving algorithms](https://www.researchgate.net/publication/336411476_Hardware-Software_Stack_for_an_RC_car_for_testing_autonomous_driving_algorithms)
 - 2018 [DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car](https://arxiv.org/pdf/1712.08644.pdf)
