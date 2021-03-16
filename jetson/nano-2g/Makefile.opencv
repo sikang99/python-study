@@ -67,4 +67,6 @@ usage:
 	cd opencv/build; sudo make install
 	sudo ldconfig
 
-
+# for Julia 1.5.4
+# import Pkg; Pkg.add("CxxWrap")
+#
