@@ -13,6 +13,7 @@
 
 
 ### Open Source
+- [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [rusi/jetson-nano-docker-donkeycar](https://github.com/rusi/jetson-nano-docker-donkeycar)
 - [expectopatronm/platooning-demonstrator](https://github.com/expectopatronm/platooning-demonstrator) - A Platooning demonstrator consisting of a convoy of     1/10 scale RC cars. Deep Learning and Computer Vision concepts utilized and system implemented on the Jetson Nano.
 
