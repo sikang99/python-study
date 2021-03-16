@@ -3,6 +3,7 @@
 
 ### Articles
 - 2020/12/15 [The latest model of the autonomous driving platform Donkey Car "Donkey Car S1" has been released (December 2020)](https://www.tegakari.net/en/2020/12/donkey-car-s1/)
+- 2019/04/28 [Donkey Car – Part Two: Setting up the Jetson Nano](https://theamateurengineersg.wordpress.com/2019/04/28/donkey-car-part-two-setting-up-the-jetson-nano/)
 
 
 ### Information
