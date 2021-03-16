@@ -13,6 +13,8 @@
 
 ### Information
 - [Jetson Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx)
+- [Jetson Xavier NX](https://elinux.org/Jetson_Xavier_NX)
+
 
 
 ### Open Source
