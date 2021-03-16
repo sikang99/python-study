@@ -3,7 +3,7 @@
 #
 VERSION=4.5.1
 usage:
-	@echo "usage: make [1 preinstall|2 download|3 checkout|4 configure|5 build|6 install]"
+	@echo "usage: make [1,preinstall|2,download|3,checkout|4,configure|5,build|6,install]"
 
 1 preinstall:
 	sudo apt install libglew-dev libtiff5-dev zlib1g-dev libjpeg-dev libpng-dev libopenexr-dev
