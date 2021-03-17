@@ -18,6 +18,7 @@
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc)
 - [jsmouret/grpc-over-webrtc](https://github.com/jsmouret/grpc-over-webrtc) - gRPC over WebRTC
+- [pion/awesome-pion](https://github.com/pion/awesome-pion) - A curated list of awesome things related to Pion
 
 
 
