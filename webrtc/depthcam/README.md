@@ -14,6 +14,7 @@
     - [pyrealsense2’s documentation!](https://intelrealsense.github.io/librealsense/python_docs/index.html#)
     - [Intel RealSense SDK 2.0](https://www.intelrealsense.com/sdk-2/)
 - Apple: [Streaming Depth Data from the TrueDepth Camera](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/streaming_depth_data_from_the_truedepth_camera)
+    - [Introducing Multi-Camera Capture for iOS](https://developer.apple.com/videos/play/wwdc2019/249/)
 - [Aivero](https://www.aivero.com/) - 3D Video Streaming and Compression
 - Android: [Multi-Camera Support](https://source.android.com/devices/camera/multi-camera)
 - ARCore: [Depth API overview for Android](https://developers.google.com/ar/develop/java/depth/overview)
