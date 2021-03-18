@@ -14,6 +14,12 @@
 - [WebRTC](https://wiki.nikitavoloboev.xyz/web/webrtc)
 
 
+
+### Review and Discussion
+- [Javascript / Go plug-and-play server-side WebRTC support for webcam streaming](https://codereview.stackexchange.com/questions/248425/javascript-go-plug-and-play-server-side-webrtc-support-for-webcam-streaming)
+
+
+
 ### Open Source
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [shiguredo/momo](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
