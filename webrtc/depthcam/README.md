@@ -8,6 +8,7 @@
 
 
 ### Information
+- [wiki/Intel_RealSense](https://en.wikipedia.org/wiki/Intel_RealSense)
 - W3C: [Media Capture Depth Stream Extension](https://www.w3.org/wiki/Media_Capture_Depth_Stream_Extension)
 - Intel: [Intel® RealSense™ Documentation](https://dev.intelrealsense.com/docs)
     - [pyrealsense2’s documentation!](https://intelrealsense.github.io/librealsense/python_docs/index.html#)
