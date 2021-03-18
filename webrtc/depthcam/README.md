@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2018/07/24 [Streaming Volumetric Images Online](https://medium.com/@lisajamhoury/streaming-volumetric-images-online-a04d68703973)
 - 2017/02/01 [Depth Camera Capture in HTML5](https://01.org/chromium/blogs/astojilj/2017/depth-camera-capture-html5)
 
 
