@@ -11,9 +11,11 @@
 - W3C [Media Capture Depth Stream Extension](https://www.w3.org/wiki/Media_Capture_Depth_Stream_Extension)
 - Intel [Intel® RealSense™ Documentation](https://dev.intelrealsense.com/docs)
     - [pyrealsense2’s documentation!](https://intelrealsense.github.io/librealsense/python_docs/index.html#)
+    - [Intel RealSense SDK 2.0](https://www.intelrealsense.com/sdk-2/)
 - Apple [Streaming Depth Data from the TrueDepth Camera](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/streaming_depth_data_from_the_truedepth_camera)
 - [Aivero](https://www.aivero.com/) - 3D Video Streaming and Compression
 - Android [Multi-Camera Support](https://source.android.com/devices/camera/multi-camera)
+- Ardupilot: [Intel RealSense Depth Camera](https://ardupilot.org/rover/docs/common-realsense-depth-camera.html)
 
 
 ### Open Source
