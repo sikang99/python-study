@@ -3,6 +3,7 @@
 
 ### Articles
 - 2018/07/24 [Streaming Volumetric Images Online](https://medium.com/@lisajamhoury/streaming-volumetric-images-online-a04d68703973)
+- 2018/01/12 [New Intel RealSense Cameras Deliver Low-Cost 3D Solutions](https://www.electronicdesign.com/industrial-automation/article/21806035/new-intel-realsense-cameras-deliver-lowcost-3d-solutions)
 - 2017/02/01 [Depth Camera Capture in HTML5](https://01.org/chromium/blogs/astojilj/2017/depth-camera-capture-html5)
 
 
