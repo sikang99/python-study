@@ -15,6 +15,9 @@
 - [WebRTC](https://wiki.nikitavoloboev.xyz/web/webrtc)
 
 
+### Slides
+- 2019 [Beyond the WebRTC.org monoculture](https://archive.fosdem.org/2019/schedule/event/beyond_webrtc_monoculture/attachments/slides/3219/export/events/attachments/beyond_webrtc_monoculture/slides/3219/Beyond_the_WebRTC_org_monoculture.pdf)
+
 
 ### Review and Discussion
 - [Javascript / Go plug-and-play server-side WebRTC support for webcam streaming](https://codereview.stackexchange.com/questions/248425/javascript-go-plug-and-play-server-side-webrtc-support-for-webcam-streaming)
