@@ -43,3 +43,9 @@
 
 ### Reports
 - 2020 [D4.3 Micro-ROS Client library Software Release Y3](http://www.ofera.eu/storage/deliverables/M36/OFERA_39_D43_Micro-ROS_client_library_software_release_Y3__PU.pdf)
+
+
+### Papers
+- 2013 [Integrating Arduino-based Educational Mobile Robots in ROS](https://www.researchgate.net/publication/257936711_Integrating_Arduino-based_Educational_Mobile_Robots_in_ROS)
+
+
