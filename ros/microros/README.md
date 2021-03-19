@@ -20,6 +20,7 @@
 - [ESP8266 and ESP32 configuration (ROS1 and ROS2 are required)](https://www.programmersought.com/article/44485715773/)
 
 
+
 ### Information
 - [micro-ROS](https://micro.ros.org/) - puts ROS 2 onto microcontrollers
 - [Hadabot](https://www.hadabot.com/) - Master ROS 2 and Robotics
@@ -29,6 +30,7 @@
     - [Tutorial](https://husarion.com/tutorials/)
 - EU [OFERA Project](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
     - [micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem](https://cordis.europa.eu/project/id/780785)
+- [Awesome Robot Operating System 2 (ROS 2)](https://project-awesome.org/fkromer/awesome-ros2)
 
 
 
