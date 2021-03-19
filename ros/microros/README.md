@@ -14,6 +14,7 @@
 - 2020/09/02 [micro-ROS on FreeRTOS](https://freertos.org/2020/09/micro-ros-on-freertos.html)
 - 2020/09/12 [The State of Robotics – August 2020](https://ubuntu.com/blog/the-state-of-robotics-august-2020)
 - 2020/08/27 [micro-ROS porting to ESP32](https://micro.ros.org/blog/2020/08/27/esp32/)
+- 2020/05/18 [Introduction to the micro-ROS Framwwork](https://www.fiware.org/2020/05/18/introduction-to-the-micro-ros-framework/)
 - 2020/03/30 [Use ROS2, an ESP32 running MicroPython, and the web browser to control a motor driver](https://medium.com/@hadabot/use-ros2-an-esp32-running-micropython-and-the-web-browser-to-control-a-motor-driver-a88f9b1e7489)
 - 2020/03/18 [Setting up an ESP32 microcontroller for ROS2 robotics](https://blog.hadabot.com/set-up-esp32-microcontroller-for-ros2-robotics.html)
 - 2019/08/13 [micro-ros - Putting ROS 2 onto microcontrollers](https://www.fiware.org/2019/08/13/micro-ros-putting-ros-2-onto-microcontrollers/)
@@ -30,6 +31,7 @@
     - [Tutorial](https://husarion.com/tutorials/)
 - EU [OFERA Project](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
     - [micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem](https://cordis.europa.eu/project/id/780785)
+- [FIWARE](https://www.fiware.org/)
 - [**Awesome Robot Operating System 2 (ROS 2)**](https://project-awesome.org/fkromer/awesome-ros2)
 
 
