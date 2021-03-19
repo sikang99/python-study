@@ -12,6 +12,7 @@
 - 2020/08/27 [micro-ROS porting to ESP32](https://micro.ros.org/blog/2020/08/27/esp32/)
 - 2020/03/30 [Use ROS2, an ESP32 running MicroPython, and the web browser to control a motor driver](https://medium.com/@hadabot/use-ros2-an-esp32-running-micropython-and-the-web-browser-to-control-a-motor-driver-a88f9b1e7489)
 - 2019/08/13 [micro-ros - Putting ROS 2 onto microcontrollers](https://www.fiware.org/2019/08/13/micro-ros-putting-ros-2-onto-microcontrollers/)
+- [ESP8266 and ESP32 configuration (ROS1 and ROS2 are required)](https://www.programmersought.com/article/44485715773/)
 
 
 ### Information
