@@ -10,8 +10,11 @@
 - 2020/11/01 [micro-ROS goes AIoT!](https://discourse.ros.org/t/micro-ros-goes-aiot/17407)
 - 2020/11/01 [ROS 2 to micro-ROS TCP tunneling via Integration Service](https://eprosima.com/index.php/company-all/news/173-ros-2-to-micro-ros-tcp-tunneling-via-integration-service)
 - 2020/10/01[Micro-ROS Project Brings ROS 2 to the Arduino IDE and CLI Through an Experimental Library Release](https://www.hackster.io/news/micro-ros-project-brings-ros-2-to-the-arduino-ide-and-cli-through-an-experimental-library-release-656a72fff2fa)
+- 2020/09/02 [micro-ROS on FreeRTOS](https://freertos.org/2020/09/micro-ros-on-freertos.html)
+- 2020/09/12 [The State of Robotics – August 2020](https://ubuntu.com/blog/the-state-of-robotics-august-2020)
 - 2020/08/27 [micro-ROS porting to ESP32](https://micro.ros.org/blog/2020/08/27/esp32/)
 - 2020/03/30 [Use ROS2, an ESP32 running MicroPython, and the web browser to control a motor driver](https://medium.com/@hadabot/use-ros2-an-esp32-running-micropython-and-the-web-browser-to-control-a-motor-driver-a88f9b1e7489)
+- 2020/03/18 [Setting up an ESP32 microcontroller for ROS2 robotics](https://blog.hadabot.com/set-up-esp32-microcontroller-for-ros2-robotics.html)
 - 2019/08/13 [micro-ros - Putting ROS 2 onto microcontrollers](https://www.fiware.org/2019/08/13/micro-ros-putting-ros-2-onto-microcontrollers/)
 - [ESP8266 and ESP32 configuration (ROS1 and ROS2 are required)](https://www.programmersought.com/article/44485715773/)
 
@@ -20,6 +23,7 @@
 - [micro-ROS](https://micro.ros.org/) - puts ROS 2 onto microcontrollers
 - [Hadabot](https://www.hadabot.com/) - Master ROS 2 and Robotics
 - Docker Hub: [microros](https://hub.docker.com/u/microros)
+- [FreeRTOS](https://www.freertos.org/) - Real-time operating system for microcontrollers
 
 
 ### Open Source
@@ -27,6 +31,8 @@
 - [micro-ROS/micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino)
 - [micro-ROS/micro_ros_espidf_component](https://github.com/micro-ROS/micro_ros_espidf_component) - micro-ROS ESP32 IDF component and sample code
 - [micro-ROS/micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - micro-ROS Zephyr module and sample code
+- [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS)
 
 
-
+### Reports
+- 2020 [D4.3 Micro-ROS Client library Software Release Y3](http://www.ofera.eu/storage/deliverables/M36/OFERA_39_D43_Micro-ROS_client_library_software_release_Y3__PU.pdf)
