@@ -9,6 +9,7 @@
 - 2021/01/14 [Micro-ROS – bringing the most popular robotics middleware onto tiny microcontrollers](https://www.bosch.com/stories/bringing-robotics-middleware-onto-tiny-microcontrollers/)
 - 2020/11/01 [micro-ROS goes AIoT!](https://discourse.ros.org/t/micro-ros-goes-aiot/17407)
 - 2020/11/01 [ROS 2 to micro-ROS TCP tunneling via Integration Service](https://eprosima.com/index.php/company-all/news/173-ros-2-to-micro-ros-tcp-tunneling-via-integration-service)
+- 2020/10/22 [micro-ROS: A member of the Zephyr Project and integrated into the Zephyr build system as a module!](https://zephyrproject.org/micro-ros-a-member-of-the-zephyr-project-and-integrated-into-the-zephyr-build-system-as-a-module/)
 - 2020/10/01[Micro-ROS Project Brings ROS 2 to the Arduino IDE and CLI Through an Experimental Library Release](https://www.hackster.io/news/micro-ros-project-brings-ros-2-to-the-arduino-ide-and-cli-through-an-experimental-library-release-656a72fff2fa)
 - 2020/09/02 [micro-ROS on FreeRTOS](https://freertos.org/2020/09/micro-ros-on-freertos.html)
 - 2020/09/12 [The State of Robotics – August 2020](https://ubuntu.com/blog/the-state-of-robotics-august-2020)
