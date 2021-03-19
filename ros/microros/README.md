@@ -32,6 +32,8 @@
 - [micro-ROS/micro_ros_espidf_component](https://github.com/micro-ROS/micro_ros_espidf_component) - micro-ROS ESP32 IDF component and sample code
 - [micro-ROS/micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - micro-ROS Zephyr module and sample code
 - [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS)
+- [husarion/tutorial_pkg](https://github.com/husarion/tutorial_pkg)
+- [husarion/rosbot_description](https://github.com/husarion/rosbot_description) - ROSbot urdf model
 
 
 ### Reports
