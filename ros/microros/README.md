@@ -43,6 +43,7 @@
 
 ### Slides
 - 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
+- 2018 [ROS 2 Embedded](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5c5aa394a4222f883e310086/1549443993975/2018.12.12_Ingo_Luethkebohle.pdf)
 
 
 ### Reports
