@@ -24,6 +24,11 @@
 - [Hadabot](https://www.hadabot.com/) - Master ROS 2 and Robotics
 - Docker Hub: [microros](https://hub.docker.com/u/microros)
 - [FreeRTOS](https://www.freertos.org/) - Real-time operating system for microcontrollers
+- [Husarion](https://husarion.com) - Autonomous Mobile Robots Made Simple
+    - [Tutorial](https://husarion.com/tutorials/)
+- EU [OFERA Project](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
+    - [micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem](https://cordis.europa.eu/project/id/780785)
+
 
 
 ### Open Source
