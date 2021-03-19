@@ -39,7 +39,7 @@
 - [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS)
 - [husarion/tutorial_pkg](https://github.com/husarion/tutorial_pkg)
 - [husarion/rosbot_description](https://github.com/husarion/rosbot_description) - ROSbot urdf model
-
+- [nobleo/ros2_performance_c_LET_executor](https://github.com/nobleo/ros2_performance_c_LET_executor) - Package with example code to show the performance of the C implementation of the LET executor.
 
 ### Slides
 - 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
