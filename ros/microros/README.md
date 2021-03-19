@@ -34,7 +34,7 @@
     - [micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem](https://cordis.europa.eu/project/id/780785)
 - [FIWARE](https://www.fiware.org/)
 - [**Awesome Robot Operating System 2 (ROS 2)**](https://project-awesome.org/fkromer/awesome-ros2)
-
+- [snapcraft.io/micro-ros-agent](https://snapcraft.io/micro-ros-agent) - Bridge between micro-ROS applications and ROS 2
 
 
 ### Open Source
