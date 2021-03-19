@@ -7,6 +7,7 @@
 
 ### Articles
 - 2021/01/14 [Micro-ROS – bringing the most popular robotics middleware onto tiny microcontrollers](https://www.bosch.com/stories/bringing-robotics-middleware-onto-tiny-microcontrollers/)
+- 2020/11/01 [micro-ROS goes AIoT!](https://discourse.ros.org/t/micro-ros-goes-aiot/17407)
 - 2020/11/01 [ROS 2 to micro-ROS TCP tunneling via Integration Service](https://eprosima.com/index.php/company-all/news/173-ros-2-to-micro-ros-tcp-tunneling-via-integration-service)
 - 2020/10/01[Micro-ROS Project Brings ROS 2 to the Arduino IDE and CLI Through an Experimental Library Release](https://www.hackster.io/news/micro-ros-project-brings-ros-2-to-the-arduino-ide-and-cli-through-an-experimental-library-release-656a72fff2fa)
 - 2020/08/27 [micro-ROS porting to ESP32](https://micro.ros.org/blog/2020/08/27/esp32/)
