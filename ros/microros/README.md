@@ -41,8 +41,13 @@
 - [husarion/rosbot_description](https://github.com/husarion/rosbot_description) - ROSbot urdf model
 
 
+### Slides
+- 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
+
+
 ### Reports
 - 2020 [D4.3 Micro-ROS Client library Software Release Y3](http://www.ofera.eu/storage/deliverables/M36/OFERA_39_D43_Micro-ROS_client_library_software_release_Y3__PU.pdf)
+- 2018 D3.7 Micro-ROS Agent Software Release Y1
 
 
 ### Papers
