@@ -21,7 +21,7 @@
 - 2019/08/13 [micro-ros - Putting ROS 2 onto microcontrollers](https://www.fiware.org/2019/08/13/micro-ros-putting-ros-2-onto-microcontrollers/)
 - [ESP8266 and ESP32 configuration (ROS1 and ROS2 are required)](https://www.programmersought.com/article/44485715773/)
 - [First micro-ROS Application on FreeRTOS](https://micro.ros.org/docs/tutorials/core/first_application_rtos/freertos/)
-
+- [For MCU, micro (lightweight) ROS based on FreeRTOS](https://www.programmersought.com/article/63775596149/]
 
 
 ### Information
@@ -30,6 +30,7 @@
 - Docker Hub: [microros](https://hub.docker.com/u/microros)
     - [microros/micro-ros-demos/](https://hub.docker.com/r/microros/micro-ros-demos/)
 - [FreeRTOS](https://www.freertos.org/) - Real-time operating system for microcontrollers
+- [Zephr](https://zephyrproject.org/) - RTOS for connected resource-constrained devices
 - [Husarion](https://husarion.com) - Autonomous Mobile Robots Made Simple
     - [Tutorial](https://husarion.com/tutorials/)
 - EU [**OFERA Project**](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
