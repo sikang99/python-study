@@ -13,6 +13,7 @@
 
 ### Information
 - NVIDIA Developer: [Jetson Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx)
+    - [Getting Started With Jetson Xavier NX Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-xavier-nx-devkit)
 - NVIDIA Developer: [Jetson Xavier NX Developer Kit](https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit)
 - eLinux: [Jetson Xavier NX](https://elinux.org/Jetson_Xavier_NX)
 
