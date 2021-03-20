@@ -32,7 +32,7 @@
 - [FreeRTOS](https://www.freertos.org/) - Real-time operating system for microcontrollers
 - [Husarion](https://husarion.com) - Autonomous Mobile Robots Made Simple
     - [Tutorial](https://husarion.com/tutorials/)
-- EU [OFERA Project](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
+- EU [**OFERA Project**](http://www.ofera.eu/) - Open Framework for Embedded Robot Applications
     - [micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem](https://cordis.europa.eu/project/id/780785)
 - [FIWARE](https://www.fiware.org/)
 - [**Awesome Robot Operating System 2 (ROS 2)**](https://project-awesome.org/fkromer/awesome-ros2)
