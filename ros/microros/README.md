@@ -52,6 +52,7 @@
 
 
 ### Slides
+- 2020 [FIWARE Wednesday Webinars - How to Develop FIWARE NGSI Interfaces for Robots](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
 - 2020 [micro-ROS Demo on STM32 nucleo-f767zi](https://speakerdeck.com/maeharakeisuke/micro-ros-demo-on-stm32-nucleo-f767zi)
 - 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
 - 2018 [micro-ROS](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c8ada4222fe0ccbd58d8/1558628538888/2019-05-07_micro-ROS.pdf)
