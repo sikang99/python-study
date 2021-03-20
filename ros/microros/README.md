@@ -63,6 +63,7 @@
 
 
 ### Papers
+- 2020 [ROS-lite: ROS Framework for NoC-Based Embedded Many-Core Platform](http://ras.papercept.net/images/temp/IROS/files/0874.pdf)
 - 2013 [Integrating Arduino-based Educational Mobile Robots in ROS](https://www.researchgate.net/publication/257936711_Integrating_Arduino-based_Educational_Mobile_Robots_in_ROS)
 
 
