@@ -1,0 +1,467 @@
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;
+      *) return;;
+esac
+
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+HISTCONTROL=ignoreboth
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)
+if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
+fi
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color|*-256color) color_prompt=yes;;
+esac
+
+# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+#force_color_prompt=yes
+
+if [ -n "$force_color_prompt" ]; then
+    if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
+	# We have color support; assume it's compliant with Ecma-48
+	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
+	# a case would tend to support setf rather than setaf.)
+	color_prompt=yes
+    else
+	color_prompt=
+    fi
+fi
+
+if [ "$color_prompt" = yes ]; then
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+else
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+fi
+unset color_prompt force_color_prompt
+
+# If this is an xterm set the title to user@host:dir
+case "$TERM" in
+xterm*|rxvt*)
+    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+    ;;
+*)
+    ;;
+esac
+
+# enable color support of ls and also add handy aliases
+if [ -x /usr/bin/dircolors ]; then
+    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+    alias ls='ls --color=auto'
+    #alias dir='dir --color=auto'
+    #alias vdir='vdir --color=auto'
+
+    alias grep='grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+fi
+
+# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if ! shopt -oq posix; then
+  if [ -f /usr/share/bash-completion/bash_completion ]; then
+    . /usr/share/bash-completion/bash_completion
+  elif [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+  fi
+fi
+
+## ---------- by stoney
+alias bashrc="vi ~/.bashrc; source ~/.bashrc"
+alias bashrcx="source ~/.bashrc"
+alias update="sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y"
+
+alias ndocker="nvidia-docker"	# docker --runtime=nvidia
+
+alias ed="vi Dockerfile"
+alias em="vi Makefile"
+alias er="vi README.md"
+alias ey="vi docker-compose.yml"
+alias ei="vi .gitignore"
+
+alias lr="ls -alR | less"
+
+export PATH=/sbin:/bin:/usr/sbin:/usr/bin:/snap/bin:/usr/local/sbin:/usr/local/bin
+#export PATH=/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+
+if [[ -x /usr/local/cuda ]]; then
+	export PATH=$PATH:/usr/local/cuda/bin
+	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+	echo "CUDA setting: `cat /usr/local/cuda/version.txt`"
+fi
+
+if [[ -x $HOME/coding/go/root/go ]]; then
+	export GOROOT=$HOME/coding/go/root/go
+	export GOPATH=$HOME/coding/go
+	export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+	echo "Golang setting: `go version`"
+fi
+
+
+if [[ -x $HOME/coding/jl/root/julia ]]; then
+	export JULIA_BINDIR=$HOME/coding/jl/root/julia/bin
+	export JULIA_PKG_INSTALL_PATH=$HOME/.julia/packages
+	export PATH=$PATH:$JULIA_BINDIR
+	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$JULIA_HOME/lib
+	echo "Julia setting: `julia --version`"
+fi
+
+if [[ -x $HOME/.pyenv/ ]]; then
+	export PATH=$PATH:"$HOME/.pyenv/bin"
+	eval "$(pyenv init -)"
+	eval "$(pyenv virtualenv-init -)"
+	echo "pyenv setting: `pyenv --version`"
+fi
+
+if [[ -x $HOME/.local ]]; then
+	export PATH=$PATH:$HOME/.local/bin
+fi
+
+if [[ -x /usr/local/nodejs ]]; then
+	export PATH=$PATH:/usr/local/nodejs/bin
+	echo "nodjs setting: `node --version`"
+fi
+
+## https://github.com/JetsonHacksNano/installROS
+if [[ -x /opt/ros/melodic ]]; then
+	source /opt/ros/melodic/setup.bash
+	echo "ROS setting: `rosversion -d`"
+fi
+
+
+## -- user-defined functions
+function jetson() {
+	case $1 in 
+	base)
+		sudo apt install -y tree make cmake curl wget htop git tig neofetch hardinfo nmap
+		sudo apt install -y apt-utils xz-utils build-essential
+		sudo apt install -y libreadline-dev libbz2-dev libffi-dev libssl1.0-dev libsqlite3-dev
+		sudo apt install -y python2.7-dev python3.6-dev python3-testresources
+		sudo apt install -y python3-numpy python3-scipy python3-matplotlib
+		sudo apt install -y python-numpy python-scipy python-matplotlib
+		;;
+	media)
+		sudo apt install -y libavcodec-dev libavformat-dev libavfilter-dev libavutil-dev libavresample-dev libavdevice-dev
+		sudo apt install -y libswscale-dev libswresample-dev libpostproc-dev
+		sudo apt install -y libvpx-dev libopus-dev libxvidcore-dev libx264-dev 
+		sudo apt install -y libfaac-dev libmp3lame-dev libtheora-dev
+		sudo apt install -y libjpeg8-dev libjpeg-turbo8-dev libtiff-dev libpng-dev
+		sudo apt install -y libsdl2-dev	# for ffplay
+		sudo apt install -y v4l-utils guvcview
+		;;
+	ros)
+		sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+		curl -sSL 'http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xC1CF6E31E6BADE8868B172B4F42ED6FBAB17C654' | sudo apt-key add -
+		;;
+	melodic) # http://wiki.ros.org/melodic/Installation/Ubuntu
+		sudo apt install -y ros-melodic-desktop ros-melodic-image-transport ros-melodic-vision-msgs
+		sudo apt install -y python-rosdep python-rosinstall python-rosinstall-generator python-wstool
+		sudo rosdep init
+		rosdep update
+		;;
+	jupyter)
+		pip install -U jupyterlab Cython ipywidgets ipywebrtc ipyleaflet bqplot
+		jupyter labextension install @jupyter-widgets/jupyterlab-manager
+		jupyter nbextension enable --py widgetsnbextension
+		jupyter labextension install jupyter-webrtc
+		jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-leaflet
+		jupyter labextension install bqplot
+		;;
+	nvidia)
+		sudo apt install -y deepstream-5.0
+		sudo apt install -y nvidia-jetpack nvidia-cuda nvidia-cudnn8
+		sudo apt install -y nvidia-opencv nvidia-visionworks nvidia-vpi
+		;;
+	deepstream)
+		sudo apt install libgstrtspserver-1.0-0
+		sudo dpkg -i deepstream-5.1_5.1.0-1_arm64.deb
+		;;
+	visionworks)
+		mkdir -p ~/coding/cc/src/visionworks
+		/usr/share/visionworks/sources/install-samples.sh  ~/coding/cc/src/visionworks
+		/usr/share/visionworks-sfm/sources/install-samples.sh  ~/coding/cc/src/visionworks
+		/usr/share/visionworks-tracking/sources/install-samples.sh  ~/coding/cc/src/visionworks
+		;;
+	usermod)
+		sudo usermod -aG docker $USER
+		sudo usermod -aG video $USER
+		sudo usermod -aG dialout $USER
+		sudo usermod -aG gpio $USER
+		;;
+	pyenv)
+		curl https://pyenv.run | bash
+		pyenv install 2.7.17
+		pyenv install 3.6.9
+		;;
+	stats)
+		sudo -H python3 -m pip install -U jetson-stats
+		;;
+	ffmpeg) # https://docs.nvidia.com/jetson/l4t/index.html
+		echo "deb https://repo.download.nvidia.com/jetson/ffmpeg main main" |  \
+			sudo tee -a /etc/apt/sources.list
+		echo "deb-src https://repo.download.nvidia.com/jetson/ffmpeg main main" |  \
+			sudo tee -a /etc/apt/sources.list
+		sudo apt update
+		;;
+	camera)
+		gst-launch-1.0 nvarguscamerasrc ! nvoverlaysink
+		;;
+	csi-camera)
+		gst-launch-1.0 nvarguscamerasrc sensor_mode=0 ! \
+			'video/x-raw(memory:NVMM),width=1280, height=720, framerate=21/1, format=NV12' ! \
+			nvvidconv flip-method=0 ! 'video/x-raw,width=960, height=616' ! \
+			nvvidconv ! nvegltransform ! nveglglessink -e
+		;;
+	illegal-error)
+		pip3 uninstall numpy
+		pip3 install -U numpy --no-cache-dir --no-binary numpy
+		;;
+	record)
+		pip freeze > requirements.txt 
+		more requirements.txt
+		;;
+	clean)
+		sudo apt autoremove -y
+		sudo apt autoclean -y
+		;;
+	*)
+		echo "usage: jetson [usermod|camera|record]"
+	esac
+}
+
+function goto() {
+	case $1 in 
+	cc|go|jl|js|py)
+		cd ~/coding/$1/src ;;
+	*)
+		echo "usage: goto [cc|go|js|py]" ;;
+	esac
+}
+
+function gofind() {
+	if [ $# -eq 0 ]; then
+		echo "usage: gofind [<string>] [<path>]"
+		return
+	fi	
+	if [ $# -gt 1 ]; then
+		find $2 -name "*$1*" -print
+	else 
+		find . -name "*$1*" -print
+	fi	
+}
+
+## https://golang.org/dl/
+function gover() {
+	pushd . > /dev/null
+	cd $HOME/coding/go/root
+	case $1 in 
+	1.14)
+		unlink go
+		ln -s go1.14.15 go
+		;;
+	1.15)
+		unlink go
+		ln -s go1.15.10 go
+		;;
+	1.16)
+		unlink go
+		ln -s go1.16.2 go
+		;;
+	list)
+		ls -alF
+		;;
+	*)
+		echo "usage: gover [1.14|1.15|1.16|list]" ;;
+	esac
+	popd > /dev/null 
+	go version
+}
+
+## https://github.com/pyenv/pyenv
+function pyver() {
+	case $1 in 
+	base)
+		sudo apt install libreadline-dev libbz2-dev libffi-dev ;;
+	install)
+		pyenv install 2.7.17
+		pyenv install 2.7.18
+		pyenv install 3.6.9
+		pyenv install 3.6.13
+		pyenv install 3.7.10
+		pyenv install 3.8.8
+		pyenv install 3.9.2
+		;;
+	2.7)
+		pyenv shell 2.7.17 ;;	# 2.7.18
+	3.6)
+		pyenv shell 3.6.9 ;;	# 3.6.13
+	3.7)
+		pyenv shell 3.7.10 ;;
+	3.8)
+		pyenv shell 3.8.8 ;;
+	3.9)
+		pyenv shell 3.9.2 ;;
+	list)
+		pyenv versions ;;
+	*)
+		echo "usage: pyver [base|install|2.7|3.6|3.7|3.8|3.9|list|install]" ;;
+	esac
+	python -V
+}
+
+function jdocker() {
+	case $1 in
+	login)
+		echo "> Username: \$oauthtoken"
+		echo "> Password: cGVyMGE5a2poNjc0Y2hlMDY5bjduYzZjZ286MWIxZGVlMzktNzgzYi00MDM0LTk5NmMtYTFhOGJlM2VjNGFj"
+		docker login nvcr.io
+		;;
+	edit)	# adding "default-runtime": "nvidia"
+		sudo vi /etc/docker/daemon.json
+		;;
+	julia)
+		docker run -it --rm --name julia nvcr.io/hpc/julia:v2.4.1
+		;;
+	l4t)
+		docker run -it --rm --net=host --runtime nvidia  -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix nvcr.io/nvidia/l4t-base:r32.5.0
+		;;
+	nvidia)
+		docker pull nvcr.io/nvidia/deepstream-l4t:5.1-21.02-base
+		docker pull nvcr.io/nvidia/deepstream-l4t:5.0-dp-20.04-samples
+		docker pull nvcr.io/nvidia/cuda:11.2.1-devel-ubi8
+		docker pull nvcr.io/nvidia/cuda-arm64:11.2.1-devel-ubuntu20.04
+		docker pull nvcr.io/nvidia/cuda-ppc64le:11.0.3-devel-centos8
+		docker pull nvcr.io/nvidia/cudagl:11.2.1-devel-ubuntu18.04
+		docker pull nvcr.io/nvidia/l4t-base:r32.5.0
+		docker pull nvcr.io/nvidia/l4t-ml:r32.5.0-py3
+		docker pull nvcr.io/nvidia/dli/dli-nano-ai:v2.0.1-r32.5.0
+		docker pull nvcr.io/nvidia/tensorrt:21.02-py3
+		docker pull nvcr.io/nvidia/tensorflow:21.02-tf1-py3
+		docker pull nvcr.io/nvidia/pytorch:21.02-py3
+		docker pull nvcr.io/nvidia/tlt-pytorch:v3.0-dp-py3
+		docker pull nvcr.io/nvidia/tlt-streamanalytics:v3.0-dp-py3
+		docker pull nvcr.io/nvidia/mxnet:21.02-py3
+		docker pull nvcr.io/nvidia/nemo:1.0.0b3
+		docker pull nvcr.io/nvidia/gpu-operator:1.6.1
+		docker pull nvcr.io/nvidia/k8s/container-toolkit:1.4.6-ubuntu18.04
+		docker pull nvcr.io/nvidia/nvhpc:21.1-runtime-cuda11.2-ubuntu20.04
+		docker pull nvcr.io/nvidia/tritonserver:21.02-py3
+		;;
+	hpc)
+		docker pull nvcr.io/hpc/julia:v2.4.1
+		docker pull nvcr.io/hpc/preflightcheck:20.11
+		docker pull nvcr.io/hpc/openacc-training-materials:20.9
+		docker pull nvcr.io/hpc/quantum_espresso:v6.7
+		docker pull nvcr.io/hpc/microvolution:2018.12
+		docker pull nvcr.io/hpc/milc:quda0.8-patch4Oct2017
+		docker pull nvcr.io/hpc/picongpu:june2018patch
+		docker pull nvcr.io/hpc/qmcpack:v3.5.0
+		docker pull nvcr.io/hpc/relion:3.1.0
+		docker pull nvcr.io/hpc/lammps:29Oct2020
+		docker pull nvcr.io/hpc/vmd:1.9.4a44
+		;;
+	partner)
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/partners/brightics_ai_ccelerator:cluster01262021535
+		docker pull nvcr.io/partners/nnabla:v1.15.0-mpi3.1.6
+		docker pull nvcr.io/partners/matlab:r2020b
+		docker pull nvcr.io/hpc/chroma:2020.06
+		;;
+	foxy)
+		docker pull arm64v8/ros:foxy-ros-base
+		docker pull arm64v8/ros:foxy-ros-core
+		docker pull arm64v8/ros:foxy-ros1-bridge
+		docker pull arm64v8/ros:foxy-ros1-bridge-focal
+		docker pull youtalk/ros:foxy-ros-base-l4t-r32.4.4
+		;;
+	foxy-run)
+		docker run -it --rm --net=host --name foxy youtalk/ros:foxy-ros-base-l4t-r32.4.4
+		;;
+	ubuntu)
+		docker pull ubuntu:18.04
+		docker pull ubuntu:20.04 # 20.04.1 LTS focal
+		docker pull ubuntu:20.10
+		docker pull ubuntu:21.04  # Hirsute Hippo
+		;;
+	ubuntu-run)
+		docker run -it --rm --net=host --name ubuntu ubuntu:20.04
+		;;
+	ps|images|rmi)
+		docker $1 $2 $3 $4
+		;;
+	clean)
+		docker system prune -f
+		;;
+	test)
+		docker run --privileged -it bouwe/computer-vision-jetson-nano:latest	
+		;;
+	*)
+		echo "usage: jdocker [login|nvidia|l4t|foxy|ubuntu|<command>]"
+		;;
+	esac
+}
+
+function usage() {
+	jetson
+	jdocker
+	goto
+	gofind
+	gover
+	pyver
+}
+
+
+## --- final setting
+pyver 3.6
+
+
