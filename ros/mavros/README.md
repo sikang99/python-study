@@ -24,3 +24,4 @@
 
 ### Open Source
 - [mavlink/mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
+- [mavros-python-examples 0.0.3](https://pypi.org/project/mavros-python-examples/) 
