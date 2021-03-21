@@ -28,6 +28,8 @@
 - [OpenDataCam](https://opendata.cam/)
 - [Jetson Nano / Xavier NX baseboard](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/)
 - [Jetson Xavier NX Developer Kit](https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit) - $399
+- [H.264/H.265 Video Encoding Support Matrix for Nvidia Jetson](https://www.stereolabs.com/blog/h-264-h-265-video-encoding-support-matrix-for-nvidia-jetson/)
+
 
 
 ### Open Source
