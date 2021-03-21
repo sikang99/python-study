@@ -9,6 +9,7 @@
 ### Information
 - [ROS with MAVROS Installation Guide](https://docs.px4.io/master/en/ros/mavros_installation.html)
 - [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
+- ArduPilot: [Connecting with ROS](https://ardupilot.org/dev/docs/ros-connecting.html)
 
 
 ### Open Source
