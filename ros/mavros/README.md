@@ -26,3 +26,5 @@
 ### Open Source
 - [mavlink/mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
 - [mavros-python-examples 0.0.3](https://pypi.org/project/mavros-python-examples/) 
+- [mathworks/DJI-ROS-Simulink](https://github.com/mathworks/DJI-ROS-Simulink) - Design a Path Follower with a DJI® N3 Autopilot and NVIDIA® Jetson Nano using DJI Onboard ROS SDK
+

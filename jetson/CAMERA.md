@@ -43,12 +43,15 @@
 - [ktossell/libuvc]( https://github.com/ktossell/libuvc)
     - [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
     - [ricohapi/libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) 
+- [ArduCAM/MIPI_Camera](https://github.com/ArduCAM/MIPI_Camera) 
+
 
 
 ### Tips
 ```
 sudo apt install v4l-utils
-v4l-ctl --info --list-devices
+v4l2-ctl --info --list-devices
+v4l2-ctl --list-formats-ext -d 0
 ```
 ```
 gst-launch-1.0 nvarguscamerasrc ! nvoverlaysink
