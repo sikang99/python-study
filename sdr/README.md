@@ -13,7 +13,7 @@
 
 ### Open Source
 - [jocover/OpenUSRP](https://github.com/jocover/OpenUSRP) - using LimeSDR to simulate USRP B210
-- [https://github.com/myriadrf](https://github.com/myriadrf) 
-
+- [myriadrf](https://github.com/myriadrf) 
+- [mgp25/RF-List](https://github.com/mgp25/RF-List) - RFSec tools
 
 
