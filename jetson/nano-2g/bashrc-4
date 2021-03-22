@@ -246,6 +246,11 @@ function jetson() {
 	stats)
 		sudo -H python3 -m pip install -U jetson-stats
 		;;
+	aio)
+		pip install -U pip
+		pip install -U aioice aiortc
+		pip install -U aioquic aiohttp aiobot
+		;;
 	ffmpeg) # https://docs.nvidia.com/jetson/l4t/index.html
 		echo "deb https://repo.download.nvidia.com/jetson/ffmpeg main main" |  \
 			sudo tee -a /etc/apt/sources.list
