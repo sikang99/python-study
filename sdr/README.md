@@ -15,5 +15,5 @@
 - [jocover/OpenUSRP](https://github.com/jocover/OpenUSRP) - using LimeSDR to simulate USRP B210
 - [myriadrf](https://github.com/myriadrf) 
 - [mgp25/RF-List](https://github.com/mgp25/RF-List) - RFSec tools
-
+- [EttusResearch/uhd](https://github.com/EttusResearch/uhd) - The USRP™ Hardware Driver Repository
 
