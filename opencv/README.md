@@ -5,11 +5,13 @@
 
 
 ## Information
+- [StereoVision: Library and utilities for 3d reconstruction from stereo cameras](http://erget.github.io/StereoVision/index.html)
 
 
 ### Open Source
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 - [ai-coodinator/mediapipe-python](https://github.com/ai-coodinator/mediapipe-python)
+- [erget/StereoVision](https://github.com/erget/StereoVision) 
 
 
 ### Papers
