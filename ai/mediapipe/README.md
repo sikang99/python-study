@@ -6,6 +6,7 @@
 
 ### Information
 - [mediapipe.dev/](https://mediapipe.dev/)
+- [coral.ai/](https://coral.ai/) 
 
 
 ### Open Source
