@@ -5,6 +5,7 @@
 
 
 ### Information
+- [MediaPipe/](https://google.github.io/mediapipe/)
 - [mediapipe.dev/](https://mediapipe.dev/)
 - [coral.ai/](https://coral.ai/) 
 
