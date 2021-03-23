@@ -44,6 +44,7 @@
     - [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
     - [ricohapi/libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) 
 - [ArduCAM/MIPI_Camera](https://github.com/ArduCAM/MIPI_Camera) 
+- [IMX219-83 Stereo Camera](https://www.waveshare.com/wiki/IMX219-83_Stereo_Camera)
 
 
 
