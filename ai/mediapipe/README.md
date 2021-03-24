@@ -1,4 +1,8 @@
 ## Mediapipe
+> MediaPipe is a graph-based framework for building multimodal (video, audio, and sensor) applied machine learning pipelines. 
+> MediaPipe also facilitates the deployment of machine learning technology into demos and applications 
+> on a wide variety of different hardware platforms (e.g., Android, iOS, workstations).
+
 
 ### Articles
 - 2021/03/24 [ActionAI: Custom Tracking & MultiPerson Activity Recognition](ActionAI: Custom Tracking & MultiPerson Activity Recognition)
