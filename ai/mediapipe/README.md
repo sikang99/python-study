@@ -1,7 +1,8 @@
 ## Mediapipe
-> MediaPipe is a graph-based framework for building multimodal (video, audio, and sensor) applied machine learning pipelines. 
-> MediaPipe also facilitates the deployment of machine learning technology into demos and applications 
-> on a wide variety of different hardware platforms (e.g., Android, iOS, workstations).
+
+### Descriptions
+- MediaPipe is a graph-based framework for building multimodal (video, audio, and sensor) applied machine learning pipelines.  MediaPipe also facilitates the deployment of machine learning technology into demos and applications on a wide variety of different hardware platforms (e.g., Android, iOS, workstations).
+- MediaPipe is a cross-platform framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
 
 
 ### Articles
