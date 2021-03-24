@@ -15,6 +15,7 @@
 - [soft robotics toolkit](https://softroboticstoolkit.com/)
 - [Harvard Biodesign Lab](https://biodesign.seas.harvard.edu/soft-robotics)
 - [Soft Robotics](https://www.softroboticsinc.com/)
+- [Open Soft Robotics Research](https://collections.plos.org/collection/soft-robotics/)
 
 
 ### Papers
