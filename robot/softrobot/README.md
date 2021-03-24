@@ -22,6 +22,10 @@
 - [Open Soft Robotics Research](https://collections.plos.org/collection/soft-robotics/)
 
 
+### Open Source
+- [intelligent-soft-robots](https://github.com/intelligent-soft-robots) - Intelligent Soft Robots
+
+
 ### Papers
 - 2015 [Design, fabrication and control of soft robots](https://www.researchgate.net/publication/277410991_Design_fabrication_and_control_of_soft_robots)
 - 2011 [Soft Robotics: Challenges and Perspectives](https://www.sciencedirect.com/science/article/pii/S1877050911006958)
