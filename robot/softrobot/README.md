@@ -17,6 +17,8 @@
 - [Soft Robotics](https://www.softroboticsinc.com/)
 
 
+### Papers
+- 2011 [Soft Robotics: Challenges and Perspectives](https://www.sciencedirect.com/science/article/pii/S1877050911006958)
 
 
 
