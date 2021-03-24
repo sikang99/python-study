@@ -1,0 +1,29 @@
+#
+# Makefile for building mediapipe
+#
+VERSION=4.0.0
+usage:
+	@echo "usage: make [1,package|2,bazel|3.download|4,checkout|5.build|6.install]"
+
+1 package:
+	sudo apt install openjdk-11-jdk
+
+2 basel:
+	wget https://github.com/bazelbuild/bazel/releases/download/$(VERSION)/bazel-$(VERSION)-linux-arm64
+	sudo mv bazel-$(VERSION)-linux-arm64 /usr/local/bin
+	sudo chmod a+rx /usr/local/bin/bazel
+
+3 download:
+	git clone https://github.com/google/mediapipe.git
+
+4 checkout:
+	cd mediapipe && \
+		git checkout -b $(VERSION)
+
+5 build:
+	cd mediapipe && \
+		bazel build
+
+6 test:
+	cd mediapipe && \
+		bazel run mediapipe/examples/desktop/hello_world:hello_world
