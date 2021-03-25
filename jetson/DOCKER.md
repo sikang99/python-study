@@ -4,6 +4,7 @@
 ### Articles
 - 2021/02/07 [LiDAR integration with ROS 2 Foxy on the Nvidia Jetson Board](https://www.hackster.io/shahizat005/lidar-integration-with-ros-2-foxy-on-the-nvidia-jetson-board-34fa62)
 - 2020/11/18 [Docker for Nvidia GPU](http://www.legendu.net/misc/blog/docker-for-nvidia-gpu/)
+- 2020/11/05 [How to run Kaggle/docker-python container GPU specific version](https://dockerquestions.com/2020/11/05/how-to-run-kaggle-docker-python-container-gpu-specific-version/)
 - 2020/09/22 [Nvidia drivers docker](https://www.xspdf.com/resolution/54156497.html)
 - 2020/08/28 [Tutorial: Deploying TensorFlow Models at the Edge with NVIDIA Jetson Nano and K3s](https://thenewstack.io/tutorial-deploying-tensorflow-models-at-the-edge-with-nvidia-jetson-nano-and-k3s/)
 - 2020/06/04 [Jetson Xavier NX vs. Jetson Nano - Detailed comparison](https://www.hackster.io/dmitrywat/jetson-xavier-nx-vs-jetson-nano-detailed-comparison-aa9cd7)
