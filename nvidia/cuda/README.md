@@ -10,6 +10,8 @@
 - [CUDA](http://www.popflock.com/learn?s=CUDA)
 - [nvJPEG Libraries](https://developer.nvidia.com/nvjpeg)
 - [nvJPEG Libary Guide](https://www.clear.rice.edu/comp422/resources/cuda/pdf/nvJPEG.pdf)
+- [GPU Acclerated Applications](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf)
+
 
 
 ### Open Source
