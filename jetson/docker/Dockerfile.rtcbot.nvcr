@@ -1,0 +1,55 @@
+ARG BASE_IMAGE=nvcr.io/nvidia/l4t-base:r32.4.4
+FROM ${BASE_IMAGE}
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+WORKDIR /initial_workspace
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+            python3-pip \
+		  python3-dev \
+		  python3-numpy \
+		  python3-cffi \
+		  python3-aiohttp \
+		  python3-opencv \
+			  libavformat-dev \
+			  libavcodec-dev \
+			  libavdevice-dev \
+			  libavutil-dev \
+			  libswscale-dev \
+			  libswresample-dev \
+			  libavfilter-dev \
+			  libopus-dev \
+			  libvpx-dev \
+			  libsrtp2-dev \
+		  pkg-config \
+		  pulseaudio \
+		  build-essential \
+		  wget \
+		  yasm \
+		  alsa \ 
+		  alsa-utils \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN wget http://www.ffmpeg.org/releases/ffmpeg-4.2.2.tar.xz && \
+    tar xf ffmpeg-4.2.2.tar.xz && \
+    cd ffm*2 && \
+    ./configure --enable-shared --enable-pic --enable-cross-compile && \
+    make -j4 && \
+    make install
+
+RUN cd /etc && \ 
+    echo '/usr/local/lib' >> /etc/ld.so.conf && \
+    ldconfig
+
+RUN pip3 install --upgrade pip
+RUN pip3 install setuptools 
+
+RUN pip3 install rtcbot 
+
+WORKDIR /
+
+ADD ./examples /home/examples
+CMD ["bash"]
+WORKDIR /

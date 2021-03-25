@@ -21,7 +21,7 @@ usage:
 
 5 configure:
 	cd ffmpeg && \
-		./configure --enable-nonfree --enable-cuda-nvcc \
+		./configure --enable-shared --enable-nonfree --enable-cuda-nvcc \
 		--extra-cflags=-I/usr/local/cuda/include --extra-ldflags=-L/usr/local/cuda/lib6
 
 6 compile:

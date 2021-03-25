@@ -1,0 +1,32 @@
+#
+# Makefile for dockering donkey car
+#
+ORG=cobot1
+NAME=donkeycar
+VERSION=0.0.1
+BASE=$(ORG)/$(NAME)
+BUILD=$(VESION).1
+DIST=ubuntu-18.04
+IMAGE=$(BASE):$(BUILD)-$(DIST)
+
+usage:
+	@echo "usage: make [docker]"
+
+docker d:
+	@echo "> make (docker) [build|run|kill|image|clean]"
+
+docker-build db:
+	docker build -t $(NAME) .
+
+docker-run dr:
+	docker run -it --rm --name $(NAME) $(IMAGE)
+
+docker-kill dk:
+	docker stop $(NAME) && docker rm $(NAME)
+
+docker-image di:
+	docker images 
+
+docker-clean dc:
+	docker system prune -f
+
