@@ -5,7 +5,7 @@ ORG=cobot1
 NAME=donkeycar
 VERSION=0.0.1
 BASE=$(ORG)/$(NAME)
-BUILD=$(VESION).1
+BUILD=$(VERSION).1
 DIST=ubuntu-18.04
 IMAGE=$(BASE):$(BUILD)-$(DIST)
 
@@ -25,8 +25,11 @@ docker-kill dk:
 	docker stop $(NAME) && docker rm $(NAME)
 
 docker-image di:
-	docker images 
+	docker images $(BASE)
 
 docker-clean dc:
 	docker system prune -f
+
+docker-ps dp:
+	docker ps -a
 

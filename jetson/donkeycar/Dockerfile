@@ -19,11 +19,11 @@ RUN apt-get -y install \
 # Install codecs and protocols
 RUN apt-get -y install \
 	libopus-dev libvpx-dev libx264-dev \
-        libsrtp2-dev
+        libsrtp2-dev 
 
-# Install ffmpeg and libs 
+# Install ffmpeg and libs after building 
 RUN apt-get -y install \
-        yasm
+        pulseaudio libpulse-dev yasm
 
 ENV FFMPEG=4.2.3
 RUN wget http://www.ffmpeg.org/releases/ffmpeg-${FFMPEG}.tar.xz && \
@@ -44,7 +44,7 @@ RUN apt-get -y install \
 	python3-numpy python3-cffi python3-opencv
 
 RUN pip3 install -U pip 
-RUN pip3 install setuptools aioice aiortc
+RUN pip3 install setuptools aioice aiortc rtcbot
 
 
 WORKDIR /
