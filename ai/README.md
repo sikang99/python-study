@@ -13,3 +13,6 @@
 
 
 
+### Books
+- 2012 [Introduction to GPUs for Data Analytics](https://www.networld.co.jp/files/9615/0846/8069/GPUs_Data_Analytics_Book.pdf)
+
