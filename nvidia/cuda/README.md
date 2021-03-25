@@ -15,3 +15,9 @@
 ### Open Source
 
 
+
+### Papers
+- 2012 [GPGPU PROCESSING IN CUDA ARCHITECTURE](https://arxiv.org/pdf/1202.4347.pdf)
+
+
+
