@@ -1,0 +1,9 @@
+
+
+
+
+
+
+sudo snap install cmake --classic
+
+
