@@ -3,6 +3,7 @@
 #
 ORG=cobot1
 NAME=donkeycar
+#NAME=donkeycar-rpi
 VERSION=0.0.1
 BASE=$(ORG)/$(NAME)
 BUILD=$(VERSION).1
@@ -13,7 +14,7 @@ usage:
 	@echo "usage: make [docker]"
 
 docker d:
-	@echo "> make (docker) [build|run|kill|image|clean]"
+	@echo "> make (docker) [build|run|kill|log|ps|push|image|clean]"
 
 docker-build db:
 	docker build -t $(NAME) .
@@ -23,6 +24,12 @@ docker-run dr:
 
 docker-kill dk:
 	docker stop $(NAME) && docker rm $(NAME)
+
+docker-push du:
+	docker push $(IMAGE)
+
+dockerr-log dl:
+	docker logs $(NAME)
 
 docker-image di:
 	docker images $(BASE)
