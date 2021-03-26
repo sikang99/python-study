@@ -9,12 +9,16 @@ BASE=$(ORG)/$(NAME)
 BUILD=$(VERSION).1
 DIST=ubuntu-18.04
 IMAGE=$(BASE):$(BUILD)-$(DIST)
-
+#------------------------------------------------------------------------
 usage:
-	@echo "usage: make [docker]"
+	@echo "usage: make [docker|compose]"
 
+#------------------------------------------------------------------------
 docker d:
-	@echo "> make (docker) [build|run|kill|log|ps|push|image|clean]"
+	@echo "> make (docker) [edit|build|run|kill|log|ps|push|image|clean]"
+
+docker-edit de:
+	vi Dockerfile
 
 docker-build db:
 	docker build -t $(NAME) .
@@ -40,3 +44,17 @@ docker-clean dc:
 docker-ps dp:
 	docker ps -a
 
+#------------------------------------------------------------------------
+compose c:
+	@echo "> make (compose) [edit|run|kill|log|ps]"
+
+compose-ed ce:
+	vi docker-compose.yml
+
+compose-run cr:
+	docker-compose up -d
+
+compose-kill ck:
+	docker-compose down 
+
+#------------------------------------------------------------------------
