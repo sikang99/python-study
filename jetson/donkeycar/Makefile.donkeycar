@@ -1,5 +1,5 @@
 #
-# Makefile for dockering donkey car
+# Makefile for dockering donkeycar
 #
 ORG=cobot1
 NAME=donkeycar
@@ -56,5 +56,11 @@ compose-run cr:
 
 compose-kill ck:
 	docker-compose down 
+
+compose-log cl:
+	docker-compose logs -f
+
+compose-ps cp:
+	docker-compose ps
 
 #------------------------------------------------------------------------
