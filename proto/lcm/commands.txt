@@ -1,7 +1,7 @@
 
 
 
-
+sudo apt search liblcm
 sudo apt install libcm-dev python-liblcm
 
 
