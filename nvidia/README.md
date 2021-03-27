@@ -21,4 +21,7 @@
 - 2020 [A Survey of Accelerator Architectures for Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S2095809919306356)
 - 2020 [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993.pdf)
 - 2018 [Sugar: Secure GPU Acceleration in Web Browsers](https://www.ics.uci.edu/~ardalan/papers/Yao_ASPLOS18.pdf)
+- 2014 [GASPP: A GPU-Accelerated Stateful Packet Processing Framework](https://www3.cs.stonybrook.edu/~mikepo/papers/gaspp.atc14.pdf)
+
+
 
