@@ -13,7 +13,8 @@
 
 
 
-### Articles (Korean)
+### Articles (Korean, Jaoanese)
+- 2020/06/14 [RSocket RPCをJavaScriptで試す](https://kamoqq.info/post/rsocket-rpc-javascript/)
 - 2019/10/04 [RSocket in Spring Framewor](https://brunch.co.kr/@springboot/271)
 
 
@@ -26,6 +27,8 @@
 
 ### Slides
 - 2020 [RSocket + Sprint: Introduction](https://assets.ctfassets.net/oxjq45e8ilak/3PHFdKoVi32BKPyotslxCY/f279476d6b39dd111e990439035d4fb7/Mark_Heckler_RSocket__Spring_A_full_throttle_introduction_2020_11_25_12_36_58.pdf)
+- 2019 [RSocket徹底入門](https://docs.google.com/presentation/d/1ygSM85-RQ3NZjCg6RaZ52mGzxbWiItVwzlCpr1vaWBw/edit)
+
 
 
 ### Open Source
