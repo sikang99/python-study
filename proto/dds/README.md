@@ -6,6 +6,7 @@
 - 2020/11/26 [RustDDS – Data Distribution Service implemented in Rust](https://www.atostek.com/rustdds-data-distribution-service-implemented-in-rust/)
 - 2020/11/01 [CycloneDDS roadmap - multi-network, async, content filtering, QL1, et al](https://discourse.ros.org/t/cyclonedds-roadmap-multi-network-async-content-filtering-ql1-et-al/17561)
 - 2020/06/10 [ROS 2 Foxy Fitzroy: Setting a new standard for production robot development](https://aws.amazon.com/blogs/robotics/ros2-foxy-fitzroy-robot-development/)
+- [Edge Robotics with Eclipse zenoh and ROS 2](https://www.eclipse.org/community/eclipse_newsletter/2020/september/1.php)
 
 
 ### Information
