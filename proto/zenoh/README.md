@@ -12,6 +12,7 @@
 ### Information
 - [zenoh](http://zenoh.io/)
 - [zenoh-protocol](https://crates.io/crates/zenoh-protocol)
+- OpenBase: [izenoh-protocol](https://openbase.com/rust/zenoh-protocol)
 
 
 ### Slides
@@ -23,4 +24,7 @@
 - [atolab/zenoh](https://github.com/atolab/zenoh) - the zero network protocol
 - [atolab/zhe](https://github.com/atolab/zhe) - Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., publish-subscribe networking
 
+
+### Docker Hub
+- [eclipse/zenoh](https://hub.docker.com/r/eclipse/zenoh)
 
