@@ -34,3 +34,6 @@
 - [lightbend/RSocketCloudflow](https://github.com/lightbend/RSocketCloudflow) - RSocket Ingress for cloudflow
 
 
+### Docker Hubs
+- [bitnami/prometheus-rsocket-proxy/](https://hub.docker.com/r/bitnami/prometheus-rsocket-proxy/)
+
