@@ -10,6 +10,7 @@
 - Wikipedia: [Data Distribution Service](https://en.wikipedia.org/wiki/Data_Distribution_Service)
 - DIDO Wiki: [OMG: Data Distribution Service (DDS)](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.b_stds:tech:omg:dds)
 - [Data Distribution Service (DDS)](https://www.programmersought.com/article/68842945385/)
+- [eProsima Fast DDS Documentation](https://fast-dds.docs.eprosima.com/en/latest/#)
 
 
 ### Open Sourrce
@@ -20,7 +21,7 @@
 
 ### Papers
 - 2020 [integrating Data Distribution Service DDS in an existing architecture](https://www.diva-portal.org/smash/get/diva2:1513079/FULLTEXT01.pdf)
-
+- 2019 [Multi-Level Time-Sensitive Networking (TSN) Using the Data Distribution Services (DDS) for Synchronized Three-Phase Measurement Data Transfer](https://ieeexplore.ieee.org/document/8823854)
 
 
 
