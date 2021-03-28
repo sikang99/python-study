@@ -1,4 +1,4 @@
-## DDS
+## DDS : Data Distribution Service
 
 
 ### Articles
