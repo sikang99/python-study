@@ -27,6 +27,16 @@ dt3:
 	curl -X PUT -H 'content-type:application/properties' -d 'path_expr=/demo/example/**' \
 		http://localhost:8000/@/router/local/plugin/storages/backend/memory/storage/my-storage
 
+dt4:
+	curl -X PUT -d 'Hello World!' http://localhost:8000/demo/example/test
+
+dt5:
+	curl http://localhost:8000/demo/example/test
+
+dt6:
+	curl -X DELETE http://localhost:8000/demo/example/test
+
+
 git-update gu:
 	cd ../..; make gu
 
