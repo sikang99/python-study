@@ -14,6 +14,8 @@
 - [zenoh](http://zenoh.io/)
 - [zenoh-protocol](https://crates.io/crates/zenoh-protocol)
 - OpenBase: [izenoh-protocol](https://openbase.com/rust/zenoh-protocol)
+- Awesome Open Source:[Zenoh](https://awesomeopensource.com/project/eclipse-zenoh/zenoh)
+- [zenoh-c](https://zenoh-c.readthedocs.io/en/latest/)
 
 
 ### Slides
@@ -21,7 +23,9 @@
 
 
 ### Open Source
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
+- [eclipse-zenoh](https://github.com/eclipse-zenoh)  
+    - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
+    - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [atolab/zenoh](https://github.com/atolab/zenoh) - the zero network protocol
 - [atolab/zhe](https://github.com/atolab/zhe) - Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., publish-subscribe networking
 
