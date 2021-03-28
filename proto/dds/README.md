@@ -11,6 +11,7 @@
 - DIDO Wiki: [OMG: Data Distribution Service (DDS)](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.b_stds:tech:omg:dds)
 - [Data Distribution Service (DDS)](https://www.programmersought.com/article/68842945385/)
 - [eProsima Fast DDS Documentation](https://fast-dds.docs.eprosima.com/en/latest/#)
+- [Advantages of DDS protocol | disadvantages of DDS protocol](https://www.rfwireless-world.com/Terminology/Advantages-and-Disadvantages-of-DDS-protocol.html)
 
 
 ### Open Sourrce
