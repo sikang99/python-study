@@ -1,0 +1,7 @@
+
+
+# To avoid ^M error in configure
+sudo apt install dos2unix
+dos2unix ./configure
+
+
