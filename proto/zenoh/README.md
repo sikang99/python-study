@@ -24,6 +24,10 @@
 ### Slides
 - 2019 [zenoh -- the ZEro Network OverHead protocol](https://www.slideshare.net/Angelo.Corsaro/zenoh-the-zero-network-overhead-protocol)
 
+### Reports
+- 2020 [5G-DIVE Innovations Specification](https://5g-dive.eu/wp-content/uploads/2021/01/D2.1-5G-DIVE-innovations-specification_v1.0_compressed.pdf)
+
+
 
 ### Open Source
 - [eclipse-zenoh](https://github.com/eclipse-zenoh)  
