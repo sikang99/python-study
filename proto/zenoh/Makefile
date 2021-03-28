@@ -7,6 +7,9 @@ IMAGE=eclipse/$(NAME):latest
 usage:
 	@echo "usage: make (docker) for $(NAME)"
 
+docker d:
+	@echo "> make (docker) [run|kill|ps|test]"
+
 docker-run dr:
 	docker run -d --name=$(NAME) --init -p 7447:7447/tcp -p 7447:7447/udp -p 8000:8000/tcp $(IMAGE)
 
