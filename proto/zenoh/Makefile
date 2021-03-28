@@ -18,8 +18,14 @@ docker-ps dp:
 
 docker-test dt:
 	curl http://localhost:8000/@/router/local
+
+dt2:
 	curl 'http://localhost:8000/@/router/local/**/backend/*'
-	curl 'http://localhost:8000/@/router/local/**/storage/*'
+	curl 'http://localhost:8000/@/router/local/**/storage/*
+	'
+dt3:
+	curl -X PUT -H 'content-type:application/properties' -d 'path_expr=/demo/example/**' \
+		http://localhost:8000/@/router/local/plugin/storages/backend/memory/storage/my-storage
 
 git-update gu:
 	cd ../..; make gu
