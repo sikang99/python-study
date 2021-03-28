@@ -21,6 +21,7 @@
 - [Stereolabs](https://stereolabs.com)
     - [stereolabs](https://github.com/stereolabs)
 - [ros: Docker Official Images](https://hub.docker.com/_/ros?tab=tags)
+- [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/index.html)
 
 
 ### Open Source
