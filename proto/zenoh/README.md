@@ -12,6 +12,7 @@
 
 
 ### Open Source
-- [https://github.com/eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
+- [atolab/zenoh](https://github.com/atolab/zenoh) - the zero network protocol
 
 
