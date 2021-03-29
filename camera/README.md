@@ -3,6 +3,7 @@
 
 ### Articles
 - 2020/09/11 [Integrating libcamera into PipeWire](https://www.collabora.com/news-and-blog/blog/2020/09/11/integrating-libcamera-into-pipewire/)
+- 2020/05/11 [A More Open Raspbery Pi Camera Stack with Libcamera](https://hackaday.com/2020/05/11/a-more-open-raspberry-pi-camera-stack-with-libcamera/)
 
 
 ### Information
@@ -12,6 +13,7 @@
 
 
 ### Open Source
+- [inuxtv/libcamera](https://git.linuxtv.org/libcamera.git/)
 - [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Security camera with Raspberry pi and NVIDIA Jetson platforms
 - [chromium/third_party/libcamera/](https://chromium.googlesource.com/chromiumos/third_party/libcamera/)
 
