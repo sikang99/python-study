@@ -19,6 +19,8 @@
 - [Embedded Camera API Standards Industry Exploratory Group Overview](https://www.khronos.org/embedded-camera)
 - [OpenKCam Overview](https://www.khronos.org/openkcam)
 - [GenICam](https://www.emva.org/standards-technology/genicam/)
+- [Porting The Ov13850 Camera](https://sebastianfricke.me/porting-the-ov13850-camera/)
+
 
 
 ### Slides

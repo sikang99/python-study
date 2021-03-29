@@ -23,6 +23,7 @@
 - [ros: Docker Official Images](https://hub.docker.com/_/ros?tab=tags)
 - [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/index.html)
 - [ROS - Robot Operating System](http://xed.ch/h/ros.html)
+- [Orbec SDK](https://orbbec3d.com/develop/)
 
 
 ### Open Source
@@ -35,6 +36,7 @@
 - [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
 - [fetchrobotics/fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo)
 - [graspit-simulator/graspit_commander](https://github.com/graspit-simulator/graspit_commander)
+- [orbbec/ros_astra_camera](https://github.com/orbbec/ros_astra_camera)
 
 
 ### Papers
