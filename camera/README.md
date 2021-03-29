@@ -9,6 +9,7 @@
 - 2020/09/11 [Integrating libcamera into PipeWire](https://www.collabora.com/news-and-blog/blog/2020/09/11/integrating-libcamera-into-pipewire/)
 - 2020/06/01 [Raspberry Pi / Libcamera / OS Buster / IMX477 HiQ Camera](https://forum.openframeworks.cc/t/raspberry-pi-libcamera-os-buster-imx477-hiq-camera/35803)
 - 2020/05/11 [A More Open Raspbery Pi Camera Stack with Libcamera](https://hackaday.com/2020/05/11/a-more-open-raspberry-pi-camera-stack-with-libcamera/)
+- 2020/04/30 [How to access the Raspberry Pi Camera in Docker](https://www.losant.com/blog/how-to-access-the-raspberry-pi-camera-in-docker)
 
 
 ### Information
@@ -18,6 +19,7 @@
 
 
 ### Slides
+- 2020 [Libcamera: Making Complex cameras Easy!](https://conf.linuxappsummit.org/event/1/contributions/6/attachments/1/2/Libcamera-umang-jain.pdf)
 - 2019 [libcamera](https://static.sched.com/hosted_files/osseu19/21/libcamera.pdf)
 
 
