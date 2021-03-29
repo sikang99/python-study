@@ -16,6 +16,9 @@
 - [libcamera](https://libcamera.org/) 
 - [pipewire](https://pipewire.org/) - multimedia processing
     - PipeWire is a project that aims to greatly improve handling of audio and video under Linux.
+- [Embedded Camera API Standards Industry Exploratory Group Overview](https://www.khronos.org/embedded-camera)
+- [OpenKCam Overview](https://www.khronos.org/openkcam)
+- [GenICam](https://www.emva.org/standards-technology/genicam/)
 
 
 ### Slides
