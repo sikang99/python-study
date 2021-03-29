@@ -25,4 +25,5 @@
 - [inuxtv/libcamera](https://git.linuxtv.org/libcamera.git/)
 - [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Security camera with Raspberry pi and NVIDIA Jetson platforms
 - [chromium/third_party/libcamera/](https://chromium.googlesource.com/chromiumos/third_party/libcamera/)
+- [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) 
 
