@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/11/06 [Accelerating libcamera Qcam format conversion using OpenGL shaders](https://www.linaro.org/blog/accelerating-libcamera-qcam-format-conversion-using-opengl-shaders/)
 - 2020/09/11 [Integrating libcamera into PipeWire](https://www.collabora.com/news-and-blog/blog/2020/09/11/integrating-libcamera-into-pipewire/)
 - 2020/05/11 [A More Open Raspbery Pi Camera Stack with Libcamera](https://hackaday.com/2020/05/11/a-more-open-raspberry-pi-camera-stack-with-libcamera/)
 
