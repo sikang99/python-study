@@ -2,7 +2,7 @@
 
 
 ### Articles
-
+- 2020/09/11 [Integrating libcamera into PipeWire](https://www.collabora.com/news-and-blog/blog/2020/09/11/integrating-libcamera-into-pipewire/)
 
 
 ### Information
