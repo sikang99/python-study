@@ -13,7 +13,8 @@
 - [Single Board Computers](https://www.explainingcomputers.com/sbc.html)
 - [Best Single Board Computer for 2021 – Powerful Processors for Every Task!](https://www.onesdr.com/best-single-board-computer/)
 - [Qualcomm Robotics RB5 Development Kit](https://developer.qualcomm.com/qualcomm-robotics-rb5-kit)
-
+- [DFRobotice](https://www.dfrobot.com/product-1729.html)
+    - [LattePanda Alpha 864s (Win10 Pro activated) – Tiny Ultimate Windows/Linux Device](https://www.dfrobot.com/product-1729.html)
 
 
 ### Open Source
