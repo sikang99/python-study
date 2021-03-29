@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/02/11 [libcamera and libcamera-apps installation for Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/libcamera/README.md)
 - 2021/01/23 [using standard libcamera for AWB AGC and AEC control with imx477 HQ camera](https://www.arducam.com/forums/topic/using-standard-libcamera-for-awb-agc-and-aec-control-with-imx477-hq-camera/)
 - 2020/11/06 [Accelerating libcamera Qcam format conversion using OpenGL shaders](https://www.linaro.org/blog/accelerating-libcamera-qcam-format-conversion-using-opengl-shaders/)
 - 2020/11/05 [Libcamera Is Becoming An Increasingly Viable Open-Source Camera Support Implementation](https://www.phoronix.com/scan.php?page=news_item&px=Libcamera-ELC-E-2019)
