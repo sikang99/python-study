@@ -7,6 +7,8 @@
 
 ### Information
 - [libcamera](https://libcamera.org/) 
+- [pipewire](https://pipewire.org/) - multimedia processing
+    - PipeWire is a project that aims to greatly improve handling of audio and video under Linux.
 
 
 ### Open Source
