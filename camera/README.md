@@ -33,4 +33,5 @@
 - [dataplayer12/homesecurity](https://github.com/dataplayer12/homesecurity) - Security camera with Raspberry pi and NVIDIA Jetson platforms
 - [chromium/third_party/libcamera/](https://chromium.googlesource.com/chromiumos/third_party/libcamera/)
 - [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) 
+- [teh-cmc/go-sfml](https://github.com/teh-cmc/go-sfml) - Go bindings for SFML
 
