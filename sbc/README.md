@@ -27,9 +27,10 @@
 
 
 ### Carrier Boards
+- 2020/12/00 [Jetson Mate Carrier Board for NVIDIA Jetson Family of Modules](https://www.hackster.io/news/jetson-mate-carrier-board-for-nvidia-jetson-family-of-modules-fe9a35c92b11)
 - 2020/07/20 [Carrier board engineered for NVIDIA Jetson NX Module](https://www.vision-systems.com/boards-software/article/14179907/designcore-carrier-board-for-the-nvidia-jetson-nx-module-released)
 - [Custom NVIDIA® Jetson Solutions](https://connecttech.com/services/custom-nvidia-jetson/)
-
+- AUVIDEA: [Jetson](https://auvidea.eu/product-category/jetson/)
 
 
 
