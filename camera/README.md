@@ -20,7 +20,7 @@
 - [OpenKCam Overview](https://www.khronos.org/openkcam)
 - [GenICam](https://www.emva.org/standards-technology/genicam/)
 - [Porting The Ov13850 Camera](https://sebastianfricke.me/porting-the-ov13850-camera/)
-
+- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library
 
 
 ### Slides
