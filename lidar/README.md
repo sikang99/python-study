@@ -10,6 +10,9 @@
 ### Products
 - [ML-2: Fish-eye Solid-state LiDAR for Commercial Vehicles](https://www.ces.tech/Innovation-Awards/Honorees/2021/Honorees/M/ML-2-Fish-eye-Solid-state-LiDAR-for-Commercial-Ve.aspx)
 - [Helius Smart Lidar System](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/H/Helius-Smart-Lidar-System.aspx)
+- [Spectrum-Scan™: defining a new category of LiDAR](https://www.baraja.com/technology/)
+
+
 
 
 
