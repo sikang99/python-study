@@ -1,0 +1,60 @@
+#
+# Makefile for nanosaur jetson robot
+#
+ORG=cobot1
+NAME=nanosaur
+VERSION=0.0.0
+TAG=$(VERSION).1
+IMAGE=$(ORG)/$(NAME):$(TAG)
+##-------------------------------------------------------------------------
+usage:
+	@echo "usage: make [docker|compose] for $(IMAGE)"
+
+##-------------------------------------------------------------------------
+docker d:
+	@echo "> make (docker) [build|run|kill|ps|push]"
+
+docker-edit de:
+	vi Dockerfile
+
+docker-build db:
+	docker build -t $(IMAGE) .
+
+docker-run dr:
+	docker run --runtime nvidia -it --rm \
+		--network host --device /dev/i2c-1 -v /tmp/argus_socket:/tmp/argus_socket -v $(PWD)/nanosaur:/opt/ros_ws/src/nanosaur \
+		--name=$(NAME) $(IMAGE)
+
+docker-kill dk:
+	docker stop $(NAME) && docker rm $(NAME)
+
+docker-ps dp:
+	docker ps -a
+
+docker-log dl:
+	docker logs -f
+
+docker-push du:
+	docker push $(IMAGE)
+
+##-------------------------------------------------------------------------
+compose c:
+	@echo "> make (compose) [run|kill|ps]"
+
+compose-edit ce:
+	vi docker-compose.yml
+
+compose-run cr:
+	docker-compose up -d
+
+compose-kill ck:
+	docker-compose down
+
+compose-log cl:
+	docker-compose logs -f
+
+compose-ps cp:
+	docker-compose ps
+
+##-------------------------------------------------------------------------
+
