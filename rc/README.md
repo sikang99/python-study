@@ -11,6 +11,7 @@
 ### Information
 - [Self Driving RC Car](https://ori.codes/) - Master Thesis
 - [Build a Self-Driving RC Car using Raspberry Pi and Machine Learning using Google Colab](https://techwithsach.com/build-a-self-driving-rc-car-using-raspberry-pi-and-machine-learning-using-google-colab/)
+- [**Open source software for autonomous cars**](https://diyrobocars.com/software/)
 
 
 ### Open Source`
@@ -20,3 +21,4 @@
 ### Papers
 - 2020 [Building Self-Driving RC Car]()
 - 2020 [Optimizing Deep-Neural-Network-Driven Autonomous Race Car Using Image Scaling](https://www.shs-conferences.org/articles/shsconf/pdf/2020/05/shsconf_etltc2020_04002.pdf)
+- 2020 [Learning to Drive (L2D) as a Low-Cost Benchmark for Real-World Reinforcement Learning](https://arxiv.org/pdf/2008.00715.pdf)
