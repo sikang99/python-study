@@ -16,6 +16,7 @@
 
 ### Open Source`
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car)
+- [rnanosaur/nanosaur](https://github.com/rnanosaur/nanosaur) - NanoSaur is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
 
 
 ### Papers
