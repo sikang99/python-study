@@ -22,3 +22,5 @@
 - 2020 [Building Self-Driving RC Car]()
 - 2020 [Optimizing Deep-Neural-Network-Driven Autonomous Race Car Using Image Scaling](https://www.shs-conferences.org/articles/shsconf/pdf/2020/05/shsconf_etltc2020_04002.pdf)
 - 2020 [Learning to Drive (L2D) as a Low-Cost Benchmark for Real-World Reinforcement Learning](https://arxiv.org/pdf/2008.00715.pdf)
+- 2020 [Go-CHART: A miniature remotely accessible self-driving car robot](http://ras.papercept.net/images/temp/IROS/files/2168.pdf)
+
