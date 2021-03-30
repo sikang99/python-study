@@ -26,6 +26,12 @@
 - [NVDLA](http://nvdla.org/)
 
 
+### Carrier Boards
+- 2020/07/20 [Carrier board engineered for NVIDIA Jetson NX Module](https://www.vision-systems.com/boards-software/article/14179907/designcore-carrier-board-for-the-nvidia-jetson-nx-module-released)
+
+
+
+
 ### Open Source
 - [nvdla](https://github.com/nvdla) - NVDLA Open Source Project
 
