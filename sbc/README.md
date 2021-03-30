@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/03/18 [10 Best Raspberry Pi Alternatives In 2021](https://analyticsindiamag.com/10-best-raspberry-pi-alternatives-in-2021/)
 - 2021/01/31 [Best Single Board Computers for AI and Deep Learning Projects](https://itsfoss.com/best-sbc-for-ai/)
 - 2021/01/14 [BeagleV Powerful, Open-Hardware RISC-V Linux SBC Targets AI Applications](https://robu.in/beaglev-powerful-open-hardware-risc-v-linux-sbc-targets-ai-applications/)
 - 2020/06/17 [Qualcomm Announces RB5 Robotics Platform - A Powerful SBC](https://www.anandtech.com/show/15856/qualcomm-announces-rb5-robotics-platform-a-powerful-sbc)
