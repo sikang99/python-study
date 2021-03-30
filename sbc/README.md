@@ -1,6 +1,10 @@
 ## SBC : Single Board Computer 
 
 
+### Terminoloy
+- SMARC (Smart Mobility ARChitecture)
+
+
 ### Articles
 - 2021/03/18 [10 Best Raspberry Pi Alternatives In 2021](https://analyticsindiamag.com/10-best-raspberry-pi-alternatives-in-2021/)
 - 2021/01/31 [Best Single Board Computers for AI and Deep Learning Projects](https://itsfoss.com/best-sbc-for-ai/)
@@ -17,6 +21,7 @@
 - [Qualcomm Robotics RB5 Development Kit](https://developer.qualcomm.com/qualcomm-robotics-rb5-kit)
 - [DFRobotice](https://www.dfrobot.com/product-1729.html)
     - [LattePanda Alpha 864s (Win10 Pro activated) – Tiny Ultimate Windows/Linux Device](https://www.dfrobot.com/product-1729.html)
+- [Embedded Computing Solutions: NVIDIA Jetson, COM Express, SMARC, GPS/GNSS & Ethernet Switches](https://www.unmannedsystemstechnology.com/company/connect-tech-inc/)
 - Linux Gizmos: [Boards](http://linuxgizmos.com/category/boards/)
 - [NVDLA](http://nvdla.org/)
 
