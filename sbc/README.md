@@ -5,6 +5,7 @@
 ### Articles
 - 2021/01/31 [Best Single Board Computers for AI and Deep Learning Projects](https://itsfoss.com/best-sbc-for-ai/)
 - 2020/06/17 [Qualcomm Announces RB5 Robotics Platform - A Powerful SBC](https://www.anandtech.com/show/15856/qualcomm-announces-rb5-robotics-platform-a-powerful-sbc)
+- 2020/06/09 [Robot controller and SBC run Ubuntu and ROS 2 on Coffee Lake CPUs](http://linuxgizmos.com/robot-controller-and-sbc-run-ubuntu-and-ros-2-on-coffee-lake-cpus/)
 - 2020/06/10 [ADLINK TEAMS WITH INTEL TO LAUNCH ROSCUBE-I ROS 2 CONTROLLER TO REALIZE AI ROBOTICS AT THE EDGE](https://www.electronics-lab.com/adlink-teams-intel-launch-roscube-ros-2-controller-realize-ai-robotics-edge/)
 
 
