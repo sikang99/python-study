@@ -14,8 +14,9 @@
 
 
 ### Open Source`
-
+- [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car)
 
 
 ### Papers
 - 2020 [Building Self-Driving RC Car]()
+- 2020 [Optimizing Deep-Neural-Network-Driven Autonomous Race Car Using Image Scaling](https://www.shs-conferences.org/articles/shsconf/pdf/2020/05/shsconf_etltc2020_04002.pdf)
