@@ -36,7 +36,7 @@
 - [libuvc](https://ken.tossell.net/libuvc/doc/index.html)
 - [IMX219-83 Stereo Camera](https://www.waveshare.com/wiki/IMX219-83_Stereo_Camera)
 - [Jetson/Cameras](https://elinux.org/Jetson/Cameras)
-
+- D3 Engineering: [NVIDIA® Jetson](https://www.d3engineering.com/designcore-platforms/nvidia-jetson/)
 
 
 ### Open Source
