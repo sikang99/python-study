@@ -34,6 +34,9 @@
 - [libcamera](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
     - [libcamera and libcamera-apps installation for Raspberry Pi](https://github.com/raspberrypi/documentation/tree/master/linux/software/libcamera)
 - [libuvc](https://ken.tossell.net/libuvc/doc/index.html)
+- [IMX219-83 Stereo Camera](https://www.waveshare.com/wiki/IMX219-83_Stereo_Camera)
+- [Jetson/Cameras](https://elinux.org/Jetson/Cameras)
+
 
 
 ### Open Source
@@ -44,8 +47,7 @@
     - [ricohapi/libuvc-theta](https://github.com/ricohapi/libuvc-theta) - a cross-platform library for USB video devices
     - [ricohapi/libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) 
 - [ArduCAM/MIPI_Camera](https://github.com/ArduCAM/MIPI_Camera) 
-- [IMX219-83 Stereo Camera](https://www.waveshare.com/wiki/IMX219-83_Stereo_Camera)
-
+- [project/nanocamera](https://pypi.org/project/nanocamera/)
 
 
 ### Tips
