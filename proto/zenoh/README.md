@@ -8,6 +8,7 @@
 
 ### Articles
 - 2021/03/21 [Minimizing Discovery Overhead in ROS2](http://zenoh.io/blog/2021-03-23-discovery/)
+- 2020/11/18 [ROS Rust WG Meeting: 2020-11-18](https://discourse.ros.org/t/ros-rust-wg-meeting-2020-11-18/17313) - Zenoh
 - 2020/09/24 [Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems](Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems)
     - Zenoh, Fog05, CycloneDDS
 - 2020/06/05 [the zero network protocol](https://laptrinhx.com/the-zero-network-protocol-3056543561/)
@@ -37,6 +38,7 @@
 - [eclipse-zenoh](https://github.com/eclipse-zenoh)  
     - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
     - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
+    - [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - A zenoh plug-in that allows to transparently route DDS data
 - [atolab/zenoh](https://github.com/atolab/zenoh) - the zero network protocol
 - [atolab/zhe](https://github.com/atolab/zhe) - Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., publish-subscribe networking
 
