@@ -33,7 +33,6 @@
 - 2020 [fog?5: Unifying the computing, networking and storage fabrics end-to-end](https://www.5gcity.eu/wp-content/uploads/2020/05/fog05_Corsaro_Baldoni.pdf)
 
 
-
 ### Open Source
 - [eclipse-zenoh](https://github.com/eclipse-zenoh)  
     - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - 
@@ -41,6 +40,7 @@
     - [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - A zenoh plug-in that allows to transparently route DDS data
 - [atolab/zenoh](https://github.com/atolab/zenoh) - the zero network protocol
 - [atolab/zhe](https://github.com/atolab/zhe) - Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., publish-subscribe networking
+- [atolab/cdds-rust](https://github.com/atolab/cdds-rust) - Rust API for Cyclone DDS
 
 
 ### Docker Hub
