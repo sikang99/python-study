@@ -4,6 +4,7 @@
 
 
 ## Articles
+- 2021/03/31 [RP2040 Microcontroller Easily Fits Into the M.2 Form Factor](https://www.hackster.io/news/rp2040-microcontroller-easily-fits-into-the-m-2-form-factor-0e946005bb7a)
 - 2021/03/31 [Piunora has the guts of a Raspberry Pi 4 with Arduino form factor, M.2 PCIe socket (Crowdfunding)](https://www.cnx-software.com/2021/03/31/piunora-has-the-guts-of-a-raspberry-pi-4-with-arduino-form-factor-pcie-socket/)
 - 2021/03/16 [Raspberry Pi + Zephyr RTOS](https://www.zephyrproject.org/raspberry-pi-zephyr-rtos/)
 - 2020/11/23 [TensorFlow 2 on Raspberry Pi](https://towardsdatascience.com/3-ways-to-install-tensorflow-2-on-raspberry-pi-fe1fa2da9104)
@@ -17,6 +18,7 @@
 - [Raspberry Pi Camera Algorithm and Tuning Guide](https://www.raspberrypi.org/documentation/linux/software/libcamera/rpi_SOFT_libcamera_1p0.pdf)
 - Picamera: [release-1.13](https://picamera.readthedocs.io/en/release-010.13/index.html)
 - [Raspberry Pi / Libcamera / OS Buster / IMX477 HiQ Camera](https://forum.openframeworks.cc/t/raspberry-pi-libcamera-os-buster-imx477-hiq-camera/35803)
+- [PiTray mini for Raspberry Pi Compute Module 4](https://www.dfrobot.com/product-2196.html)
 
 
 ### Slides
