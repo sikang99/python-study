@@ -7,6 +7,7 @@
 > Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., publish-subscribe networking
 
 ### Articles
+- 2021/03/21 [Minimizing Discovery Overhead in ROS2](http://zenoh.io/blog/2021-03-23-discovery/)
 - 2020/09/24 [Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems](Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems)
     - Zenoh, Fog05, CycloneDDS
 - 2020/06/05 [the zero network protocol](https://laptrinhx.com/the-zero-network-protocol-3056543561/)
