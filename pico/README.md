@@ -12,6 +12,7 @@
 
 ### Information
 - [Tiny 2040](https://shop.pimoroni.com/products/tiny-2040)
+- [Arducam Pico4ML TinyML Dev Kit](https://www.uctronics.com/raspberry-pi-pico/-rp2040-based-arducam-pico4ml-dev-board-for-machine-vision.html)
 
 
 ### Open Source
