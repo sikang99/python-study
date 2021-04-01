@@ -16,6 +16,7 @@
 - [MORPH : Modular Open Robotics Platform for Hackers](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers)
 - [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries/)
 - [Southwest Research Institute Robotics](https://www.swri.org/industries/industrial-robotics-automation)
+- [The Robot Report](https://www.therobotreport.com/)
 
 
 ### Vendors
