@@ -14,6 +14,7 @@
 - [Robotics Tomorrow](https://www.roboticstomorrow.com/)
 - [MORPH : Modular Open Robotics Platform for Hackers](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers)
 - [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries/)
+- [Southwest Research Institute Robotics](https://www.swri.org/industries/industrial-robotics-automation)
 
 
 ### Vendors
@@ -23,6 +24,8 @@
 
 ### Open Source
 - [msadowski/awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics)
+- [swri-robotics](https://github.com/swri-robotics)
+
 
 
 ### Papers
