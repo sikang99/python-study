@@ -11,6 +11,7 @@
 - 2020/11/18 [ROS Rust WG Meeting: 2020-11-18](https://discourse.ros.org/t/ros-rust-wg-meeting-2020-11-18/17313) - Zenoh
 - 2020/09/24 [Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems](Joint Beyond 5G Research Initiative focuses on future mobile telecommunications systems)
     - Zenoh, Fog05, CycloneDDS
+- 2020/07/28 [Edge Robotics with Eclipse fog05](https://fog05.io/blog/2020-07-ros2/)
 - 2020/06/05 [the zero network protocol](https://laptrinhx.com/the-zero-network-protocol-3056543561/)
 - 2018/03/23 [XRCE is dead. Long Live zenoh!](https://www.linkedin.com/pulse/xrce-dead-long-live-zenoh-angelo-corsaro)
 - 2017/11/01 [https://hub.docker.com/r/eclipse/zenoh](https://discourse.ros.org/t/zenoh-zero-network-overhead-protocol/3148)
