@@ -26,6 +26,8 @@
 
 
 ### Slides
+- 2020 [Eclipse Edge Native](https://www.ngiot.eu/wp-content/uploads/sites/26/2020/08/04-2020.10.20-EU-IoT-Edge-Angelo-Corsaro.pdf)
+- 2020 [Roadmap Update: Ignition & ROS 2](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5fa38f7ec53bc851e56f5663/1604554634088/1_12+Marco_OpenRobotics.pdf)
 - 2019 [zenoh -- the ZEro Network OverHead protocol](https://www.slideshare.net/Angelo.Corsaro/zenoh-the-zero-network-overhead-protocol)
 
 ### Reports
