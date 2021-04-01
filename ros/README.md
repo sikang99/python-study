@@ -40,6 +40,7 @@
 - [fetchrobotics/fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo)
 - [graspit-simulator/graspit_commander](https://github.com/graspit-simulator/graspit_commander)
 - [orbbec/ros_astra_camera](https://github.com/orbbec/ros_astra_camera)
+- [ahonena/tuni-m12](https://github.com/ahonena/tuni-m12)
 
 
 ### Papers
