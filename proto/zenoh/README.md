@@ -24,6 +24,7 @@
 - Awesome Open Source:[Zenoh](https://awesomeopensource.com/project/eclipse-zenoh/zenoh)
 - [zenoh-c](https://zenoh-c.readthedocs.io/en/latest/)
 - [Crate zenoh_protocol](https://docs.rs/zenoh-protocol/0.5.0-beta.7/zenoh_protocol/)
+- [Eclipse fog05](https://fog05.io/) - The End-to-End Compute, Storage and Networking Virtualisation solution.
 
 
 ### Slides
