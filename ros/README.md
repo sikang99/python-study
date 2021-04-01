@@ -41,6 +41,7 @@
 - [graspit-simulator/graspit_commander](https://github.com/graspit-simulator/graspit_commander)
 - [orbbec/ros_astra_camera](https://github.com/orbbec/ros_astra_camera)
 - [ahonena/tuni-m12](https://github.com/ahonena/tuni-m12)
+- [ms-iot/ros_msft_mrtk](https://github.com/ms-iot/ros_msft_mrtk) - ROS2 bindings for the Mixed Reality Toolkit
 
 
 ### Papers
