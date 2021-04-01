@@ -3,6 +3,7 @@
 
 ### Articles
 - [Top 5 Robotics Projects on GitHub](http://www.penvon.com/b/robotics-projects-github-cm596)
+- 2020/08/05 [ADLINK field CTO describes value of edge AI, ROS 2, and faster robotics development](https://www.therobotreport.com/adlink-cto-describes-value-edge-ai-ros-2-faster-robotics-development/)
 
 
 ### Information
