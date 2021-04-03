@@ -38,6 +38,7 @@
 
 
 ### Open Source
+- [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) - The Robot Operating System Version 2.0 is awesome!
 - [**ros2**](https://github.com/ros2) - Version 2 of the Robot Operating System (ROS) software stack
     - [ros2/freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
 - [jdgalviss/jetbot-ros2](https://github.com/jdgalviss/jetbot-ros2)
