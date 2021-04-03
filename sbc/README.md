@@ -15,7 +15,6 @@
 - 2020/06/10 [ADLINK TEAMS WITH INTEL TO LAUNCH ROSCUBE-I ROS 2 CONTROLLER TO REALIZE AI ROBOTICS AT THE EDGE](https://www.electronics-lab.com/adlink-teams-intel-launch-roscube-ros-2-controller-realize-ai-robotics-edge/)
 
 
-
 ### Information
 - [Single Board Computers](https://www.explainingcomputers.com/sbc.html)
 - [Best Single Board Computer for 2021 – Powerful Processors for Every Task!](https://www.onesdr.com/best-single-board-computer/)
@@ -34,6 +33,9 @@
 - AUVIDEA: [Jetson](https://auvidea.eu/product-category/jetson/)
 
 
+### Controllers
+- [Flight Simulator](https://dofreality.com/flight-motion-simulator/)
+- [GTGear](http://www.gtgear.co.kr/)
 
 
 
