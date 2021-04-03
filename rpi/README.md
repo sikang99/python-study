@@ -10,6 +10,7 @@
 - 2020/11/23 [TensorFlow 2 on Raspberry Pi](https://towardsdatascience.com/3-ways-to-install-tensorflow-2-on-raspberry-pi-fe1fa2da9104)
 - 2020/06/29 [Pi Camera sensor 그리고 Camera Device Driver에 관하여...](https://slowbootkernelhacks.blogspot.com/2020/06/pi-camera-sensor-camera-device-driver.html)
 - 2020/05/04 [An open source camera stack for Raspberry Pi using libcamera](https://www.raspberrypi.org/blog/an-open-source-camera-stack-for-raspberry-pi-using-libcamera/)
+- 2019/07/19 [Cluster HAT Interfaces up to 4 Raspberry Pi Zero to Raspberry Pi 2/3/4 Board](https://www.cnx-software.com/2019/07/10/cluster-hat-4-raspberry-pi-zero-boards/)
 
 
 ## Information
@@ -33,6 +34,7 @@
 - [jvcleave/ofxOMXPlayer](https://github.com/jvcleave/ofxOMXPlayer)
 - [jvcleave/ofxOMXCamera](https://github.com/jvcleave/ofxOMXCamera)
 - [abelperezok/kubernetes-raspberry-pi-cluster-hat](https://github.com/abelperezok/kubernetes-raspberry-pi-cluster-hat)
+- [AKYD/clusterhat-kubernetes](https://github.com/AKYD/clusterhat-kubernetes)
 
 
 
