@@ -7,6 +7,7 @@
 
 
 ### Articles
+- 2021/01/08 [ROS Autonomous SLAM using Rapidly Exploring Random Tree (RRT)]https://towardsdatascience.com/ros-autonomous-slam-using-randomly-exploring-random-tree-rrt-37186f6e3568)
 - 2020/12/17 [PRANK: Motion Prediction based on RANKing](https://medium.com/yandex-self-driving-car/prank-motion-prediction-based-on-ranking-a6c42d4b860)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)]https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
@@ -28,6 +29,8 @@
 - [Orbec SDK](https://orbbec3d.com/develop/)
 - Intel [RealSense](https://www.intelrealsense.com/)
 - [OpenADx](https://openadx.eclipse.org/) - Open Source for Autonomous Driving
+- [ROS with Windows 10, Linux and Azure](https://microsoft.github.io/Win-RoS-Landing-Page/)
+
 
 
 ### Docker Hub
