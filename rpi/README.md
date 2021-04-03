@@ -32,5 +32,7 @@
 - [kbingham/libcamera](https://github.com/kbingham/libcamera) - libcamera - Making complex cameras easy. This is a personal fork, please use the upstream repository at git://linuxtv.org/libcamera.git
 - [jvcleave/ofxOMXPlayer](https://github.com/jvcleave/ofxOMXPlayer)
 - [jvcleave/ofxOMXCamera](https://github.com/jvcleave/ofxOMXCamera)
+- [abelperezok/kubernetes-raspberry-pi-cluster-hat](https://github.com/abelperezok/kubernetes-raspberry-pi-cluster-hat)
+
 
 
