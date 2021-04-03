@@ -53,6 +53,7 @@
 
 ### Papers
 - [Journal of KROS](http://jkros.org/) - 로봇학회 논문지
+- 2019 [RTRobMultiAxisControl: A framework for real-time multi-axis and multi-robot control](https://hal.archives-ouvertes.fr/hal-02876003/document)
 - 2019 [MuSHR: A Low-Cost, Open-Source Robotic Racecar for Education and Research](https://arxiv.org/pdf/1908.08031.pdf)
 - 2019 [A ROS2 based communication architecture for control in collaborative and intelligent automation systems](https://arxiv.org/pdf/1905.09654.pdf)
 - 2019 [OPC UA versus ROS, DDS, and MQTT: Performance Evaluation of Industry 4.0 Protocols](https://mediatum.ub.tum.de/doc/1470362/1470362.pdf)
