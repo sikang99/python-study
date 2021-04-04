@@ -10,11 +10,12 @@
 - 2021/01/08 [ROS Autonomous SLAM using Rapidly Exploring Random Tree (RRT)]https://towardsdatascience.com/ros-autonomous-slam-using-randomly-exploring-random-tree-rrt-37186f6e3568)
 - 2020/12/17 [PRANK: Motion Prediction based on RANKing](https://medium.com/yandex-self-driving-car/prank-motion-prediction-based-on-ranking-a6c42d4b860)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
-- 2020/06/08 [Diving into functioning Robot Operarting System(ROS)]https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
+- 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
 - [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
 - [Robot Operating System ROS on Jetson Platforms](https://developer.ridgerun.com/wiki/index.php?title=Robot_Operating_System_ROS_on_Jetson_Platforms)
 - [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
 - [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
+- [Ubuntu 18.04 install ROS Melodic](https://www.programmersought.com/article/766283750/)
 
 
 ### Information
