@@ -76,6 +76,12 @@
 - 2016 [Exploring the performance of ROS2](https://www.researchgate.net/publication/309128426_Exploring_the_performance_of_ROS2)
 
 
+### Slides
+- [Programming for Robotics Introduction to ROS](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2021/lec4/ROS%20Course%20Slides%20Course%204.pdf)
+
+
+
 ### Books
+- [ROS Tutorial: Robotics Operation System](https://www.uv.mx/anmarin/papers/ROS_Tutorial.pdf)
 - [ROS Robotics Projects: Build and control robots powered by the Robot](https://books.google.co.kr/books?id=ENzFDwAAQBAJ&pg=PA214&lpg=PA214&dq=jetson+nano+reality&source=bl&ots=PAf1sAl6H9&sig=ACfU3U2fWJxlzNrnnfgWL4Dvj3I_670AYg&hl=ko&sa=X&ved=2ahUKEwj70arC-_TuAhVD-WEKHYbPAY04UBDoATAGegQIDBAD#v=onepage&q=jetson%20nano%20reality&f=false)
 
