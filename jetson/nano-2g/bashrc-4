@@ -147,6 +147,12 @@ if [[ -x $HOME/coding/go/root/go ]]; then
 	echo "Golang setting: `go version`"
 fi
 
+if [[ -x $HOME/.cargo ]]; then
+	source $HOME/.cargo/env
+	export RSHOME=$HOME/.cargo
+	export PATH=$PATH:$RSHOME/bin
+	echo "Rust setting: `rustc --version`"
+fi
 
 if [[ -x $HOME/coding/jl/root/julia ]]; then
 	export JULIA_BINDIR=$HOME/coding/jl/root/julia/bin
@@ -174,6 +180,8 @@ fi
 
 ## https://github.com/JetsonHacksNano/installROS
 if [[ -x /opt/ros/melodic ]]; then
+	export ROS_MASTER_URI=http://192.168.55.100:11311
+	export ROS_HOSTNAME=192.168.55.1
 	source /opt/ros/melodic/setup.bash
 	echo "ROS setting: `rosversion -d`"
 fi
@@ -182,6 +190,14 @@ fi
 ## -- user-defined functions
 function jetson() {
 	case $1 in 
+	l4t)
+		sudo apt install -y nsight-graphics-for-l4t nsight-systems-2020.2.3 \
+		cuda-toolkit-10-2 cuda-cross-aarch64-10-2 \
+		libopencv libopencv-dev opencv-licenses libopencv-python libopencv-samples \
+		libvisionworks libvisionworks-dev libvisionworks-samples libvisionworks-sfm libvisionworks-sfm-dev \
+		libvisionworks-tracking libvisionworks-tracking-dev \
+		vpi vpi-dev vpi-samples
+		;;
 	base)
 		sudo apt install -y tree make cmake curl wget htop git tig neofetch hardinfo nmap
 		sudo apt install -y apt-utils xz-utils build-essential
@@ -194,7 +210,7 @@ function jetson() {
 		sudo apt install -y libavcodec-dev libavformat-dev libavfilter-dev libavutil-dev libavresample-dev libavdevice-dev
 		sudo apt install -y libswscale-dev libswresample-dev libpostproc-dev
 		sudo apt install -y libvpx-dev libopus-dev libxvidcore-dev libx264-dev 
-		sudo apt install -y libfaac-dev libmp3lame-dev libtheora-dev
+		sudo apt install -y libfaac-dev libmp3lame-dev libvorbis-dev libtheora-dev
 		sudo apt install -y libjpeg8-dev libjpeg-turbo8-dev libtiff-dev libpng-dev
 		sudo apt install -y libsdl2-dev	# for ffplay
 		sudo apt install -y v4l-utils guvcview
@@ -234,14 +250,15 @@ function jetson() {
 		;;
 	usermod)
 		sudo usermod -aG docker $USER
-		sudo usermod -aG video $USER
 		sudo usermod -aG dialout $USER
+		sudo usermod -aG video $USER
 		sudo usermod -aG gpio $USER
 		;;
 	pyenv)
 		curl https://pyenv.run | bash
 		pyenv install 2.7.17
 		pyenv install 3.6.9
+		pyenv install 3.9.2
 		;;
 	stats)
 		sudo -H python3 -m pip install -U jetson-stats
@@ -250,6 +267,7 @@ function jetson() {
 		pip install -U pip
 		pip install -U aioice aiortc
 		pip install -U aioquic aiohttp aiobot
+		pip install -U opencv-python nanocamera
 		;;
 	ffmpeg) # https://docs.nvidia.com/jetson/l4t/index.html
 		echo "deb https://repo.download.nvidia.com/jetson/ffmpeg main main" |  \
@@ -261,11 +279,18 @@ function jetson() {
 	camera)
 		gst-launch-1.0 nvarguscamerasrc ! nvoverlaysink
 		;;
-	csi-camera)
-		gst-launch-1.0 nvarguscamerasrc sensor_mode=0 ! \
+	csi-camera | csi)
+		gst-launch-1.0 nvarguscamerasrc sensor_id=0 ! \
 			'video/x-raw(memory:NVMM),width=1280, height=720, framerate=21/1, format=NV12' ! \
-			nvvidconv flip-method=0 ! 'video/x-raw,width=960, height=616' ! \
-			nvvidconv ! nvegltransform ! nveglglessink -e
+			nvvidconv flip-method=0 ! 'video/x-raw,width=640, height=360' ! \
+			nvvidconv ! nvegltransform ! nveglglessink -e &
+		gst-launch-1.0 nvarguscamerasrc sensor_id=1 ! \
+			'video/x-raw(memory:NVMM),width=1280, height=720, framerate=21/1, format=NV12' ! \
+			nvvidconv flip-method=0 ! 'video/x-raw,width=640, height=360' ! \
+			nvvidconv ! nvegltransform ! nveglglessink -e &
+		;;
+	csi-kill)
+		pkill gst-launch-1.0
 		;;
 	illegal-error)
 		pip3 uninstall numpy
@@ -274,6 +299,9 @@ function jetson() {
 	record)
 		pip freeze > requirements.txt 
 		more requirements.txt
+		;;
+	gdm3 | lightdm)
+		sudo dpkg-reconfigure $1
 		;;
 	clean)
 		sudo apt autoremove -y
@@ -316,11 +344,11 @@ function gover() {
 		;;
 	1.15)
 		unlink go
-		ln -s go1.15.10 go
+		ln -s go1.15.11 go
 		;;
 	1.16)
 		unlink go
-		ln -s go1.16.2 go
+		ln -s go1.16.3 go
 		;;
 	list)
 		ls -alF
@@ -467,6 +495,7 @@ function usage() {
 
 
 ## --- final setting
-pyver 3.6
+pyver 3.9
 
 
+source "$HOME/.cargo/env"

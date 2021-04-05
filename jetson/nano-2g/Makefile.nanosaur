@@ -1,60 +1,24 @@
 #
-# Makefile for nanosaur jetson robot
+# Makefile for building nanosaur
 #
-ORG=cobot1
-NAME=nanosaur
-VERSION=0.0.0
-TAG=$(VERSION).1
-IMAGE=$(ORG)/$(NAME):$(TAG)
-##-------------------------------------------------------------------------
 usage:
-	@echo "usage: make [docker|compose] for $(IMAGE)"
+	@echo "usage: make [download]"
 
-##-------------------------------------------------------------------------
-docker d:
-	@echo "> make (docker) [build|run|kill|ps|push]"
+0 open:
+	xdg-open https://github.com/rnanosaur/nanosaur &
 
-docker-edit de:
-	vi Dockerfile
+	#sudo bash nanosaur/nanosaur_bringup/scripts/install.sh
+1 install:
+	sudo apt-get install -y libffi-dev python-openssl libssl-dev
+	pip install -U docker-compose
 
-docker-build db:
-	docker build -t $(IMAGE) .
+2 download:
+	git clone https://github.com/rnanosaur/nanosaur.git
 
-docker-run dr:
-	docker run --runtime nvidia -it --rm \
-		--network host --device /dev/i2c-1 -v /tmp/argus_socket:/tmp/argus_socket -v $(PWD)/nanosaur:/opt/ros_ws/src/nanosaur \
-		--name=$(NAME) $(IMAGE)
-
-docker-kill dk:
-	docker stop $(NAME) && docker rm $(NAME)
-
-docker-ps dp:
-	docker ps -a
-
-docker-log dl:
-	docker logs -f
-
-docker-push du:
-	docker push $(IMAGE)
-
-##-------------------------------------------------------------------------
-compose c:
-	@echo "> make (compose) [run|kill|ps]"
-
-compose-edit ce:
-	vi docker-compose.yml
-
-compose-run cr:
+4 run:
+	cd nanosaur; \
 	docker-compose up -d
 
-compose-kill ck:
+5 kill:
+	cd nanosaur; \
 	docker-compose down
-
-compose-log cl:
-	docker-compose logs -f
-
-compose-ps cp:
-	docker-compose ps
-
-##-------------------------------------------------------------------------
-
