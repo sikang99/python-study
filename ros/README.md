@@ -1,9 +1,14 @@
 ## ROS (Robot Operating System)
+
+
+### Terminology
+- ADAS (Advanced Driver-Assistance Systems)
 - AHRS (Attitude Heading and Reference System)
 - BoF (Bag of Features), BoVW (Bag of Visual Words)
 - LOAM (Lidar Odometry And Mapping)
 - RRT (Rapidly-exploring Random Tree)
 - SLAM (Simultaneous Localization and Mapping)`
+- AV (Autonomous Vehicles)
 
 
 ### Articles
