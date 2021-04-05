@@ -18,6 +18,7 @@
 - [Southwest Research Institute Robotics](https://www.swri.org/industries/industrial-robotics-automation)
 - [The Robot Report](https://www.therobotreport.com/)
 - [RobMoSys: A Model-Driven Approach and Tools for Robotics Software Development](https://www.eclipse.org/community/eclipse_newsletter/2020/july/3.php)
+- [The Rrobotics Back-End](https://roboticsbackend.com/) 
 
 
 ### Vendors
@@ -34,6 +35,8 @@
 
 ### Papers
 - 2020 [BenchBot: Evaluating Robotics Research in Photorealistic 3D Simulation and on Real Robots](https://arxiv.org/pdf/2008.00635.pdf)
+- 2020 [Homecare Robotic Systems for Healthcare 4.0: Visions and Enabling Technologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9079593)
+
 
 -------------------------------------
 ## Military Robotics
