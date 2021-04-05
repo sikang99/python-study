@@ -30,6 +30,7 @@
 - [eProsima/Micro-XRCE-DDS-Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS Client
 - [eProsima/Micro-XRCE-DDS-Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - Micro XRCE-DDS Agent
 - [DimaRU/CDRCodable](https://github.com/DimaRU/CDRCodable) - An OMG Common Data Representation (CDR) encoder and decoder for Swift `Codable` types.
+- [DimaRU/FastDDSPrebuild](https://github.com/DimaRU/FastDDSPrebuild) - Prebuilt Fast-DDS (formerly FastRTPS) library for Apple platforms
 
 
 ### Papers
