@@ -62,6 +62,7 @@
 
 ### Papers
 - [Journal of KROS](http://jkros.org/) - 로봇학회 논문지
+- 2020 [Robotic Systems of Systems Based on a Decentralized Service-Oriented Architecture](https://www.mdpi.com/2218-6581/9/4/78/pdf)
 - 2019 [RTRobMultiAxisControl: A framework for real-time multi-axis and multi-robot control](https://hal.archives-ouvertes.fr/hal-02876003/document)
 - 2019 [MuSHR: A Low-Cost, Open-Source Robotic Racecar for Education and Research](https://arxiv.org/pdf/1908.08031.pdf)
 - 2019 [A ROS2 based communication architecture for control in collaborative and intelligent automation systems](https://arxiv.org/pdf/1905.09654.pdf)
