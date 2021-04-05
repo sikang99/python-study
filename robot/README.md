@@ -17,6 +17,7 @@
 - [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries/)
 - [Southwest Research Institute Robotics](https://www.swri.org/industries/industrial-robotics-automation)
 - [The Robot Report](https://www.therobotreport.com/)
+- [RobMoSys: A Model-Driven Approach and Tools for Robotics Software Development](https://www.eclipse.org/community/eclipse_newsletter/2020/july/3.php)
 
 
 ### Vendors
