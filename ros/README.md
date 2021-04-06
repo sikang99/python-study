@@ -65,6 +65,7 @@
 - [ahonena/tuni-m12](https://github.com/ahonena/tuni-m12)
 - [ms-iot/ros_msft_mrtk](https://github.com/ms-iot/ros_msft_mrtk) - ROS2 bindings for the Mixed Reality Toolkit
 - [leggedrobotics/ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - Best practices, conventions, and tricks for ROS
+- [code-iai/ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
 
 
 ### Rreports
