@@ -18,6 +18,7 @@
 - 2020/11/23 [Exploring ROS 2 Kubernetes configurations](https://ubuntu.com/blog/exploring-ros-2-kubernetes-configurations)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
+- 2020/05/29 [Clearpath Robotics UGVs Support ROS for Windows](https://www.unmannedsystemstechnology.com/2020/05/clearpath-robotics-ugvs-support-ros-for-windows/)
 - [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
 - [Robot Operating System ROS on Jetson Platforms](https://developer.ridgerun.com/wiki/index.php?title=Robot_Operating_System_ROS_on_Jetson_Platforms)
 - [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
