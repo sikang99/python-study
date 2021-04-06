@@ -86,6 +86,7 @@
 
 
 ### Books
+- [Springer Book Robot Operating System (ROS) The Complete Reference (Volume 7)](https://www.riotu-lab.org/rosbook/)
 - [ROS Tutorial: Robotics Operation System](https://www.uv.mx/anmarin/papers/ROS_Tutorial.pdf)
 - [ROS Robotics Projects: Build and control robots powered by the Robot](https://books.google.co.kr/books?id=ENzFDwAAQBAJ&pg=PA214&lpg=PA214&dq=jetson+nano+reality&source=bl&ots=PAf1sAl6H9&sig=ACfU3U2fWJxlzNrnnfgWL4Dvj3I_670AYg&hl=ko&sa=X&ved=2ahUKEwj70arC-_TuAhVD-WEKHYbPAY04UBDoATAGegQIDBAD#v=onepage&q=jetson%20nano%20reality&f=false)
 
