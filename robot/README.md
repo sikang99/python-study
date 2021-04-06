@@ -34,7 +34,7 @@
 - [msadowski/awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics)
 - [swri-robotics](https://github.com/swri-robotics)
 - [PaoPaoRobot](https://github.com/PaoPaoRobot) - SLAM, Robotics, CV, Deep Learning
-
+- [chvmp](https://github.com/chvmp) - Legged Robots Research
 
 
 ### Papers
