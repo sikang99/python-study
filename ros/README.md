@@ -15,6 +15,7 @@
 - 2021/01/08 [ROS Autonomous SLAM using Rapidly Exploring Random Tree (RRT)]https://towardsdatascience.com/ros-autonomous-slam-using-randomly-exploring-random-tree-rrt-37186f6e3568)
 - 2020/12/30 [Robot Operating System 2 (ROS 2) Architecture](https://medium.com/software-architecture-foundations/robot-operating-system-2-ros-2-architecture-731ef1867776)
 - 2020/12/17 [PRANK: Motion Prediction based on RANKing](https://medium.com/yandex-self-driving-car/prank-motion-prediction-based-on-ranking-a6c42d4b860)
+- 2020/11/23 [Exploring ROS 2 Kubernetes configurations](https://ubuntu.com/blog/exploring-ros-2-kubernetes-configurations)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
 - [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
