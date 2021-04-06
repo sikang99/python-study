@@ -10,6 +10,9 @@
 - Pixhawk User Guide: [ROS (Robot Operating System)](https://docs.px4.io/master/en/ros/)
 - Gaitech EDU: [Work with AR Parrot 2 using ROS](https://edu.gaitech.hk/drones/ar_parrot_2/ar-parrot-2-ros.html)
 - [gym-pybullet-drones](https://utiasdsl.github.io/gym-pybullet-drones/)
+- [NavQ](https://nxp.gitbook.io/8mmnavq/)
+- [HoverGames](https://nxp.gitbook.io/hovergames/)
+
 
 
 ### Open Source

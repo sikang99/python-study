@@ -17,6 +17,7 @@
 
 ### Open Source
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+- [eProsima/Fast-DDS-Gen](https://github.com/eProsima/Fast-DDS-Gen) - Fast-DDS IDL code generator tool
 - [yangchenxing/go-dds](https://github.com/yangchenxing/go-dds)
 - [rticommunity](https://github.com/rticommunity?language=c&type=source)
 
