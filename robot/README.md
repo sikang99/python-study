@@ -21,6 +21,10 @@
 - [The Rrobotics Back-End](https://roboticsbackend.com/) 
 
 
+### Academy
+- [JdeRobot](https://jderobot.github.io/) - Open toolkit for developing Robotics applications
+
+
 ### Vendors
 - [PAL Robotics](https://pal-robotics.com/) - TIAGo
 - [FastSense Tech](https://www.fastsense.tech/robotics_ai) - Fast Sense X Robotics AI Platform
