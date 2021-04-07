@@ -35,6 +35,7 @@
 - [swri-robotics](https://github.com/swri-robotics)
 - [PaoPaoRobot](https://github.com/PaoPaoRobot) - SLAM, Robotics, CV, Deep Learning
 - [chvmp](https://github.com/chvmp) - Legged Robots Research
+- [ctu-mrs](https://github.com/ctu-mrs) - Multi-robot Systems (MRS) group at Czech Technical University in Prague
 
 
 ### Papers
