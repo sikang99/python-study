@@ -16,6 +16,7 @@
 - [WebRTC](https://wiki.nikitavoloboev.xyz/web/webrtc)
 - ROS Wiki: [webrtc](http://wiki.ros.org/webrtc)
     - [webrtc_ros](http://wiki.ros.org/webrtc_ros)
+- [RTCBot’s documentation](https://rtcbot.readthedocs.io/en/latest/)
 
 
 ### Slides

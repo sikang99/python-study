@@ -2,11 +2,13 @@
 
 ### Articles
 
+
 ### Information
 - [Pixhawk UAV Platform](https://roboticsknowledgebase.com/wiki/common-platforms/pixhawk/)
 
 
 ### Open Source
+- [ctu-mrs](https://github.com/ctu-mrs) - Multi-robot Systems (MRS) group at Czech Technical University in Prague
 
 
 ### Slides
