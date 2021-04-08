@@ -70,7 +70,7 @@
 - [code-iai/ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2
 - [Tiryoh/docker-ros2](https://github.com/Tiryoh/docker-ros2) - unofficial ROS2 Dockerfile
-
+- [byeongkyu/omorobot-r1-mini-ros](https://github.com/byeongkyu/omorobot-r1-mini-ros)
 
 
 ### Rreports
