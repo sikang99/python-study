@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/04/07 [Robotic Guide Dog can lead blind people around obstacles](https://www.inceptivemind.com/robotic-guide-dog-lead-blind-people-around-obstacles/18458/)
 - [Top 5 Robotics Projects on GitHub](http://www.penvon.com/b/robotics-projects-github-cm596)
 - 2020/08/12 [18 Ways to Stabilize Robotics Compute Resources](https://www.freedomrobotics.ai/blog/18-ways-to-stabilize-robotics-compute-resources)
 - 2020/08/05 [ADLINK field CTO describes value of edge AI, ROS 2, and faster robotics development](https://www.therobotreport.com/adlink-cto-describes-value-edge-ai-ros-2-faster-robotics-development/)
