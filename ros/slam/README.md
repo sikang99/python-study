@@ -7,6 +7,10 @@
 ### Information
 
 
+### Discussion
+- [Using hector_slam for localization](https://stackoverflow.com/questions/61707977/using-hector-slam-for-localization)
+
+
 ### Open Source
 - [hangh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to becoming a Visual-SLAM developer in 2021
 - [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) - The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
