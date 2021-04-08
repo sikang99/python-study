@@ -8,6 +8,7 @@
 
 ### Articles
 - 2021/03/02 [Arduino's Portenta H7 Gets the Robot Operating System 2, Courtesy of micro-ROS](https://www.hackster.io/news/arduino-s-portenta-h7-gets-the-robot-operating-system-2-courtesy-of-micro-ros-b427df0124f1)
+- 2021/03/25 [Getting started with micro-ROS on the Raspberry Pi Pico](https://ubuntu.com/blog/getting-started-with-micro-ros-on-raspberry-pi-pico)
 - 2021/01/14 [Micro-ROS – bringing the most popular robotics middleware onto tiny microcontrollers](https://www.bosch.com/stories/bringing-robotics-middleware-onto-tiny-microcontrollers/)
 - 2020/11/01 [micro-ROS goes AIoT!](https://discourse.ros.org/t/micro-ros-goes-aiot/17407)
 - 2020/11/01 [ROS 2 to micro-ROS TCP tunneling via Integration Service](https://eprosima.com/index.php/company-all/news/173-ros-2-to-micro-ros-tcp-tunneling-via-integration-service)
