@@ -19,4 +19,5 @@
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
 - [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) 
 - [ArduCAM/RPI-Pico-Cam](https://github.com/ArduCAM/RPI-Pico-Cam)
+- [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples)
 
