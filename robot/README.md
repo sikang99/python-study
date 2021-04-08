@@ -41,6 +41,10 @@
 - [ctu-mrs](https://github.com/ctu-mrs) - Multi-robot Systems (MRS) group at Czech Technical University in Prague
 
 
+## Slides
+- 2020 [Robotics Middleware for Healthcare: RoMi-H](https://www.cgh.com.sg/chart/Documents/RoMi-H%20Webinar%20Part%201.pdf)
+
+
 ### Papers
 - 2020 [BenchBot: Evaluating Robotics Research in Photorealistic 3D Simulation and on Real Robots](https://arxiv.org/pdf/2008.00635.pdf)
 - 2020 [Homecare Robotic Systems for Healthcare 4.0: Visions and Enabling Technologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9079593)
