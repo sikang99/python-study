@@ -43,6 +43,7 @@
 
 ## Slides
 - 2020 [Robotics Middleware for Healthcare: RoMi-H](https://www.cgh.com.sg/chart/Documents/RoMi-H%20Webinar%20Part%201.pdf)
+- 2020 [Scaling 5G and AI for the Next Generation of Robotics](https://www.qualcomm.com/media/documents/files/presentation-scaling-5g-and-ai-for-the-next-generation-of-robotics.pdf)
 
 
 ### Papers
