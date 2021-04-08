@@ -15,6 +15,7 @@
  - [paopaoslam/ORB-SLAM2](https://gitee.com/paopaoslam/ORB-SLAM2#c11-or-c0x-compiler) 
 - [JdeRobot/SlamStudio](https://github.com/JdeRobot/SlamStudio)
 - [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+- [JeffLIrion/python-graphslam](https://github.com/JeffLIrion/python-graphslam) - Graph SLAM solver in Python
 
 
 ### Papers
