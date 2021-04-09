@@ -47,6 +47,7 @@
 - [**ROS 2 Design**](https://design.ros2.org/)
 - [ROS-M](https://rosmilitary.org/)
 - New Screwdriver: [ROS2](https://newscrewdriver.com/tag/ros2/)
+- [Awesome ROS2](https://fkromer.github.io/awesome-ros2/)
 
 
 ### Docker Hub
