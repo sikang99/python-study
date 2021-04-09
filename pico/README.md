@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/04/09 [Yet Another Adafruit QT Py with Raspberry Pi's RP2040 Chip!](https://www.hackster.io/news/yet-another-adafruit-qt-py-with-raspberry-pi-s-rp2040-chip-48fd327daa1f)
 - 2021/02/03 [TinyML: Machine Learning on Raspberry Pi Pico with Tensorflow Lite Micro and Arducam (Featuring Person Detection)](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/)
 - 2021/02/25 [Mathijs van den Berg's PICOx86 Emulator Turns the Raspberry Pi Pico Into a Vintage 80186 PC](https://www.hackster.io/news/mathijs-van-den-berg-s-picox86-emulator-turns-the-raspberry-pi-pico-into-a-vintage-80186-pc-609427451f55?fbclid=IwAR0b5LSH26Rv_Vk9SKOjNHJkiz5MtkWvDCaLrIdFVt11yK6XzLo3kU8h1ak)
 - 2021/02/24 [Kiwikit Raspberry Pi Pico baseboard takes off-the-shelf modules](https://www.cnx-software.com/2021/02/24/kiwikit-raspberry-pi-pico-baseboard-takes-off-the-shelf-modules/)
