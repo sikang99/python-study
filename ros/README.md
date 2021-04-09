@@ -31,6 +31,7 @@
 ### Information
 - [Awesome ROS2](https://fkromer.github.io/awesome-ros2/)
 - [Awesome Robotic Tooling](https://project-awesome.org/protontypes/awesome-robotic-tooling)
+- [Awesome Robot Operating System 2 (ROS 2)](https://awesomerepos.io/awesome/fkromer/awesome-ros2)
 - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
 - [ROS-Industrial](https://rosindustrial.org/)
 - [Stereolabs](https://stereolabs.com)
