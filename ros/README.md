@@ -79,6 +79,7 @@
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2
 - [Tiryoh/docker-ros2](https://github.com/Tiryoh/docker-ros2) - unofficial ROS2 Dockerfile
 - [byeongkyu/omorobot-r1-mini-ros](https://github.com/byeongkyu/omorobot-r1-mini-ros)
+- [rticommunity/ros-data-types](https://github.com/rticommunity/ros-data-types) - a rich set of ROS data types in OMG IDL format
 
 
 ### Rreports
