@@ -1,0 +1,7 @@
+
+
+
+
+ffmpeg -h encoder=h264_nvenc
+
+
