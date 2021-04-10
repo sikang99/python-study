@@ -2,6 +2,8 @@
 
 
 ### Articles
+- 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
+- 2019/03/28 [Using ffmpeg and SRT to Transport Video Signal to the Cloud](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a)
 
 
 ### Information
@@ -14,4 +16,5 @@
 
 
 
-
+### Papers
+- 2021 [Transitioning Broadcast to Cloud](https://www.mdpi.com/2076-3417/11/2/503/pdf)
