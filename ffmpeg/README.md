@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/04/08 [Why More Companies Are Using the Open Source AV1 Video Codec](https://www.edge-ai-vision.com/2021/04/why-more-companies-are-using-the-open-source-av1-video-codec/)
 - 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
 - 2021/03/16 [Video: AV1 and ARM](https://thebroadcastknowledge.com/2021/03/16/video-av1-and-arm/)
 - 2021/03/03 [What is AV1? The 8K video codec coming soon to streaming services](https://www.whathifi.com/advice/what-is-av1-the-8k-video-codec-coming-to-a-streaming-service-near-you)
@@ -14,6 +15,7 @@
 ### Information
 - [ffmpeg](https://ffmpeg.org)
     - [Encode/AV1](https://trac.ffmpeg.org/wiki/Encode/AV1)
+- [FFmpeg 4.4 Is Released With Support For Even More Encoders, Decoders, Muxers and Filters](https://linuxreviews.org/FFmpeg_4.4_Is_Released_With_Support_For_Even_More_Encoders,_Decoders,_Muxers_and_Filters)
 
 
 ### Open Source
