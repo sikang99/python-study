@@ -5,6 +5,7 @@
 - 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
 - 2021/03/03 [What is AV1? The 8K video codec coming soon to streaming services](https://www.whathifi.com/advice/what-is-av1-the-8k-video-codec-coming-to-a-streaming-service-near-you)
 - 2021/01/27 [3 things you should know about the AV1 codec](https://www.androidauthority.com/av1-codec-1113318/)
+- 2021/01/12 [**The Streaming Codec Landscape in 2021**](https://www.wowza.com/blog/streaming-codec-landscape-2021)
 - 2019/03/28 [Using ffmpeg and SRT to Transport Video Signal to the Cloud](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a)
 
 
