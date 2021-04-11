@@ -2,6 +2,9 @@
 
 
 ### Articles
+- 2021/03/13 [https://www.gsmarena.com/qualcomm_samsung_and_huawei_back_evc_codec_for_future_4k_and_8k_videos-news-43170.php](https://www.gsmarena.com/qualcomm_samsung_and_huawei_back_evc_codec_for_future_4k_and_8k_videos-news-43170.php)
+- 2021/03/12 [Google Chrome on desktop is shipping an AV1 encoder to improve video conferencing](https://www.xda-developers.com/google-chrome-desktop-shipping-av1-encoder-improve-video-conferencing/)
+- 2021/03/11 [Chrome 90 Beta: AV1 Encoder for WebRTC, New Origin Trials, and More](https://blog.chromium.org/2021/03/chrome-90-beta-av1-encoder-for-webrtc.html)
 - 2021/02/12 [Developing a streamlit-webrtc component for real-time video processing](https://blog.streamlit.io/how-to-build-the-streamlit-webrtc-component/)
 - 2021/02/12 [Python WebRTC basics with aiortc](https://dev.to/whitphx/python-webrtc-basics-with-aiortc-48id)
 - 2021/01/30 [Streaming video over WebRTC using FFmpeg](https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/)
