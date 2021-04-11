@@ -11,3 +11,9 @@ snap install cmake
 
 
 
+youtube-dl -F <url>
+youtube-dl -f 399 <url>
+
+
+
+

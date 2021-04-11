@@ -20,5 +20,11 @@
 - [Haivision/srt](https://github.com/Haivision/srt)
 
 
+### Sample Videos
+- [SPBTV/video_av1_samples](https://github.com/SPBTV/video_av1_samples) 
+- [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
+- [Download Elecard Videos](https://www.elecard.com/videos)
+
+
 ### Papers
 - 2021 [Transitioning Broadcast to Cloud](https://www.mdpi.com/2076-3417/11/2/503/pdf)
