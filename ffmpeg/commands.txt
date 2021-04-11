@@ -4,4 +4,10 @@
 
 ffmpeg -h encoder=h264_nvenc
 
+pip install -U meson
+
+sudo apt purge cmake
+snap install cmake 
+
+
 
