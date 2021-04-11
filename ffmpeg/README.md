@@ -30,6 +30,7 @@
 
 ### Open Source (AV1, Lyra) 
 - [google/libaom](https://aomedia.googlesource.com/aom)
+    - [tags/v3.0.0](https://aomedia.googlesource.com/aom/+/refs/tags/v3.0.0)
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder
 - [rust-av/rav1e-by-gop](https://github.com/rust-av/rav1e-by-gop) - Tool for multithreading a rav1e encode without tiles, using GOP boundaries
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding
