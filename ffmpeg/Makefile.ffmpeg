@@ -6,7 +6,10 @@ usage:
 	@echo "usage: make [1,package|2,nvcodec|3,download|4,checkout|5,configure|6,compile|7,install]"
 
 1 package:
-	sudo apt-get install build-essential yasm cmake libtool libc6 libc6-dev unzip wget libnuma1 libnuma-dev
+	sudo apt install -y build-essential yasm cmake libtool libc6 libc6-dev unzip wget libnuma1 libnuma-dev
+	sudo apt install -y libsdl2-dev libva-dev libvdpau-dev \
+		libfdk-aac-dev libmp3lame-dev libvorbis-dev libopus-dev \
+		libvpx-dev libx264-dev libx265-dev libtheora-dev
 
 2 nvcodec:
 	git clone https://git.videolan.org/git/ffmpeg/nv-codec-headers.git
@@ -26,7 +29,8 @@ usage:
 
 5-1:
 	cd ffmpeg && \
-	./configure --enable-shared --enable-libfdk-aac --enable-libaom --enable-nonfree \
+	./configure --enable-shared --enable-libfdk-aac --enable-libx265 --enable-gpl --enable-libaom --enable-nonfree \
+	--enable-libsrt --enable-librist \
 	--enable-cuda-nvcc --extra-cflags=-I/usr/local/cuda/include --extra-ldflags=-L/usr/local/cuda/lib6
 
 5-2:

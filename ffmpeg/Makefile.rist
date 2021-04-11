@@ -1,0 +1,24 @@
+#
+# Makefile fo for librist
+#
+PROGRAM=librist
+usage:
+	@echo "usage: make [1,package|2,download|3,build|4,install] for $(PROGRAM)"
+
+1 package:
+	sudo apt install -y python3 python3-pip python3-setuptools python3-wheel ninja-build
+	pip install -U meson
+
+2 download:
+	git clone https://code.videolan.org/rist/librist.git
+
+3 build:
+	cd librist; mkdir -p build; cd build; meson ..
+
+4 install:
+	cd librist/build; meson install
+
+
+
+
+
