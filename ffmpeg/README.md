@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
+- 2021/03/16 [Video: AV1 and ARM](https://thebroadcastknowledge.com/2021/03/16/video-av1-and-arm/)
 - 2021/03/03 [What is AV1? The 8K video codec coming soon to streaming services](https://www.whathifi.com/advice/what-is-av1-the-8k-video-codec-coming-to-a-streaming-service-near-you)
 - 2021/01/27 [3 things you should know about the AV1 codec](https://www.androidauthority.com/av1-codec-1113318/)
 - 2021/01/12 [**The Streaming Codec Landscape in 2021**](https://www.wowza.com/blog/streaming-codec-landscape-2021)
@@ -35,7 +36,7 @@
 - [rust-av/rav1e-by-gop](https://github.com/rust-av/rav1e-by-gop) - Tool for multithreading a rav1e encode without tiles, using GOP boundaries
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
-
+- [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1)
 
 
 ### Sample Videos

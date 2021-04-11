@@ -9,6 +9,7 @@
 - 2021/02/12 [Python WebRTC basics with aiortc](https://dev.to/whitphx/python-webrtc-basics-with-aiortc-48id)
 - 2021/01/30 [Streaming video over WebRTC using FFmpeg](https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/)
 - 2020/12/16 [It’s Time for Real-Time AV1 Video Encoding with WebRTC](https://medium.com/millicast/its-time-for-real-time-av1-video-encoding-withwebrtc-75a6aa64777c)
+- 2020/10/30 [Video: Real-time AV1 in WebRTC](https://thebroadcastknowledge.com/2020/10/30/video-real-time-av1-in-webrtc/)
 - 2020/09/24 [The CoScreen Manifesto: Deep Collaboration for Engineering Teams](https://medium.com/coscreen/the-coscreen-manifesto-deep-collaboration-for-engineering-teams-5a5305ec8445)
 - 2020/05/08 [Building a Multi-Camera Media Server for AI Processing on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/building-multi-camera-media-server-ai-processing-jetson/)
 - [pion-http-proxy (p2p REST/JSON/GRPC over WebRTC)](https://www.gitmemory.com/issue/pion/awesome-pion/14/753387891)
