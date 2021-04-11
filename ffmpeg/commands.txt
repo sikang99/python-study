@@ -3,6 +3,7 @@
 
 
 ffmpeg -h encoder=h264_nvenc
+ffmpeg -h encoder=libaom-av1
 
 pip install -U meson
 
