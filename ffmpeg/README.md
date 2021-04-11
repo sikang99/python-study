@@ -20,6 +20,10 @@
 - [Haivision/srt](https://github.com/Haivision/srt)
 
 
+### Open Source (AV1) 
+- [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding
+
+
 ### Sample Videos
 - [SPBTV/video_av1_samples](https://github.com/SPBTV/video_av1_samples) 
 - [AV1 Beta Launch Playlist](https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS)
