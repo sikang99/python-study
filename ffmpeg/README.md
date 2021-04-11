@@ -4,12 +4,14 @@
 ### Articles
 - 2021/04/08 [Why More Companies Are Using the Open Source AV1 Video Codec](https://www.edge-ai-vision.com/2021/04/why-more-companies-are-using-the-open-source-av1-video-codec/)
 - 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
+- 2021/03/28 [Easy video converting for the web](https://mefody.dev/chunks/ffmpeg-alias/)
 - 2021/03/16 [Video: AV1 and ARM](https://thebroadcastknowledge.com/2021/03/16/video-av1-and-arm/)
 - 2021/03/03 [What is AV1? The 8K video codec coming soon to streaming services](https://www.whathifi.com/advice/what-is-av1-the-8k-video-codec-coming-to-a-streaming-service-near-you)
 - 2021/01/27 [3 things you should know about the AV1 codec](https://www.androidauthority.com/av1-codec-1113318/)
 - 2021/01/12 [**The Streaming Codec Landscape in 2021**](https://www.wowza.com/blog/streaming-codec-landscape-2021)
 - 2020/12/15 [The AV1 video codec comes to Webex!](https://blog.webex.com/engineering/the-av1-video-codec-comes-to-webex/)
 - 2019/03/28 [Using ffmpeg and SRT to Transport Video Signal to the Cloud](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a)
+- 2019/02/26 [Better web video with AV1 codec](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
 
 
 ### Information
