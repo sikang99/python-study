@@ -49,6 +49,7 @@
 
 
 ### Papers
+- 2021 [**Advances in Video Compression System Using Deep Neural Network: A Review and Case Studies**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9369668)
 - 2021 [Transitioning Broadcast to Cloud](https://www.mdpi.com/2076-3417/11/2/503/pdf)
 - 2020 [Comparing VVC, HEVC and AV1 using Objective and Subjective Assessments](https://arxiv.org/pdf/2003.10282.pdf%C2%A0)
 
