@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/03/16 [WebRTC - Realtime Communication for the Open Web Platform](https://queue.acm.org/detail.cfm?id=3457587)
 - 2021/03/13 [https://www.gsmarena.com/qualcomm_samsung_and_huawei_back_evc_codec_for_future_4k_and_8k_videos-news-43170.php](https://www.gsmarena.com/qualcomm_samsung_and_huawei_back_evc_codec_for_future_4k_and_8k_videos-news-43170.php)
 - 2021/03/12 [Google Chrome on desktop is shipping an AV1 encoder to improve video conferencing](https://www.xda-developers.com/google-chrome-desktop-shipping-av1-encoder-improve-video-conferencing/)
 - 2021/03/11 [Chrome 90 Beta: AV1 Encoder for WebRTC, New Origin Trials, and More](https://blog.chromium.org/2021/03/chrome-90-beta-av1-encoder-for-webrtc.html)
