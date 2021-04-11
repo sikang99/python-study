@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/04/08 [FFmpeg 4.4 Released With AV1 VA-API Decoder, SVT-AV1 Encoding](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-4.4-Released)
+- 2021/01/27 [3 things you should know about the AV1 codec](https://www.androidauthority.com/av1-codec-1113318/)
 - 2019/03/28 [Using ffmpeg and SRT to Transport Video Signal to the Cloud](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a)
 
 
