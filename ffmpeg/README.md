@@ -37,7 +37,7 @@
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1)
-
+- [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
 
 ### Sample Videos
 - [SPBTV/video_av1_samples](https://github.com/SPBTV/video_av1_samples) 
