@@ -22,6 +22,7 @@
 - [The Robot Report](https://www.therobotreport.com/)
 - [RobMoSys: A Model-Driven Approach and Tools for Robotics Software Development](https://www.eclipse.org/community/eclipse_newsletter/2020/july/3.php)
 - [The Rrobotics Back-End](https://roboticsbackend.com/) 
+- [openpilot](https://comma.ai/)
 
 
 ### Academy
