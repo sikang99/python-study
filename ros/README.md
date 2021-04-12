@@ -27,6 +27,7 @@
 - [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
 - [Implementing Robotics Applications with ROS 2 and AI on the NVIDIA Jetson Platform](https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/)
 - [Ubuntu 18.04 install ROS Melodic](https://www.programmersought.com/article/766283750/)
+- [Integrate DDS into the AUTOSAR Adaptive platform](https://www.programmersought.com/article/28223670641/)
 
 
 ### Information
