@@ -8,6 +8,8 @@
 
 ## Information
 - [StereoVision: Library and utilities for 3d reconstruction from stereo cameras](http://erget.github.io/StereoVision/index.html)
+- [ARM Compute Library](https://arm-software.github.io/ComputeLibrary/v21.02/index.xhtml)
+
 
 
 ### Open Source
@@ -15,7 +17,8 @@
 - [ai-coodinator/mediapipe-python](https://github.com/ai-coodinator/mediapipe-python)
 - [erget/StereoVision](https://github.com/erget/StereoVision) 
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
-
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [arm-software/armnn](https://github.com/arm-software/armnn) - Arm NN ML Software
 
 
 ### Papers
