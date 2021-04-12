@@ -14,6 +14,9 @@
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - 🔥 Super fast and lightweight anchor-free object detection model. Only 1.8MB and run 97FPS on cellphone
 
 
+### Papers
+- 2020 [A Comprehensive Study on Challenges in Deploying Deep Learning Based Soware](https://chenzhenpeng18.github.io/papers/FSE20_1.pdf)
+
 
 ### Books
 - 2012 [Introduction to GPUs for Data Analytics](https://www.networld.co.jp/files/9615/0846/8069/GPUs_Data_Analytics_Book.pdf)
