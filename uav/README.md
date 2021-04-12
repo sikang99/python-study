@@ -10,6 +10,7 @@
 
 ### Open Source
 - [ctu-mrs](https://github.com/ctu-mrs) - Multi-robot Systems (MRS) group at Czech Technical University in Prague
+- [Comp4Drones/Component_repository](https://github.com/Comp4Drones/Component_repository) 
 
 
 ### Slides

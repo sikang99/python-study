@@ -2,6 +2,8 @@
 
 
 ## Articles
+- 2021/03/30 [Deep learning inference in OpenVINO on ARM](https://opencv.org/deep-learning-inference-in-openvino-on-arm/)
+
 
 
 ## Information
@@ -12,6 +14,8 @@
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 - [ai-coodinator/mediapipe-python](https://github.com/ai-coodinator/mediapipe-python)
 - [erget/StereoVision](https://github.com/erget/StereoVision) 
+- [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
+
 
 
 ### Papers
