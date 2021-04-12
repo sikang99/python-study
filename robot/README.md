@@ -40,6 +40,7 @@
 - [chvmp](https://github.com/chvmp) - Legged Robots Research
 - [ctu-mrs](https://github.com/ctu-mrs) - Multi-robot Systems (MRS) group at Czech Technical University in Prague
 - [om/uber/xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system.
 
 
 ## Slides
