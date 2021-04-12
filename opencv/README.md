@@ -9,7 +9,7 @@
 ## Information
 - [StereoVision: Library and utilities for 3d reconstruction from stereo cameras](http://erget.github.io/StereoVision/index.html)
 - [ARM Compute Library](https://arm-software.github.io/ComputeLibrary/v21.02/index.xhtml)
-
+- [ML Platform](https://www.mlplatform.org/) - Machine Learning Platform using Arm NN and Arm Compute Library
 
 
 ### Open Source
