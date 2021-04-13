@@ -50,6 +50,9 @@
 - New Screwdriver: [ROS2](https://newscrewdriver.com/tag/ros2/)
 - [Awesome ROS2](https://fkromer.github.io/awesome-ros2/)
 - Github: [Awesome ROS2](https://github.com/search?q=awesome-ros2)
+- [ROS Industrial](https://rosindustrial.org/)
+    - [ROS-Industrial](https://github.com/ros-industrial)
+
 
 ### Docker Hub
 - [ROS Docker Official Images](https://hub.docker.com/_/Ros?tab=description)
