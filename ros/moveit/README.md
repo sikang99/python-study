@@ -4,6 +4,7 @@
 ### Information
 - [MoveIt](https://moveit.ros.org/)
     - [MoveIt Motion Planning Framework](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/index.html)
+- Wiki: [moveit_ros](http://wiki.ros.org/moveit_ros)
 
 
 ### Open Source
