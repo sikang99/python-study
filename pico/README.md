@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/04/10 [Olimex Unveils the RP2040-PICO-PC Carrier and the RP2040-Py Drop-In Raspberry Pi Pico Replacement](https://www.hackster.io/news/olimex-unveils-the-rp2040-pico-pc-carrier-and-the-rp2040-py-drop-in-raspberry-pi-pico-replacement-67ed5c7dc6db?fbclid=IwAR2yOKOxQw6svkzAa8EF7WkgdQrvQnPDl6eVZWxbI4d34WrfVOcUE3qdmLY)
 - 2021/04/09 [Yet Another Adafruit QT Py with Raspberry Pi's RP2040 Chip!](https://www.hackster.io/news/yet-another-adafruit-qt-py-with-raspberry-pi-s-rp2040-chip-48fd327daa1f)
 - 2021/02/03 [TinyML: Machine Learning on Raspberry Pi Pico with Tensorflow Lite Micro and Arducam (Featuring Person Detection)](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/)
 - 2021/02/25 [Mathijs van den Berg's PICOx86 Emulator Turns the Raspberry Pi Pico Into a Vintage 80186 PC](https://www.hackster.io/news/mathijs-van-den-berg-s-picox86-emulator-turns-the-raspberry-pi-pico-into-a-vintage-80186-pc-609427451f55?fbclid=IwAR0b5LSH26Rv_Vk9SKOjNHJkiz5MtkWvDCaLrIdFVt11yK6XzLo3kU8h1ak)
