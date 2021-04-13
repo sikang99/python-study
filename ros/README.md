@@ -89,7 +89,10 @@
 - [rticommunity/ros-data-types](https://github.com/rticommunity/ros-data-types) - a rich set of ROS data types in OMG IDL format
 
 
-### Rreports
+### Slides
+- [ROS2 on VxWorks - Challenges in porting a modern, software framework to RTOS](https://www.slideshare.net/AndreiKholodnyi/ros2-on-vxworks-challenges-in-porting-a-modern-software-framework-to-rtos)
+
+### Reports
 - [ROS2 Basics in 5 Days](https://www.theconstructsim.com/wp-content/uploads/2019/03/ROS2-IN-5-DAYS-e-book.pdf)
 
 
