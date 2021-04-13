@@ -1,11 +1,13 @@
 ## MoveIt
-
+> Motion Planning
 
 ### Information
 - [MoveIt](https://moveit.ros.org/)
     - [MoveIt Motion Planning Framework](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/index.html)
     - [MoveIt 2 Tutorials](http://moveit2_tutorials.picknik.ai/)
 - Wiki: [moveit_ros](http://wiki.ros.org/moveit_ros)
+- IML: [Klampt](http://motion.pratt.duke.edu/klampt/)
+- [Open Motion Planning Library (OMPL)]()https://ompl.kavrakilab.org/)
 
 
 ### Open Source
