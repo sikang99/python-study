@@ -4,6 +4,7 @@
 
 
 ## Articles
+- 2021/04/12 [Edge Impulse and TinyML on Raspberry Pi](https://www.raspberrypi.org/blog/edge-impulse-and-tinyml-on-raspberry-pi/)
 - 2021/04/12 [Extending the Edge to Embedded Linux with Official Support for Raspberry Pi 4](https://www.edgeimpulse.com/blog/ei-extends-the-edge-to-embedded-linux-with-official-support-for-raspberry-pi-4)
 - 2021/03/31 [RP2040 Microcontroller Easily Fits Into the M.2 Form Factor](https://www.hackster.io/news/rp2040-microcontroller-easily-fits-into-the-m-2-form-factor-0e946005bb7a)
 - 2021/03/31 [Piunora has the guts of a Raspberry Pi 4 with Arduino form factor, M.2 PCIe socket (Crowdfunding)](https://www.cnx-software.com/2021/03/31/piunora-has-the-guts-of-a-raspberry-pi-4-with-arduino-form-factor-pcie-socket/)
