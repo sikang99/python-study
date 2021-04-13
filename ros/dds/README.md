@@ -12,7 +12,7 @@
 - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
 - [Go/dds](https://libs.garden/go/search?q=dds)
 - [RTPS/ROS2 Interface: PX4-FastRTPS Bridge](https://docs.px4.io/master/en/middleware/micrortps.html)
-
+- [Data Distribution Service (DDS)](https://www.omg.org/spec/DDS/1.4/PDF) - Version 1.4
 
 
 ### Open Source
