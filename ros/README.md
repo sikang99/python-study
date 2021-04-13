@@ -21,6 +21,7 @@
 - 2020/11/09 [ROS 2 and DDS: Interoperability Drives Next-Generation Robotics](https://www.rti.com/blog/ros-2-and-dds-interoperability-drives-next-generation-robotics)
 - 2020/11/02 [ROS 2 and Kubernetes Basics](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
+- 2020/08/03 [5 features ROS 2 needs in 2020](https://www.therobotreport.com/ros-2-5-features-robotics-developers-2020/)
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
 - 2020/05/29 [Clearpath Robotics UGVs Support ROS for Windows](https://www.unmannedsystemstechnology.com/2020/05/clearpath-robotics-ugvs-support-ros-for-windows/)
 - [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
