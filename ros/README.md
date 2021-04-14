@@ -91,6 +91,7 @@
 
 
 ### Slides
+- [**Real-time control in ROS and ROS 2.0**](https://roscon.ros.org/2015/presentations/RealtimeROS2.pdf)
 - [ROS2 on VxWorks - Challenges in porting a modern, software framework to RTOS](https://www.slideshare.net/AndreiKholodnyi/ros2-on-vxworks-challenges-in-porting-a-modern-software-framework-to-rtos)
 - [Programming for Robotics Introduction to ROS](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2021/lec4/ROS%20Course%20Slides%20Course%204.pdf)
 
@@ -101,6 +102,7 @@
 
 ### Papers
 - [Journal of KROS](http://jkros.org/) - 로봇학회 논문지
+- 2020 [Software for safe mobile robots with ROS 2 and Rebeca](http://rebeca-lang.org/assets/theses/SOFTWARE-FOR-SAFE-MOBILE-ROBOTS-WITH-ROS2-AND-REBECA.pdf)
 - 2020 [A ROS-Based Open Tool for Intelligent Robotics Education](https://www.mdpi.com/2076-3417/10/21/7419)
 - 2020 [Robotic Systems of Systems Based on a Decentralized Service-Oriented Architecture](https://www.mdpi.com/2218-6581/9/4/78/pdf)
 - 2019 [A ROS2 based communication architecture for control in collaborative and intelligent automation systems](https://arxiv.org/pdf/1905.09654.pdf)
