@@ -61,6 +61,7 @@
     - [Introduction to Real-time Systems](https://design.ros2.org/articles/realtime_background.html)
     - [Proposal for Implementation of Real-time Systems in ROS 2](https://design.ros2.org/articles/realtime_proposal.html)
 - [ROS Index](https://index.ros.org/)
+- [DTU-R3: Remote Reality Robot](https://dtu-r3.github.io/)
 
 
 ### Docker Hub
@@ -70,10 +71,12 @@
 - [tiryoh/ros2-desktop-vnc](https://hub.docker.com/r/tiryoh/ros2-desktop-vnc)
 - [microros](https://hub.docker.com/u/microros) 
     - [microros/micro-ros-agent](https://hub.docker.com/r/microros/micro-ros-agent) - **micro-ROS Dockers**
-- [ros-infrastructure](https://github.com/ros-infrastructure)
+- [dtur3](https://hub.docker.com/u/dtur3)
+    - [dtur3/r3-navigation](https://hub.docker.com/r/dtur3/r3-navigation) - DTU-R3: Docker + ROS image for waypoint navigation 
 
 
 ### Open Source
+- [ros-infrastructure](https://github.com/ros-infrastructure)
 - [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) - The Robot Operating System Version 2.0 is awesome!
 - [**ros2**](https://github.com/ros2) - Version 2 of the Robot Operating System (ROS) software stack
     - [ros2/freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
@@ -95,6 +98,8 @@
 - [Tiryoh/docker-ros2](https://github.com/Tiryoh/docker-ros2) - unofficial ROS2 Dockerfile
 - [byeongkyu/omorobot-r1-mini-ros](https://github.com/byeongkyu/omorobot-r1-mini-ros)
 - [rticommunity/ros-data-types](https://github.com/rticommunity/ros-data-types) - a rich set of ROS data types in OMG IDL format
+- [DTU-R3](https://github.com/DTU-R3) - “**Remote Reality Robot**” project at the Technical University of Denmark
+
 
 
 ### Slides
