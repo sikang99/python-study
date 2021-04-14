@@ -138,11 +138,16 @@
 
 ### Products
 - Linux RT_PREEMPT
-- NuttX
 - Wind River RTX`
 - VxWorks
-- FreeRTOS - micro-ROS
 - Xenomai
+- FreeRTOS - micro-ROS
+- Zephyr - micro-ROS
+- NuttX - micro-ROS
+
+
+### Information
+- [Why a Real-Time Operating System?](https://micro.ros.org/docs/concepts/rtos/)
 
 
 ### Open Source
