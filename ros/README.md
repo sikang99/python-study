@@ -58,6 +58,7 @@
 - eSol: [ROS/ROS 2 Engineering Service](https://www.esol.com/embedded/ros.html)
 - [ROS2 Design](https://design.ros2.org/)
     - [Introduction to Real-time Systems](https://design.ros2.org/articles/realtime_background.html)
+    - [Proposal for Implementation of Real-time Systems in ROS 2](https://design.ros2.org/articles/realtime_proposal.html)
 
 
 ### Docker Hub
