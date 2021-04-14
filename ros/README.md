@@ -127,13 +127,21 @@
 
 -----------------------------------------------
 ## RTOS
+
+### Products
 - Linux RT_PREEMPT
 - NuttX
 - Wind River RTX`
+- VxWorks
 - FreeRTOS
 - Xenomai
 
 
 ### Open Source
 - [ros2-realtime-demo/pendulum](https://github.com/ros2-realtime-demo/pendulum)
+
+
+### Papers
+- 2021 [Latency Overhead of ROS2 for Modular Time-Critical Systems](https://arxiv.org/pdf/2101.02074.pdf)
+
 
