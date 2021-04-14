@@ -62,6 +62,12 @@
 - [MayfieldRoboticsPublic/ros-webrtc](https://github.com/MayfieldRoboticsPublic/ros-webrtc) - Bringing WebRTC to ROS
 
 
+### Papers
+- 2019 [Remote Control Operation of Autonomous Cars Over Cellular Network Using PlayStation Controller](https://www.diva-portal.org/smash/get/diva2:1329160/FULLTEXT01.pdf)
+- 2017 [Adaptive unmanned vehicle autopiloting using WebRTC video analysis](https://pergamos.lib.uoa.gr/uoa/dl/frontend/file/lib/default/data/1725621/theFile)
+
+
+
 `
 
 
