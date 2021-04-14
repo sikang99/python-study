@@ -91,6 +91,8 @@
 
 ### Slides
 - [ROS2 on VxWorks - Challenges in porting a modern, software framework to RTOS](https://www.slideshare.net/AndreiKholodnyi/ros2-on-vxworks-challenges-in-porting-a-modern-software-framework-to-rtos)
+- [Programming for Robotics Introduction to ROS](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2021/lec4/ROS%20Course%20Slides%20Course%204.pdf)
+
 
 ### Reports
 - [ROS2 Basics in 5 Days](https://www.theconstructsim.com/wp-content/uploads/2019/03/ROS2-IN-5-DAYS-e-book.pdf)
@@ -107,10 +109,6 @@
 - 2019 [OPC UA versus ROS, DDS, and MQTT: Performance Evaluation of Industry 4.0 Protocols](https://mediatum.ub.tum.de/doc/1470362/1470362.pdf)
 - 2019 [Towards a Real-Time BDI Model for ROS 2](http://ceur-ws.org/Vol-2404/paper01.pdf)
 - 2016 [Exploring the performance of ROS2](https://www.researchgate.net/publication/309128426_Exploring_the_performance_of_ROS2)
-
-
-### Slides
-- [Programming for Robotics Introduction to ROS](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2021/lec4/ROS%20Course%20Slides%20Course%204.pdf)
 
 
 
