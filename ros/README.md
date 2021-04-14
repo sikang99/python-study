@@ -39,7 +39,6 @@
 - [Awesome Robotic Tooling](https://project-awesome.org/protontypes/awesome-robotic-tooling)
 - [Awesome Robot Operating System 2 (ROS 2)](https://awesomerepos.io/awesome/fkromer/awesome-ros2)
 - [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html)
-- [ROS-Industrial](https://rosindustrial.org/)
 - [Stereolabs](https://stereolabs.com)
     - [stereolabs](https://github.com/stereolabs)
 - [**ros: Docker Official Images**](https://hub.docker.com/_/ros?tab=tags)
@@ -57,6 +56,8 @@
 - [ROS Industrial](https://rosindustrial.org/)
     - [ROS-Industrial](https://github.com/ros-industrial)
 - eSol: [ROS/ROS 2 Engineering Service](https://www.esol.com/embedded/ros.html)
+- [ROS2 Design](https://design.ros2.org/)
+    - [Introduction to Real-time Systems](https://design.ros2.org/articles/realtime_background.html)
 
 
 ### Docker Hub
