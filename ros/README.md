@@ -105,6 +105,7 @@
 - 2019 [MuSHR: A Low-Cost, Open-Source Robotic Racecar for Education and Research](https://arxiv.org/pdf/1908.08031.pdf)
 - 2019 [A ROS2 based communication architecture for control in collaborative and intelligent automation systems](https://arxiv.org/pdf/1905.09654.pdf)
 - 2019 [OPC UA versus ROS, DDS, and MQTT: Performance Evaluation of Industry 4.0 Protocols](https://mediatum.ub.tum.de/doc/1470362/1470362.pdf)
+- 2019 [Towards a Real-Time BDI Model for ROS 2](http://ceur-ws.org/Vol-2404/paper01.pdf)
 - 2016 [Exploring the performance of ROS2](https://www.researchgate.net/publication/309128426_Exploring_the_performance_of_ROS2)
 
 
