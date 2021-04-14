@@ -22,6 +22,7 @@
 - 2020/11/02 [ROS 2 and Kubernetes Basics](https://ubuntu.com/blog/exploring-ros-2-with-kubernetes)
 - 2020/10/13 [Robotic OS — Embedded Computer Vision on Raspberry Pi 4](https://medium.com/think-autonomous/robotic-os-embedded-computer-vision-on-raspberry-pi-4-a53f82ab9d03)
 - 2020/08/03 [5 features ROS 2 needs in 2020](https://www.therobotreport.com/ros-2-5-features-robotics-developers-2020/)
+- 2020/07/14 [ROS 2 Foxy Fitzroy Release Improves Security and Tooling](https://www.infoq.com/news/2020/07/ros2-foxy-security-tooling/)
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
 - 2020/05/29 [Clearpath Robotics UGVs Support ROS for Windows](https://www.unmannedsystemstechnology.com/2020/05/clearpath-robotics-ugvs-support-ros-for-windows/)
 - 2019/11/27 [Inspired by Machine Learning, ROS 2, Turtlebot3, and Rulex](https://blogs.windriver.com/wind_river_blog/2019/11/inspired-by-machine-learning-ros-2-turtlebot3-and-rulex/)
@@ -59,6 +60,7 @@
 - [ROS2 Design](https://design.ros2.org/)
     - [Introduction to Real-time Systems](https://design.ros2.org/articles/realtime_background.html)
     - [Proposal for Implementation of Real-time Systems in ROS 2](https://design.ros2.org/articles/realtime_proposal.html)
+- [ROS Index](https://index.ros.org/)
 
 
 ### Docker Hub
@@ -68,6 +70,7 @@
 - [tiryoh/ros2-desktop-vnc](https://hub.docker.com/r/tiryoh/ros2-desktop-vnc)
 - [microros](https://hub.docker.com/u/microros) 
     - [microros/micro-ros-agent](https://hub.docker.com/r/microros/micro-ros-agent) - **micro-ROS Dockers**
+- [ros-infrastructure](https://github.com/ros-infrastructure)
 
 
 ### Open Source
@@ -133,7 +136,7 @@
 - NuttX
 - Wind River RTX`
 - VxWorks
-- FreeRTOS
+- FreeRTOS - micro-ROS
 - Xenomai
 
 
