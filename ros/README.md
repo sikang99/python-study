@@ -25,6 +25,7 @@
 - 2020/06/08 [Diving into functioning Robot Operarting System(ROS)](https://www.analyticsinsight.net/diving-functioning-robotics-operating-systems-ros/)
 - 2020/05/29 [Clearpath Robotics UGVs Support ROS for Windows](https://www.unmannedsystemstechnology.com/2020/05/clearpath-robotics-ugvs-support-ros-for-windows/)
 - 2019/11/27 [Inspired by Machine Learning, ROS 2, Turtlebot3, and Rulex](https://blogs.windriver.com/wind_river_blog/2019/11/inspired-by-machine-learning-ros-2-turtlebot3-and-rulex/)
+- 2019/04/01 [ROS 2 and Real-time](https://discourse.ros.org/t/ros-2-and-real-time/8796)
 - [Getting Started with ROS on Jetson Xavier NX](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-xavier-nx/)
 - [Robot Operating System ROS on Jetson Platforms](https://developer.ridgerun.com/wiki/index.php?title=Robot_Operating_System_ROS_on_Jetson_Platforms)
 - [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
@@ -55,6 +56,7 @@
 - Github: [Awesome ROS2](https://github.com/search?q=awesome-ros2)
 - [ROS Industrial](https://rosindustrial.org/)
     - [ROS-Industrial](https://github.com/ros-industrial)
+- eSol: [ROS/ROS 2 Engineering Service](https://www.esol.com/embedded/ros.html)
 
 
 ### Docker Hub
