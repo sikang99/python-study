@@ -21,7 +21,7 @@ Python Programming
 
 
 ### Open Source
-- [python](https://github.com/python)
+- [python](https://github.com/python) - Repositories related to the Python Programming language
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kunchalavikram1427/Python_public](https://github.com/kunchalavikram1427/Python_public) 
 - [zainali60/Data-Analysis-practice](https://github.com/zainali60/Data-Analysis-practice) 
