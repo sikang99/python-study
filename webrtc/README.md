@@ -60,6 +60,8 @@
 - [**OpenAyame/ayame**](https://github.com/OpenAyame/ayame) - WebRTC Signaling Server Ayame
 - [**shiguredo/momo**](https://github.com/shiguredo/momo) - WebRTC Native Client Momo
 - [MayfieldRoboticsPublic/ros-webrtc](https://github.com/MayfieldRoboticsPublic/ros-webrtc) - Bringing WebRTC to ROS
+- [introlab/opentera-webrtc](https://github.com/introlab/opentera-webrtc) - About
+WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTera project
 - [introlab/opentera-webrtc-ros](https://github.com/introlab/opentera-webrtc-ros) - ROS package for OpenTera WebRTC signaling server
 
 
