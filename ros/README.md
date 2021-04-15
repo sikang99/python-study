@@ -13,6 +13,7 @@
 
 ### Articles
 - 2021/04/15 [Toyota taps Apex.AI for its autonomous vehicle operating system](https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/)
+    - Apex.OS/SDK(Arene), Tier IV(Autoware), TÜV NORD
 - 2021/02/01 [micro-ROS Rolling assures interoperability with ROS 2](https://www.eprosima.com/index.php/company-all/news/185-micro-ros-rolling-assures-interoperability-with-ros-2)
     - [micro-ROS Rolling release](https://discourse.ros.org/t/micro-ros-rolling-release/18807)
 - 2021/01/08 [ROS Autonomous SLAM using Rapidly Exploring Random Tree (RRT)](https://towardsdatascience.com/ros-autonomous-slam-using-randomly-exploring-random-tree-rrt-37186f6e3568)
