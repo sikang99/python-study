@@ -63,7 +63,7 @@
 - [introlab/opentera-webrtc](https://github.com/introlab/opentera-webrtc) - About
 WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTera project
 - [introlab/opentera-webrtc-ros](https://github.com/introlab/opentera-webrtc-ros) - ROS package for OpenTera WebRTC signaling server
-
+- [introlab/opentera-webrtc-teleop-frontend](https://github.com/introlab/opentera-webrtc-teleop-frontend) - OpenTera VUE.js Frontend
 
 
 ### Papers
