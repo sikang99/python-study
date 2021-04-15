@@ -1,5 +1,7 @@
 ## SDR : Software Defined Radio
 
+### Terminology
+- USRP (Universal Software Radio Peripheral) - NI
 
 ### Articles
 - 2021/04/11 [Rgco's Ultra-Cheap Arbitrary Waveform Generator Packs a Raspberry Pi Pico to Outperform Lab Gear](https://www.hackster.io/news/rgco-s-ultra-cheap-arbitrary-waveform-generator-packs-a-raspberry-pi-pico-to-outperform-lab-gear-c8d0c430c0a5)
