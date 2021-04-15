@@ -22,6 +22,7 @@
 
 
 ### Papers
+- 2021 [Distributed Architecture for Unmanned Vehicle Services](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7924069/)
 - 2021 [Real-time Video Streaming and Control of Cellular-Connected UAV System](https://arxiv.org/pdf/2101.10736.pdf)
 - 2020 [Vision Based Localization of Drones in a GPS Denied Environment](https://vtechworks.lib.vt.edu/bitstream/handle/10919/99887/Chadha_A_T_2020.pdf?sequence=1&isAllowed=y)
 
