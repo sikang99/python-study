@@ -1,5 +1,11 @@
 ## UAV, UAS
 
+
+### Terminology
+- OpenAirInterface (OAI)
+- Software Defined Radio (SDR)
+
+
 ### Articles
 
 
