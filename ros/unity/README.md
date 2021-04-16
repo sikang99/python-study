@@ -22,6 +22,7 @@
 
 ### Open Source
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+- [Unity--Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) - Perception toolkit for sim2real training and validation
 
 
 ### Papers
