@@ -52,6 +52,7 @@
 ### Papers
 - 2020 [BenchBot: Evaluating Robotics Research in Photorealistic 3D Simulation and on Real Robots](https://arxiv.org/pdf/2008.00635.pdf)
 - 2020 [Homecare Robotic Systems for Healthcare 4.0: Visions and Enabling Technologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9079593)
+- 2014 [Swarm Robotics Simulation Using Unity](https://www.researchgate.net/publication/269701693_Swarm_Robotics_Simulation_Using_Unity)
 
 
 -------------------------------------

@@ -22,3 +22,7 @@
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 
 
+### Papers
+- 2014 [Swarm Robotics Simulation Using Unity](https://www.researchgate.net/publication/269701693_Swarm_Robotics_Simulation_Using_Unity)
+
+
