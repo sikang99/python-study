@@ -18,6 +18,7 @@
 - [ffmpeg](https://ffmpeg.org)
     - [Encode/AV1](https://trac.ffmpeg.org/wiki/Encode/AV1)
 - [FFmpeg 4.4 Is Released With Support For Even More Encoders, Decoders, Muxers and Filters](https://linuxreviews.org/FFmpeg_4.4_Is_Released_With_Support_For_Even_More_Encoders,_Decoders,_Muxers_and_Filters)
+- [crates/ffmpeg-next](https://crates.io/crates/ffmpeg-next)
 
 
 ### Open Source
@@ -42,6 +43,8 @@
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1)
 - [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
+- [
+
 
 ### Sample Videos
 - [SPBTV/video_av1_samples](https://github.com/SPBTV/video_av1_samples) 
