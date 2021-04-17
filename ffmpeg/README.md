@@ -27,6 +27,11 @@
     - [Brainiarc7/install-ffmpeg.sh](https://gist.github.com/Brainiarc7/7b099f98f6b373699aa2f54e5d6ccb58)
     - [Brainiarc7/h264_nvenc](https://gist.github.com/Brainiarc7/26f15a7f6f316e4ecae2c008b99880e1)
 - [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS
+- [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper
+- [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) - FFmpeg bindings for Rust
+- [nomalab/stainless-ffmpeg](https://github.com/nomalab/stainless-ffmpeg) - Efficient Rust wrapper for FFmpeg
+- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included
+
 
 
 ### Open Source (SRT, RIST)
@@ -43,7 +48,6 @@
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [AOMediaCodec/SVT-AV1](https://github.com/AOMediaCodec/SVT-AV1)
 - [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
-- [
 
 
 ### Sample Videos
