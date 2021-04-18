@@ -13,9 +13,8 @@
 - [GPU Acclerated Applications](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf)
 
 
-
 ### Open Source
-
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 
 
 ### Papers
