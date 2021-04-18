@@ -7,6 +7,7 @@
 
 ### Information
 - Wikipedia: [CIDA}(https://en.wikipedia.org/wiki/CUDA)
+- [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [CUDA](http://www.popflock.com/learn?s=CUDA)
 - [nvJPEG Libraries](https://developer.nvidia.com/nvjpeg)
 - [nvJPEG Libary Guide](https://www.clear.rice.edu/comp422/resources/cuda/pdf/nvJPEG.pdf)
