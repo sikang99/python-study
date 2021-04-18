@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/02/23 [**Swarm Robotics**](https://medium.com/the-treatise/swarm-robotics-81091720df94)
+- 2019/01/01 [The Swarm is coming!](https://momath.org/home/robot-swarm/)
 
 
 ### Information
@@ -11,7 +12,7 @@
 
 ### Videos
 - [User-defined Swarm Robot Control](https://www.youtube.com/watch?v=RfzAkW34J78)
-
+    - 2020 [User-defned Swarm Robot Control](http://shape.stanford.edu/research/SwarmControl/SwarmControl.pdf)
 
 
 ### Papers
