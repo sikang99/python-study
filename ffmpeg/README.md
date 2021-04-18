@@ -30,7 +30,7 @@
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper
 - [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) - FFmpeg bindings for Rust
 - [nomalab/stainless-ffmpeg](https://github.com/nomalab/stainless-ffmpeg) - Efficient Rust wrapper for FFmpeg
-- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included
+- [**markus-perl/ffmpeg-build-script**](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included
 
 
 
