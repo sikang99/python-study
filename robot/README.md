@@ -25,7 +25,7 @@
 - [openpilot](https://comma.ai/)
 - [Freedom Robotics](https://freedomrobotics.ai/)
     - [Freedom Robotics Developer Hub](https://docs.freedomrobotics.ai/)
-
+- [Science Robotics](https://robotics.sciencemag.org/)
 
 
 ### Academy
