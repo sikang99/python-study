@@ -9,6 +9,7 @@
 
 ### Information
 - [Swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics)
+- [Swarm Robot Team](http://www.jaist.ac.jp/robot/research/swarmrobot/swarmrobot.php)
 
 
 ### Videos
@@ -22,5 +23,7 @@
 - 2020 [Reflections on the future of swarm robotics](https://robotics.sciencemag.org/content/5/49/eabe4385)
 - 2020 [A study using the low-cost swarm robotics platform spiderino in education](https://www.sciencedirect.com/science/article/pii/S2666557320300033)
 - 2020 [Swarm Robots in Education: A Review of Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3406499.3418755)
+- 2020 [A Systematic Review of Swarm Robots](https://www.journalcjast.com/index.php/CJAST/article/view/30719)
+
 
 
