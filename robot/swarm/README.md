@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/02/23 [**Swarm Robotics**](https://medium.com/the-treatise/swarm-robotics-81091720df94)
+- 2020/08/13 [Robot Swarms Communicate with Artificial Pheromones](https://sitn.hms.harvard.edu/flash/2020/robot-swarms-communicate-with-artificial-pheromones/)
 - 2019/01/01 [The Swarm is coming!](https://momath.org/home/robot-swarm/)
 
 
