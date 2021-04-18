@@ -10,6 +10,7 @@
 
 
 ### Information
+- [GTC On Deman](https://www.nvidia.com/en-us/gtc/on-demand/)
 - [Vision processing unit](https://en.wikipedia.org/wiki/Vision_processing_unit)
 
 
