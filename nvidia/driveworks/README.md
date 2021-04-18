@@ -2,7 +2,7 @@
 
 
 ### Articles
-
+- [NVIDIA Drive - The Journey to Zero Accidents](https://iot-automotive.news/nvidia-drive/)
 
 
 ### Information
