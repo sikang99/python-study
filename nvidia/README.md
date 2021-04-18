@@ -19,6 +19,7 @@
 
 
 ### Papers
+- 2021 [System Architecture for Autonomous Driving on Route du Bray](https://hal.inria.fr/hal-03139772/document)
 - 2020 [A Survey of Accelerator Architectures for Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S2095809919306356)
 - 2020 [Survey of Machine Learning Accelerators](https://arxiv.org/pdf/2009.00993.pdf)
 - 2018 [Sugar: Secure GPU Acceleration in Web Browsers](https://www.ics.uci.edu/~ardalan/papers/Yao_ASPLOS18.pdf)
