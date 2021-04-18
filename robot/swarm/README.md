@@ -2,6 +2,9 @@
 
 
 
+### Information
+- [Swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics)
+
 
 ### Videos
 - [User-defined Swarm Robot Control](https://www.youtube.com/watch?v=RfzAkW34J78)
