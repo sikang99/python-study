@@ -106,6 +106,7 @@
 - [rticommunity/ros-data-types](https://github.com/rticommunity/ros-data-types) - a rich set of ROS data types in OMG IDL format
 - [DTU-R3](https://github.com/DTU-R3) - “**Remote Reality Robot**” project at the Technical University of Denmark
 - [Adlink-ROS](https://github.com/Adlink-ROS) 
+    - [Adlink-ROS/adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 1/2 based robots swarm architecture (opensplice DDS)
 
 
 ### Slides

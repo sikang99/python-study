@@ -20,6 +20,10 @@
     - 2020 [User-defned Swarm Robot Control](http://shape.stanford.edu/research/SwarmControl/SwarmControl.pdf)
 
 
+### Open Source
+- [Adlink-ROS/adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 1/2 based robots swarm architecture (opensplice DDS)
+
+
 ### Papers
 - 2021 [Swarm SLAM: Challenges and Perspectives](https://www.frontiersin.org/articles/10.3389/frobt.2021.618268/full)
 - 2021 [**Past, Present, and Future of Swarm Robotics**](https://arxiv.org/abs/2101.00671)
