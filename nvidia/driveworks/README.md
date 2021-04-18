@@ -7,6 +7,8 @@
 
 ### Information
 - [NVIDIA DriveWorks](https://developer.nvidia.com/drive/driveworks)
+- [NVIDIA DRIVE OS 5.2 SDK Developer Guide](https://docs.nvidia.com/drive/drive-os-5.2.0.0L/drive-os/index.html)
+    - NvMedia, NvStreams
 - [Autoware’s documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/index.html)
 
 
