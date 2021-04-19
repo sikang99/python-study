@@ -3,6 +3,7 @@
 
 ### Terminology
 - Fog Computing
+- Mist Computing
 - Moble Edge Computing
 - Scalable Computing
 - Cognitive Computing
