@@ -1,6 +1,13 @@
 ## IoT : Internet of Things
 
 
+### Terminology
+- Fog Computing
+- Moble Edge Computing
+- Scalable Computing
+- Cognitive Computing
+
+
 ### Articles
 
 
