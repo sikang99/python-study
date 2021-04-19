@@ -33,6 +33,7 @@
 - 2020 [A Systematic Review of Swarm Robots](https://www.journalcjast.com/index.php/CJAST/article/view/30719)
 - 2020 [SwarmTalk – Towards Benchmark Software Suites for Swarm Robotics Platforms](https://robotics.northwestern.edu/documents/publications/2020aamas_yzhang.pdf)
 - 2020 [Depth estimation on embedded computers for robot swarms in forest](https://arxiv.org/abs/2012.02907)
+- 2021 [**Distributed Architecture for Unmanned Vehicle Services**](https://www.mdpi.com/1424-8220/20/17/4836/pdf)
 
 
 
