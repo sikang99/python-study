@@ -18,6 +18,7 @@
 
 
 ### Papers
+- 2020 [Drones in the Cloud: A Study of IoT Architectures and Simulation in AWS](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9024913&fileOId=9024914)
 - 2020 [Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts†](https://link.springer.com/content/pdf/10.1007/s11432-020-2955-6.pdf)
 - 2020 [A Comprehensive Survey on Mobility-Aware D2D Communications: Principles, Practice and Challenges](https://www.southampton.ac.uk/~sqc/listP/IEEECST2020.pdf)
 - 2019 [Device-Enhanced MEC: Multi-Access Edge Computing (MEC) Aided by End Device Computation and Caching: A Survey](https://faculty.engineering.asu.edu/mre/wp-content/uploads/sites/31/2020/04/DevEnhMECSurv.pdf)
