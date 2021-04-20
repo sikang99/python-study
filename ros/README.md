@@ -150,7 +150,7 @@
 - NuttX - micro-ROS
 - Wind River RTX`
 - VxWorks
-- Xenomai
+- [Xenomai](https://source.denx.de/Xenomai/xenomai/-/wikis/home)
 - QNX
 - OS-9
 - VRTX
