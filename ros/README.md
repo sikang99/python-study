@@ -145,12 +145,20 @@
 
 ### Products
 - Linux RT_PREEMPT
-- Wind River RTX`
-- VxWorks
-- Xenomai
 - FreeRTOS - micro-ROS
 - Zephyr - micro-ROS
 - NuttX - micro-ROS
+- Wind River RTX`
+- VxWorks
+- Xenomai
+- QNX
+- OS-9
+- VRTX
+- eCOS
+- uC/OS-II
+- Nucleus Plus
+- Tron
+- Qplus
 
 
 ### Information
