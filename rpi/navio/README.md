@@ -12,9 +12,16 @@
     - [Navio2 docs](https://docs.emlid.com/navio2/)
     - [Navio docs](https://docs.emlid.com/navio/)
         - [Video streaming](https://docs.emlid.com/navio/common/dev/video-streaming/)
+    - [Store](https://store.emlid.com/product/navio2/)
 - [How to build a drone from scratch with navio2 sks.pdf](https://content.instructables.com/ORIG/FRH/YY7H/JK8KBSBG/FRHYY7HJK8KBSBG.pdf)
 - Ardupilot:
     - [NAVIO2 Overview](https://ardupilot.org/copter/docs/common-navio2-overview.html)
+    - [Archived: NAVIO+ Overview](https://ardupilot.org/copter/docs/common-navio-overview.html)
+
+
+
+### Videos
+- [Raspberry Pi 2 Quadcopter, Navio 2 and 4G GSM Connection](https://www.youtube.com/watch?v=I04xgjDLAtA)
 
 
 ### Open Source
