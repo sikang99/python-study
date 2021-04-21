@@ -13,6 +13,9 @@
     - [Navio2](https://navio2.emlid.com/)
     - [Navio2 docs](https://docs.emlid.com/navio2/)
     - [Navio docs](https://docs.emlid.com/navio/)
+        - [Video streaming](https://docs.emlid.com/navio/common/dev/video-streaming/)
+
+
 
 
 
