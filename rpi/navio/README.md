@@ -10,8 +10,9 @@
 - Ardupilot:
     - [NAVIO2 Overview](https://ardupilot.org/copter/docs/common-navio2-overview.html)
 - EMLID:
-    - [Navio docs](https://docs.emlid.com/navio/)
+    - [Navio2](https://navio2.emlid.com/)
     - [Navio2 docs](https://docs.emlid.com/navio2/)
+    - [Navio docs](https://docs.emlid.com/navio/)
 
 
 
