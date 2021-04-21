@@ -17,7 +17,8 @@
 - Ardupilot:
     - [NAVIO2 Overview](https://ardupilot.org/copter/docs/common-navio2-overview.html)
     - [Archived: NAVIO+ Overview](https://ardupilot.org/copter/docs/common-navio-overview.html)
-
+- AirSim
+    - [AirSim](https://microsoft.github.io/AirSim/)
 
 
 ### Videos
@@ -26,6 +27,11 @@
 
 ### Open Source
 - [eestec-antwerp/drone-control](https://github.com/eestec-antwerp/drone-control) - Python application to control an ArduCopter-equipped drone (like a Raspi+Navio combo)
+
+
+### Papers
+- 2020 [Navio-2 FC와 AirSim기반 자율비행 드론 제어기 개발](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09410478)
+
 
 
 
