@@ -34,8 +34,23 @@
 
 ### Information
 - [NPR New Packet Radio](https://hackaday.io/project/164092-npr-new-packet-radio)
+    - old AX.25 Protocol
 - [AREDN , Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
 
+### Open Source
+- [bg2bhc/gr-dslwp](https://github.com/bg2bhc/gr-dslwp)
+- [geeanlooca/deepspace-turbo](https://github.com/geeanlooca/deepspace-turbo) - Implementation of the CCSDS (Consultative Committee for Space Data Systems) standard for Turbo Codes
+
+
+### Papers
+- 2020 [Design and flight results of the VHF/UHF communication system of Longjiang lunar microsatellites](https://www.nature.com/articles/s41467-020-17272-8)
+- 2019 [Classification of Radio Signals and HF Transmission Modes with Deep Learning](https://arxiv.org/pdf/1906.04459.pdf)
+
+
+### Reports
+- 2020 [Techniques for Tactical Radio Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN20819_ATP_6-02x53_FINAL_WEB.pdf)
+
+`
 
 
 
