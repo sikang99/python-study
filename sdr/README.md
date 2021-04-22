@@ -49,7 +49,7 @@
 
 ### Reports
 - 2020 [Techniques for Tactical Radio Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN20819_ATP_6-02x53_FINAL_WEB.pdf)
-
+- 2005 [Radio Communications In the Digital Age](https://code7700.com/pdfs/radio_communications_in_the_digital_age.pdf)
 `
 
 
