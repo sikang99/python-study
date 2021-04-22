@@ -28,6 +28,7 @@
 
 
 ### Articles
+- 2020/09/04 [Introduction to Packet Radio](https://www.bugoutbagbuilder.com/blog/introduction-packet-radio)
 - 2019/10/25 [Build a Long-Distance Data Network Using Ham Radio](https://spectrum.ieee.org/geek-life/hands-on/build-a-longdistance-data-network-using-ham-radio)
 - [Utilize a Ham Radio for Long-Distance Data Networking](https://www.hackster.io/news/utilize-a-ham-radio-for-long-distance-data-networking-a452bb91be38)
 
@@ -36,6 +37,9 @@
 - [NPR New Packet Radio](https://hackaday.io/project/164092-npr-new-packet-radio)
     - old AX.25 Protocol
 - [AREDN , Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
+- [HamWAN](https://hamwan.org/) - A modern, multi-megabit, IP-based, digital network for amateur radio use
+
+
 
 ### Open Source
 - [bg2bhc/gr-dslwp](https://github.com/bg2bhc/gr-dslwp)
@@ -49,6 +53,7 @@
 
 ### Reports
 - 2020 [Techniques for Tactical Radio Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN20819_ATP_6-02x53_FINAL_WEB.pdf)
+- 2018 [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 - 2005 [Radio Communications In the Digital Age](https://code7700.com/pdfs/radio_communications_in_the_digital_age.pdf)
 `
 
