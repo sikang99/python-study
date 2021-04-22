@@ -29,6 +29,7 @@
 
 ### Articles
 - 2020/09/04 [Introduction to Packet Radio](https://www.bugoutbagbuilder.com/blog/introduction-packet-radio)
+- 2020/07/12 [FT8 Digital Radio Protocol—How Does it Work?](https://medium.com/dev-genius/ft8-digital-radio-protocol-how-does-it-work-745bceae11f0)
 - 2019/10/25 [Build a Long-Distance Data Network Using Ham Radio](https://spectrum.ieee.org/geek-life/hands-on/build-a-longdistance-data-network-using-ham-radio)
 - [Utilize a Ham Radio for Long-Distance Data Networking](https://www.hackster.io/news/utilize-a-ham-radio-for-long-distance-data-networking-a452bb91be38)
 - 2019/09/02 [**Setup Raspberry Pi for Ham-Radio**](https://orari.or.id/index.php/2019/09/02/setup-raspberry-pi-for-ham-radio/)
@@ -43,6 +44,8 @@
 - [AREDN , Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
 - [HamWAN](https://hamwan.org/) - A modern, multi-megabit, IP-based, digital network for amateur radio use
 - [HamClock](https://www.clearskyinstitute.com/ham/HamClock/)
+- [Military Communication Systems](https://www.aselsan.com.tr/en/capabilities/military-communication-systems)
+
 
 
 ### Open Source
