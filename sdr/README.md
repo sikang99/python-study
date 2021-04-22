@@ -23,3 +23,22 @@
 - [mgp25/RF-List](https://github.com/mgp25/RF-List) - RFSec tools
 - [EttusResearch/uhd](https://github.com/EttusResearch/uhd) - The USRP™ Hardware Driver Repository
 
+------------------
+## Ham Radio
+
+
+### Articles
+- 2019/10/25 [Build a Long-Distance Data Network Using Ham Radio](https://spectrum.ieee.org/geek-life/hands-on/build-a-longdistance-data-network-using-ham-radio)
+- [Utilize a Ham Radio for Long-Distance Data Networking](https://www.hackster.io/news/utilize-a-ham-radio-for-long-distance-data-networking-a452bb91be38)
+
+
+### Information
+- [NPR New Packet Radio](https://hackaday.io/project/164092-npr-new-packet-radio)
+- [AREDN , Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
+
+
+
+
+
+
+
