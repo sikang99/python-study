@@ -14,6 +14,7 @@
 - [Myriad RF](https://myriadrf.org/) - open source hardware and software projects for wireless communications
 - [GNURadio](https://www.gnuradio.org/) 
 - [Ettu Research](http://www.ettusresearch.com/)
+- [Lime microsystems](https://limemicro.com/) - Software defined radio technology for wireless networks
 
 
 ### Open Source
