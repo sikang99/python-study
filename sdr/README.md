@@ -55,6 +55,7 @@
 
 
 ### Papers
+- 2020 [The FT4 and FT8 Communication Protocols](https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf)
 - 2020 [Design and flight results of the VHF/UHF communication system of Longjiang lunar microsatellites](https://www.nature.com/articles/s41467-020-17272-8)
 - 2019 [Classification of Radio Signals and HF Transmission Modes with Deep Learning](https://arxiv.org/pdf/1906.04459.pdf)
 - 2017 [Amateur Radio Communication Technology Contingency Communication in Emergency Situation](https://www.researchgate.net/publication/313302205_Amateur_Radio_Communication_Technology_Contingency_Communication_in_Emergency_Situation)
