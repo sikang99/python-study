@@ -46,6 +46,7 @@
 - [HamWAN](https://hamwan.org/) - A modern, multi-megabit, IP-based, digital network for amateur radio use
 - [HamClock](https://www.clearskyinstitute.com/ham/HamClock/)
 - [Military Communication Systems](https://www.aselsan.com.tr/en/capabilities/military-communication-systems)
+- [Digital HF using the Raspberry Pi](https://sites.calvin.edu/derek/ham/HFdigital.php)
 
 
 ### Open Source
