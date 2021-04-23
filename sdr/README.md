@@ -57,6 +57,7 @@
 ### Papers
 - 2020 [Design and flight results of the VHF/UHF communication system of Longjiang lunar microsatellites](https://www.nature.com/articles/s41467-020-17272-8)
 - 2019 [Classification of Radio Signals and HF Transmission Modes with Deep Learning](https://arxiv.org/pdf/1906.04459.pdf)
+- 2017 [Amateur Radio Communication Technology Contingency Communication in Emergency Situation](https://www.researchgate.net/publication/313302205_Amateur_Radio_Communication_Technology_Contingency_Communication_in_Emergency_Situation)
 
 
 ### Reports
@@ -64,9 +65,5 @@
 - 2018 [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 - 2005 [Radio Communications In the Digital Age](https://code7700.com/pdfs/radio_communications_in_the_digital_age.pdf)
 `
-
-
-
-
 
 
