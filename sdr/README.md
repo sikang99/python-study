@@ -30,6 +30,7 @@
 ### Articles
 - 2020/09/04 [Introduction to Packet Radio](https://www.bugoutbagbuilder.com/blog/introduction-packet-radio)
 - 2020/07/12 [FT8 Digital Radio Protocol—How Does it Work?](https://medium.com/dev-genius/ft8-digital-radio-protocol-how-does-it-work-745bceae11f0)
+- 2020/07/10 [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio)
 - 2019/10/25 [Build a Long-Distance Data Network Using Ham Radio](https://spectrum.ieee.org/geek-life/hands-on/build-a-longdistance-data-network-using-ham-radio)
 - [Utilize a Ham Radio for Long-Distance Data Networking](https://www.hackster.io/news/utilize-a-ham-radio-for-long-distance-data-networking-a452bb91be38)
 - 2019/09/02 [**Setup Raspberry Pi for Ham-Radio**](https://orari.or.id/index.php/2019/09/02/setup-raspberry-pi-for-ham-radio/)
@@ -47,10 +48,10 @@
 - [Military Communication Systems](https://www.aselsan.com.tr/en/capabilities/military-communication-systems)
 
 
-
 ### Open Source
 - [bg2bhc/gr-dslwp](https://github.com/bg2bhc/gr-dslwp)
 - [geeanlooca/deepspace-turbo](https://github.com/geeanlooca/deepspace-turbo) - Implementation of the CCSDS (Consultative Committee for Space Data Systems) standard for Turbo Codes
+- [kgoba/ft8_lib](https://github.com/kgoba/ft8_lib) - FT8 library
 
 
 ### Papers
