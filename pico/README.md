@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/04/22 [How to use DC motor with Raspberrry Pi Pico](https://www.youngwonks.com/blog/How-to-use-a-DC-motor-with-the-Raspberry-Pi-Pico)
 - 2021/04/15 [The Tiniest Raspberry Pi RP2040 Boards – Tiny 2040 & Adafruit QT Py RP2040](https://www.cnx-software.com/2021/04/15/the-tiniest-raspberry-pi-rp2040-boards-tiny-2040-adafruit-qt-py-rp2040/)
 - 2021/04/10 [Olimex Unveils the RP2040-PICO-PC Carrier and the RP2040-Py Drop-In Raspberry Pi Pico Replacement](https://www.hackster.io/news/olimex-unveils-the-rp2040-pico-pc-carrier-and-the-rp2040-py-drop-in-raspberry-pi-pico-replacement-67ed5c7dc6db?fbclid=IwAR2yOKOxQw6svkzAa8EF7WkgdQrvQnPDl6eVZWxbI4d34WrfVOcUE3qdmLY)
 - 2021/04/09 [Yet Another Adafruit QT Py with Raspberry Pi's RP2040 Chip!](https://www.hackster.io/news/yet-another-adafruit-qt-py-with-raspberry-pi-s-rp2040-chip-48fd327daa1f)
