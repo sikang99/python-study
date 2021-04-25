@@ -1,0 +1,18 @@
+
+
+
+snap install --classic flutter
+snap install --classic code
+code --install-extension dart-code.flutter
+
+
+flutter channel dev
+flutter upgrade
+flutter config --enable-linux-desktop
+
+flutter create counter
+cd counter
+flutter run -d linux
+
+
+
