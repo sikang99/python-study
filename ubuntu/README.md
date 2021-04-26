@@ -6,9 +6,10 @@
 
 
 ### Information
-
+- [LVFS](https://fwupd.org/) - Linux Vendor Firmware Service
 
 
 ### Open Source
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A simple daemon to allow session software to update firmware
 
 
