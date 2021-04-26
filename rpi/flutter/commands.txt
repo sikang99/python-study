@@ -5,6 +5,7 @@ snap install --classic flutter
 snap install --classic code
 code --install-extension dart-code.flutter
 
+sudo snap alias flutter.dart dart
 
 flutter channel dev
 flutter upgrade
@@ -14,5 +15,21 @@ flutter create counter
 cd counter
 flutter run -d linux
 
+
+sudo snap install android-studio --classic
+android-studio
+flutter config --android-studio-dir /snap/android-studio/current/android-studio
+flutter doctor --android-licenses
+
+# switch to dev branch
+flutter channel dev
+# update Flutter to the latest dev branch revision
+flutter upgrade
+# enable Linux toolchain
+flutter config --enable-linux-desktop
+# enable macOS toolchain
+flutter config --enable-macos-desktop
+# enable Windows toolchain
+flutter config --enable-windows-desktop
 
 
