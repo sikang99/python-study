@@ -6,5 +6,9 @@
 - 2021/02/08 [Getting started with Flutter on Ubuntu](https://ubuntu.com/blog/getting-started-with-flutter-on-ubuntu)
 
 
+### Information
+- [Flutter – Step by Step Installation on Linux – Ubuntu](https://www.tutorialkart.com/flutter/flutter-install-on-linux-ubuntu/)
+
+
 ### Open Source
 

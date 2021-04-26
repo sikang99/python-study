@@ -32,4 +32,6 @@ flutter config --enable-macos-desktop
 # enable Windows toolchain
 flutter config --enable-windows-desktop
 
+flutter config --enable-web
+export CHROME_EXECUTABLE=/snap/bin/chromium
 
