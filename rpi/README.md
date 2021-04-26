@@ -22,6 +22,7 @@
 - Picamera: [release-1.13](https://picamera.readthedocs.io/en/release-010.13/index.html)
 - [Raspberry Pi / Libcamera / OS Buster / IMX477 HiQ Camera](https://forum.openframeworks.cc/t/raspberry-pi-libcamera-os-buster-imx477-hiq-camera/35803)
 - [PiTray mini for Raspberry Pi Compute Module 4](https://www.dfrobot.com/product-2196.html)
+- [Install Ubuntu Core on a Raspberry Pi](https://ubuntu.com/download/raspberry-pi-core)
 
 
 ### Slides
