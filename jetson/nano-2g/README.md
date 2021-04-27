@@ -7,6 +7,8 @@
 
 
 - [How to Install and Run Yolo on the Nvidia Jetson Nano (with GPU)](https://morioh.com/p/5dcf2b8c8308?f=5c21fb01c16e2556b555ab32)
+- [How to use PWM on Jetson Nano](https://www.seeedstudio.com/blog/2020/05/27/configure-pwm-output-on-jetson-nano-m/)
+
 
 
 
