@@ -6,5 +6,10 @@
 - [Building OpenCV for Tegra with CUDA](https://docs.opencv.org/4.5.1/d6/d15/tutorial_building_tegra_cuda.html)
 
 
+- [How to Install and Run Yolo on the Nvidia Jetson Nano (with GPU)](https://morioh.com/p/5dcf2b8c8308?f=5c21fb01c16e2556b555ab32)
+
+
+
+
 
 
