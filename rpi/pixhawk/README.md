@@ -31,3 +31,13 @@
 - [CopterExpress/clover](https://github.com/CopterExpress/clover)
 - [alexandrainst/dronedemo](https://github.com/alexandrainst/dronedemo) - A repository with all the tools you need to develop and build drone software/services relying on OpenCV and Tensorflow
 - [thecognifly/CogniFly-STL](https://github.com/thecognifly/CogniFly-STL) - 3D files for printing and assembling current and past versions of CogniFly
+
+
+### Papers
+- 2021 [Artificial Intelligence for UAV-enabled Wireless Networks: A Survey](https://arxiv.org/pdf/2009.11522.pdf)
+
+
+### Books
+- 2021 [Intelligent Autonomous Drones with Cognitive Deep Learning](https://www.apress.com/gp/book/9781484268025)
+
+
