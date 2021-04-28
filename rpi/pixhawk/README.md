@@ -3,7 +3,7 @@
 
 ### Articles
 - 2021/04/02 [Raspberry Pi automated drone landing system](https://www.geeky-gadgets.com/raspberry-pi-automated-drone-landing-system-02-04-2021/)
-- 2021/03/15 [Resilient AI Drone Pack It All in Under 250 grams](https://hackaday.com/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/)
+- 2021/03/15 [**Resilient AI Drone Pack It All in Under 250 Grams**](https://hackaday.com/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/)
 - 2021/02/16 [Connecting a Raspberry Pi Zero W to the Hovergames Drone Kit](https://www.hackster.io/matthew-hurley/connecting-a-raspberry-pi-zero-w-to-the-hovergames-drone-kit-e3acf1)
 - 2020/11/01 [Programming drones with Raspberry Pi on board easily](https://www.hackster.io/korigod/programming-drones-with-raspberry-pi-on-board-easily-b2190e)
 - 2020/05/01 [Researchers Give a Raspberry Pi-Powered Drone Indoor Navigation Capabilities with a Single Camera](https://www.hackster.io/news/researchers-give-a-raspberry-pi-powered-drone-indoor-navigation-capabilities-with-a-single-camera-ddb6495bcaae)
