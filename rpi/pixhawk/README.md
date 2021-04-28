@@ -16,6 +16,7 @@
 - [DRONEE PILOT- drone autopilot with compute module Raspberry pi Zero-W Companion computer](https://dronee.aero/es/pages/pilot) - $331.00
 - [Gumstix Raspberry Pi CM4 + Pixhawk FMUv6U](https://www.gumstix.com/manufacturer/raspberry-pi/cm4-pixhawk-fmuv6.html) - $180.00
     - [gumstix/PKG900000001531](https://github.com/gumstix/PKG900000001531) 
+- [Lychee-Drone autopilot hardware | computer](https://dronee.aero/products/lychee-coming-soon?variant=21171694567502)
 
 
 ### Slides
