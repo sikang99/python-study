@@ -41,7 +41,9 @@
 - 2021 [Artificial Intelligence and Robotics](https://arxiv.org/pdf/1803.10813.pdf)
 - 2021 [Intelligent Autonomous Drones with Cognitive Deep Learning](https://www.apress.com/gp/book/9781484268025)
 - 2019 [A Review on IoT Deep Learning UAV Systems for Autonomous Obstacle Detection and Collision Avoidance](https://ruc.udc.es/dspace/bitstream/handle/2183/24021/P.Fraga-Lamas_2019_A_Review_on_IoT_Deep_Learning_UAV_Systems_for_Autonomous.pdf)
+- 2019 [UAV Autonomous Target Search Based on Deep Reinforcement Learning in Complex Disaster Scene](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8787847)
 - 2017 [AI, Robots, and Swarms: Issues, Questions, and Recommended Studies](https://www.cna.org/cna_files/pdf/DRM-2017-U-014796-Final.pdf)
+
 
 
 
