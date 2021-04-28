@@ -107,6 +107,7 @@
 - [DTU-R3](https://github.com/DTU-R3) - “**Remote Reality Robot**” project at the Technical University of Denmark
 - [Adlink-ROS](https://github.com/Adlink-ROS) 
     - [Adlink-ROS/adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 1/2 based robots swarm architecture (opensplice DDS)
+- [aws-deepracer/](https://github.com/aws-deepracer/)
 
 
 ### Slides
