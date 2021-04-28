@@ -35,6 +35,6 @@
 - 2020 [SwarmTalk – Towards Benchmark Software Suites for Swarm Robotics Platforms](https://robotics.northwestern.edu/documents/publications/2020aamas_yzhang.pdf)
 - 2020 [Depth estimation on embedded computers for robot swarms in forest](https://arxiv.org/abs/2012.02907)
 - 2020 [Robotic Canvas: Interactive Painting onto Robot Swarms](https://direct.mit.edu/isal/proceedings/isal2020/32/163/98452)
-- 2019 [**A Survey on Aerial Swarm Robotics**](https://authors.library.caltech.edu/87925/1/tro-aerial-robotics_final.pdf)
+- 2018 [**A Survey on Aerial Swarm Robotics**](https://authors.library.caltech.edu/87925/1/tro-aerial-robotics_final.pdf)
 
 
