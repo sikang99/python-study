@@ -44,5 +44,9 @@
 - [byrobot-rust/e_drone_rpi](https://github.com/byrobot-rust/e_drone_rpi) - 
 
 
+### Papers
+- [BeeCluster: Drone Orchestration via Predictive Optimization](https://dl.acm.org/doi/pdf/10.1145/3386901.3388912)
+
+
 
 
