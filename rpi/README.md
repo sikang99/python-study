@@ -12,6 +12,7 @@
 - 2021/03/31 [Piunora has the guts of a Raspberry Pi 4 with Arduino form factor, M.2 PCIe socket (Crowdfunding)](https://www.cnx-software.com/2021/03/31/piunora-has-the-guts-of-a-raspberry-pi-4-with-arduino-form-factor-pcie-socket/)
 - 2021/03/16 [Raspberry Pi + Zephyr RTOS](https://www.zephyrproject.org/raspberry-pi-zephyr-rtos/)
 - 2020/11/23 [TensorFlow 2 on Raspberry Pi](https://towardsdatascience.com/3-ways-to-install-tensorflow-2-on-raspberry-pi-fe1fa2da9104)
+- 2020/10/12 [2D Mapping using Google Cartographer and RPLidar with Raspberry Pi](https://medium.com/robotics-weekends/2d-mapping-using-google-cartographer-and-rplidar-with-raspberry-pi-a94ce11e44c5)
 - 2020/06/29 [Pi Camera sensor 그리고 Camera Device Driver에 관하여...](https://slowbootkernelhacks.blogspot.com/2020/06/pi-camera-sensor-camera-device-driver.html)
 - 2020/05/04 [An open source camera stack for Raspberry Pi using libcamera](https://www.raspberrypi.org/blog/an-open-source-camera-stack-for-raspberry-pi-using-libcamera/)
 - 2019/07/19 [Cluster HAT Interfaces up to 4 Raspberry Pi Zero to Raspberry Pi 2/3/4 Board](https://www.cnx-software.com/2019/07/10/cluster-hat-4-raspberry-pi-zero-boards/)
