@@ -23,6 +23,8 @@
 - [Raspberry Pi / Libcamera / OS Buster / IMX477 HiQ Camera](https://forum.openframeworks.cc/t/raspberry-pi-libcamera-os-buster-imx477-hiq-camera/35803)
 - [PiTray mini for Raspberry Pi Compute Module 4](https://www.dfrobot.com/product-2196.html)
 - [Install Ubuntu Core on a Raspberry Pi](https://ubuntu.com/download/raspberry-pi-core)
+- [Raspberry Pi Cameras – the BIG Picture](https://dronebotworkshop.com/pi-cameras/)
+- [e_drone_rpi](https://crates.io/crates/e_drone_rpi) - Rust library for BYROBOT Drones
 
 
 ### Slides
@@ -39,5 +41,8 @@
 - [abelperezok/kubernetes-raspberry-pi-cluster-hat](https://github.com/abelperezok/kubernetes-raspberry-pi-cluster-hat)
 - [AKYD/clusterhat-kubernetes](https://github.com/AKYD/clusterhat-kubernetes)
 - [UbuntuBudgie/UBpi](https://github.com/UbuntuBudgie/UBpi) - Ubuntu Budgie for the Raspberry Pi 4
+- [byrobot-rust/e_drone_rpi](https://github.com/byrobot-rust/e_drone_rpi) - 
+
+
 
 
