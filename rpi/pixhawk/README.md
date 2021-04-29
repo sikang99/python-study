@@ -26,6 +26,7 @@
 
 ### Stack Overflow
 - [How can I connecti Raspberry pi 4 to pixhawk?](https://stackoverflow.com/questions/63419256/how-can-i-connecti-raspberry-pi-4-to-pixhawk)
+- [How can i implement precision landing on a drone using Pixhawk and Raspberry Pi?](https://answers.ros.org/question/363798/how-can-i-implement-precision-landing-on-a-drone-using-pixhawk-and-raspberry-pi/)
 
 
 ### Open Source
