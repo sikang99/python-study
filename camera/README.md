@@ -48,6 +48,7 @@
 
 ### Information
 - [Test Videos](https://test-video.co.uk] - Big Buck Bunny, JellyFish, Sintel(AV1)
+- [Webcam Test](https://www.onlinemictest.com/webcam-test/)
 
 
 ### Open Source
