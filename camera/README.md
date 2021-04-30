@@ -43,6 +43,7 @@
 ### Articles
 - 2020/07/12 [Virtual web cam using GStreamer and v4l2loopback](https://aweirdimagination.net/2020/07/12/virtual-web-cam-using-gstreamer-and-v4l2loopback/)
 - 2020/06/02 [Virtual Camera for OpenCV using V4L2Loopback](https://arcoresearchgroup.wordpress.com/2020/06/02/virtual-camera-for-opencv-using-v4l2loopback/)
+- 2018/10/10 [Create a virtual webcam using static image or video(FFmpeg, v4l-utils, and v4l2loopback)](https://atinkerholic.wordpress.com/2018/10/10/how-to-use-a-virtual-webcam-with-static-image-or-video-ffmpeg-v4l-utils-and-v4l2loopback/)
 
 
 ### Information
