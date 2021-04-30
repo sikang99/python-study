@@ -4,6 +4,9 @@
 usage:
 	@echo "usage: make [list|set|unset|test|cast|play]"
 
+install:
+	sudo apt install -y v4l2loopback-dkms v4l2loopback-utils
+
 set:
 	sudo modprobe v4l2loopback video="42" \
 		'card_label=virtcam' \
