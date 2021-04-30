@@ -36,3 +36,21 @@
 - [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) 
 - [teh-cmc/go-sfml](https://github.com/teh-cmc/go-sfml) - Go bindings for SFML
 
+
+--------------------
+## V4L : Video for Linux
+
+### Articles
+- 2020/07/12 [Virtual web cam using GStreamer and v4l2loopback](https://aweirdimagination.net/2020/07/12/virtual-web-cam-using-gstreamer-and-v4l2loopback/)
+
+
+
+### Information
+
+
+
+### Open Source
+- [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+
+
+
