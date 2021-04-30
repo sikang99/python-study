@@ -42,7 +42,7 @@
 
 ### Articles
 - 2020/07/12 [Virtual web cam using GStreamer and v4l2loopback](https://aweirdimagination.net/2020/07/12/virtual-web-cam-using-gstreamer-and-v4l2loopback/)
-
+- 2020/06/02 [Virtual Camera for OpenCV using V4L2Loopback](https://arcoresearchgroup.wordpress.com/2020/06/02/virtual-camera-for-opencv-using-v4l2loopback/)
 
 
 ### Information
