@@ -1,0 +1,27 @@
+#
+# Makefile for virtual camera
+#
+usage:
+	@echo "usage: make [list|set|unset|test|cast|play]"
+
+set:
+	sudo modprobe v4l2loopback video="42" \
+		'card_label=virtcam' \
+		exclusive_caps=1 max_buffers=2
+
+unset:
+	sudo modprobe -r v4l2loopback
+
+test:
+	gst-launch-1.0 videotestsrc ! autovideosink
+
+cast:
+	gst-launch-1.0 videotestsrc ! v4l2sink device=/dev/video1
+
+play:
+	gst-launch-1.0 v4l2src device=/dev/video1 ! autovideosink
+
+list:
+	@ls /dev/video*
+
+
