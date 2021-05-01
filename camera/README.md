@@ -45,11 +45,14 @@
 - 2020/06/02 [Virtual Camera for OpenCV using V4L2Loopback](https://arcoresearchgroup.wordpress.com/2020/06/02/virtual-camera-for-opencv-using-v4l2loopback/)
 - 2019/04/15 [Stream a mp4 video file to V4l2loopback device.01](https://jiafei427.wordpress.com/2019/04/15/v4l2loopback/)
 - 2018/10/10 [Create a virtual webcam using static image or video(FFmpeg, v4l-utils, and v4l2loopback)](https://atinkerholic.wordpress.com/2018/10/10/how-to-use-a-virtual-webcam-with-static-image-or-video-ffmpeg-v4l-utils-and-v4l2loopback/)
+- [Use Your Mobile Camera as Webcam on Fedora With V4l2 Loopback](https://girishjoshi.io/post/use-your-mobile-camera-as-webcam-on-fedora-with-v4l2-loopback/)
+
 
 
 ### Information
 - [Test Videos](https://test-video.co.uk] - Big Buck Bunny, JellyFish, Sintel(AV1)
 - [Webcam Test](https://www.onlinemictest.com/webcam-test/)
+- [virtualvideo](https://pypi.org/project/virtualvideo/)
 
 
 ### Open Source
