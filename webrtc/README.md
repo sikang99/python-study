@@ -66,6 +66,7 @@ WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTer
 - [introlab/opentera-webrtc-teleop-frontend](https://github.com/introlab/opentera-webrtc-teleop-frontend) - OpenTera VUE.js Frontend
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [perelman/minimal-webrtc-gstreamer](https://git.aweirdimagination.net/perelman/minimal-webrtc-gstreamer) 
+- [https://github.com/node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
 
 
 ### Docker Hub
