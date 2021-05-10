@@ -35,6 +35,7 @@
     - [webrtc_ros](http://wiki.ros.org/webrtc_ros)
 - [RTCBot’s documentation](https://rtcbot.readthedocs.io/en/latest/)
 - [Documentation for webbot](https://webbot.readthedocs.io/en/latest/)
+- [**684 Open Source Webrtc Software Projects**](https://opensourcelibs.com/libs/webrtc)
 
 
 ### Slides
