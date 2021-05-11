@@ -23,7 +23,7 @@
     - [WebRTC](https://developer.nvidia.com/embedded/downloads#?search=webrtc)
 - [Vision Programming Interface (VPI)](https://developer.nvidia.com/embedded/vpi)
     - [VPI](https://docs.nvidia.com/vpi/index.html) - VPI - Vision Programming Interface Documentation
-    - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_(VPI)_Demo)
+    - [NVIDIA Vision Programming Interface (VPI) Demo](https://developer.ridgerun.com/wiki/index.php?title=NVIDIA_Vision_Programming_Interface_VPI Demo)
 - desertbot.io: [Jetson](https://desertbot.io/jetson/)
 - [OpenDataCam](https://opendata.cam/)
 - [Jetson Nano / Xavier NX baseboard](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/)
@@ -60,7 +60,7 @@
 - [autorope/donkeycar](https://github.com/autorope/donkeycar)
 - [jugfk/downloadManuals](https://github.com/jugfk/downloadManuals) - 젯슨나노를 위한 다운로드용 설치매뉴얼 텍스트파일(.txt)입니다.
 - [antmicro/jetson-nano-baseboard](https://github.com/antmicro/jetson-nano-baseboard) - Antmicro's open hardware baseboard for the NVIDIA Jetson Nano and Jetson Xavier NX
-
+- [Pyrestone/jetson-fan-ctl](https://github.com/Pyrestone/jetson-fan-ctl) - Automagic fan control for the Nvidia Jetson Nano
 
 
 ### Tips
