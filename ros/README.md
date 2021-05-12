@@ -68,6 +68,7 @@
 - [Ubuntu Robotics](https://ubuntu.com/robotics) - [Ubuntu Core 20 secures Linux for IoT](https://ubuntu.com/blog/ubuntu-core-20-secures-linux-for-iot)
 - Unity: [Robotics simulation](https://unity.com/solutions/automotive-transportation-manufacturing/robotics)
 - [ADLINK ROS2 Robotics Solutions](https://www.adlinktech.com/en/ROS2-Solution.aspx) - 5G-enabled Swarm Autonomy
+- [hyphaROS Workshop](https://hypharosworkshop.wordpress.com/)
 
 
 ### Docker Hub
@@ -108,6 +109,8 @@
 - [Adlink-ROS](https://github.com/Adlink-ROS) 
     - [Adlink-ROS/adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 1/2 based robots swarm architecture (opensplice DDS)
 - [aws-deepracer/](https://github.com/aws-deepracer/)
+- [Hypha-ROS/hypharos_minicar](https://github.com/Hypha-ROS/hypharos_minicar) - 1/20 MiniCar: An ackermann based rover for MPC and Pure-Pursuit controller
+
 
 
 ### Slides
