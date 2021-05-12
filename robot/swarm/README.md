@@ -22,6 +22,9 @@
 
 ### Open Source
 - [Adlink-ROS/adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 1/2 based robots swarm architecture (opensplice DDS)
+- [geut/discovery-swarm-webrtc](https://github.com/geut/discovery-swarm-webrtc) - discovery-swarm for WebRTC
+    - [RangerMauve/mostly-minimal-spanning-tree](https://github.com/RangerMauve/mostly-minimal-spanning-tree) - MMST is used to create spanning trees in P2P networks while minimizing connections per node
+- [RangerMauve/hyperswarm-web](https://github.com/RangerMauve/hyperswarm-web) - Implementation of the hyperswarm API for use in web browsers
 
 
 ### Papers
