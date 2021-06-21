@@ -13,6 +13,7 @@
 
 
 ### Information
+- [Open Source Hardware](https://jaywang.info/on-open-source-hardware/)
 - [BeagleV](https://beagleboard.org/beaglev)
 - [Doctor Who HiFive Inventor Coding Kit](https://www.hifiveinventor.com/)
 
