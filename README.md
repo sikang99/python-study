@@ -25,6 +25,7 @@ Python Programming
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kunchalavikram1427/Python_public](https://github.com/kunchalavikram1427/Python_public) 
 - [zainali60/Data-Analysis-practice](https://github.com/zainali60/Data-Analysis-practice) 
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - A ranked list of awesome python libraries for web development. Updated weekly.
 
 
 ### Tips and Techniques
