@@ -14,7 +14,7 @@
 
 ### Information
 - [BeagleV](https://beagleboard.org/beaglev)
-- [Dr Who HiFive Inventor Coding Kit](https://www.hifiveinventor.com/)
+- [Doctor Who HiFive Inventor Coding Kit](https://www.hifiveinventor.com/)
 
 
 ### Open Source
