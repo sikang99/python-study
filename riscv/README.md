@@ -1,6 +1,8 @@
 ## RISC-V
 
 
+### Specification
+- [RISC-V RV32I specification](https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMAFDQC/riscv-spec-20191213.pdf)
 
 
 ### Articles
