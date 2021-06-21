@@ -28,3 +28,6 @@
 - [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples)
 - [ARM-software/developer](https://github.com/ARM-software/developer)
     - [developer/projects/multi_domain_pico/](https://github.com/ARM-software/developer/tree/master/projects/multi_domain_pico) - Multi-Domain AI with the Raspberry Pi Pico
+- [TinkerGen/Beginner-s-Guide-for-Raspberry-Pi-Pico](https://github.com/TinkerGen/Beginner-s-Guide-for-Raspberry-Pi-Pico)
+
+
