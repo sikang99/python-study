@@ -12,7 +12,7 @@
 
 
 ### Open Source
-
+- [sylefeb/Silice/tree/draft/projects/ice-v](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v) - The Ice-V: a simple, compact RISC-V RV32I implementation in Silice
 
 
 
