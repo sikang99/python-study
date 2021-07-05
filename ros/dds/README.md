@@ -13,9 +13,11 @@
 - [Go/dds](https://libs.garden/go/search?q=dds)
 - [RTPS/ROS2 Interface: PX4-FastRTPS Bridge](https://docs.px4.io/master/en/middleware/micrortps.html)
 - [Data Distribution Service (DDS)](https://www.omg.org/spec/DDS/1.4/PDF) - Version 1.4, Date: April 2015
+- [OpenDDS](https://opendds.org/)
 
 
 ### Open Source
+- [objectcomputing/OpenDDS](https://github.com/objectcomputing/OpenDDS) - open source C++ implementation of OMG DDS
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS <- Fast RTPS
 - [eProsima/Fast-DDS-Gen](https://github.com/eProsima/Fast-DDS-Gen) - Fast-DDS IDL code generator tool
 - [yangchenxing/go-dds](https://github.com/yangchenxing/go-dds)
