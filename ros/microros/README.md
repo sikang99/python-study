@@ -56,6 +56,9 @@
 - [**lukicdarkoo/pico-micro-ros**](https://github.com/lukicdarkoo/pico-micro-ros)
 
 
+### Docker Hub
+- [microros/micro_ros_static_library_builder](https://hub.docker.com/r/microros/micro_ros_static_library_builder) - micro-ROS Dockers
+
 
 ### Slides
 - 2020 [FIWARE Wednesday Webinars - How to Develop FIWARE NGSI Interfaces for Robots](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
