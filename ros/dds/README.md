@@ -4,6 +4,7 @@
 
 
 ### Articles
+- 2016/08/15 [A Tale of Two Industrial IoT Standards: DDS and OPC-UA](https://www.rtinsights.com/dds-opc-ua-industrial-iot-standards/)
 
 
 ### Information
