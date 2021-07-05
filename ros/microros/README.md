@@ -66,6 +66,7 @@
 - 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
 - 2018 [micro-ROS](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c8ada4222fe0ccbd58d8/1558628538888/2019-05-07_micro-ROS.pdf)
 - 2018 [ROS 2 Embedded](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5c5aa394a4222f883e310086/1549443993975/2018.12.12_Ingo_Luethkebohle.pdf)
+- 2018 [Overview of the DDS-XRCE specification](https://www.slideshare.net/GerardoPardo/overview-of-the-ddsxrce-specification)
 
 
 ### Reports
