@@ -64,6 +64,7 @@
 - 2020 [FIWARE Wednesday Webinars - How to Develop FIWARE NGSI Interfaces for Robots](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
 - 2020 [micro-ROS Demo on STM32 nucleo-f767zi](https://speakerdeck.com/maeharakeisuke/micro-ros-demo-on-stm32-nucleo-f767zi)
 - 2020 [Open Framework for Embedded Robot Applications](https://micro.ros.org/download/OFERA-Presentation_ERF2019.pdf)
+- 2019 [Connectivity Standards in Edge Autonomy Applications](https://cscn2019.ieee-cscn.org/wp-content/uploads/sites/46/2019/11/2019-10-28_IEEE_CSCN_RTI_Keynote.pdf)
 - 2018 [micro-ROS](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c8ada4222fe0ccbd58d8/1558628538888/2019-05-07_micro-ROS.pdf)
 - 2018 [ROS 2 Embedded](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5c5aa394a4222f883e310086/1549443993975/2018.12.12_Ingo_Luethkebohle.pdf)
 - 2018 [Overview of the DDS-XRCE specification](https://www.slideshare.net/GerardoPardo/overview-of-the-ddsxrce-specification)
@@ -76,6 +77,7 @@
 
 ### Papers
 - [Thesis Micro-ROS on AUTOSAR-based ECU](https://jobs.smartrecruiters.com/BoschGroup/743999758218471-thesis-micro-ros-on-autosar-based-ecu)
+- 2021 [Modeling, implementation, and analysis of XRCE-DDS applications in distributed multi-processor real-time embedded systems](https://www.es.ele.tue.nl/~kgoossens/2021-date.pdf)
 - 2020 [ROS-lite: ROS Framework for NoC-Based Embedded Many-Core Platform](http://ras.papercept.net/images/temp/IROS/files/0874.pdf)
 - 2013 [Integrating Arduino-based Educational Mobile Robots in ROS](https://www.researchgate.net/publication/257936711_Integrating_Arduino-based_Educational_Mobile_Robots_in_ROS)
 
