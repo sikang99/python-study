@@ -23,6 +23,10 @@
 - [ADLINK-IST/opensplice](https://github.com/ADLINK-IST/opensplice) -  Vortex OpenSplice Community Edition source repository.
 
 
+### Slides
+- 2017 [The DDS](https://www.onem2m.org/images/ppt/TP-2017-0164-The_Present_and_Future_of_DDS.pdf)
+
+
 ### Papers
 - 2016 [Fog Computing with Go: A Comparative Study](https://core.ac.uk/download/pdf/70983887.pdf)
 
