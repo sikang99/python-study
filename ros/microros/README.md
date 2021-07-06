@@ -22,6 +22,7 @@
 - 2020/03/30 [Use ROS2, an ESP32 running MicroPython, and the web browser to control a motor driver](https://medium.com/@hadabot/use-ros2-an-esp32-running-micropython-and-the-web-browser-to-control-a-motor-driver-a88f9b1e7489)
 - 2020/03/18 [Setting up an ESP32 microcontroller for ROS2 robotics](https://blog.hadabot.com/set-up-esp32-microcontroller-for-ros2-robotics.html)
 - 2019/08/13 [micro-ros - Putting ROS 2 onto microcontrollers](https://www.fiware.org/2019/08/13/micro-ros-putting-ros-2-onto-microcontrollers/)
+- 2018/08/09 [Announcing the DDS-XRCE Specification: A Protocol for Sensor Networks](https://www.rti.com/blog/announcing-the-dds-xrce-specification-a-protocol-for-sensor-networks)
 - [ESP8266 and ESP32 configuration (ROS1 and ROS2 are required)](https://www.programmersought.com/article/44485715773/)
 - [First micro-ROS Application on FreeRTOS](https://micro.ros.org/docs/tutorials/core/first_application_rtos/freertos/)
 - [For MCU, micro (lightweight) ROS based on FreeRTOS](https://www.programmersought.com/article/63775596149/)
