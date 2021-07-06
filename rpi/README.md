@@ -28,6 +28,7 @@
 - [Install Ubuntu Core on a Raspberry Pi](https://ubuntu.com/download/raspberry-pi-core)
 - [Raspberry Pi Cameras – the BIG Picture](https://dronebotworkshop.com/pi-cameras/)
 - [e_drone_rpi](https://crates.io/crates/e_drone_rpi) - Rust library for BYROBOT Drones
+- [**1035 Open Source Raspberry Pi Software Projects**](https://opensourcelibs.com/libs/raspberry-pi)
 
 
 ### Slides
