@@ -17,7 +17,8 @@
 - [Data Distribution Service (DDS)](https://www.omg.org/spec/DDS/1.4/PDF) - Version 1.4, Date: April 2015
 - [OpenDDS](https://opendds.org/)
 - [32 Open Source Dds Software Projects](https://opensourcelibs.com/libs/dds)
-
+- [eProsima](https://www.eprosima.com/) 
+    - [eProsima](https://github.com/eProsima) - The Middleware Experts
 
 
 ### Open Source
