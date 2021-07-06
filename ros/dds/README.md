@@ -4,6 +4,7 @@
 
 
 ### Articles
+- 2018/12/18 [11 Myths About the DDS Standard](https://www.electronicdesign.com/technologies/embedded-revolution/article/21807399/11-myths-about-the-dds-standard)
 - 2016/08/15 [A Tale of Two Industrial IoT Standards: DDS and OPC-UA](https://www.rtinsights.com/dds-opc-ua-industrial-iot-standards/)
 
 
