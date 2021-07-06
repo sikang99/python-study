@@ -68,6 +68,7 @@ WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTer
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [perelman/minimal-webrtc-gstreamer](https://git.aweirdimagination.net/perelman/minimal-webrtc-gstreamer) 
 - [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
+- [**introlab/opentera-webrtc**](https://github.com/introlab/opentera-webrtc) - WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTera project
 - [introlab/opentera-webrtc-ros](https://github.com/introlab/opentera-webrtc-ros) - ROS package for OpenTera WebRTC signaling server
 
 
