@@ -48,7 +48,7 @@
 - [UbuntuBudgie/UBpi](https://github.com/UbuntuBudgie/UBpi) - Ubuntu Budgie for the Raspberry Pi 4
 - [byrobot-rust/e_drone_rpi](https://github.com/byrobot-rust/e_drone_rpi) - 
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X
-- [Idein/py-videocore6](https://github.com/Idein/py-videocore6) - Python library for GPGPU programming on Raspberry Pi 4
+- [**Idein/py-videocore6**](https://github.com/Idein/py-videocore6) - Python library for GPGPU programming on Raspberry Pi 4
 - [nineties/py-videocore](https://github.com/nineties/py-videocore) - Python library for GPGPU on Raspberry Pi
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [wimrijnders/V3DLib](https://github.com/wimrijnders/V3DLib) - C++ library for programming the VideoCore GPU on all Raspberry Pi's
