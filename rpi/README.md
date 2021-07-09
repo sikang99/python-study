@@ -4,6 +4,7 @@
 
 
 ## Articles
+- 2021/07/04 [C++ library for programming the VideoCore GPU on all Raspberry Pi's](https://bestofcpp.com/repo/wimrijnders-V3DLib)
 - 2021/01/14 [10 Impressive Raspberry Pi Zero Projects](https://www.ionos.com/digitalguide/server/know-how/raspberry-pi-zero-projects/)
 - 2020/10/30 [27 Super Cool Raspberry Pi Zero W Projects for DIY Enthusiasts](https://itsfoss.com/raspberry-pi-zero-projects/)
 - 2021/04/12 [Edge Impulse and TinyML on Raspberry Pi](https://www.raspberrypi.org/blog/edge-impulse-and-tinyml-on-raspberry-pi/)
@@ -47,7 +48,10 @@
 - [UbuntuBudgie/UBpi](https://github.com/UbuntuBudgie/UBpi) - Ubuntu Budgie for the Raspberry Pi 4
 - [byrobot-rust/e_drone_rpi](https://github.com/byrobot-rust/e_drone_rpi) - 
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X
+- [Idein/py-videocore6](https://github.com/Idein/py-videocore6) - Python library for GPGPU programming on Raspberry Pi 4
 - [nineties/py-videocore](https://github.com/nineties/py-videocore) - Python library for GPGPU on Raspberry Pi
+- [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
+- [wimrijnders/V3DLib](https://github.com/wimrijnders/V3DLib) - C++ library for programming the VideoCore GPU on all Raspberry Pi's
 
 
 ### Papers
