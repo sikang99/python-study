@@ -5,6 +5,7 @@
 
 ### Articles
 - 2021/07/04 [C++ library for programming the VideoCore GPU on all Raspberry Pi's](https://bestofcpp.com/repo/wimrijnders-V3DLib)
+- 2021/06/21 [Nvidia Engineer's Vulkan Driver For Raspberry Pi Runs Quake III Over 100 FPS at 720p](https://www.tomshardware.com/news/nvidia-engineer-vulkan-driver-raspberry-pi-quake-iii-100-fps)
 - 2021/01/14 [10 Impressive Raspberry Pi Zero Projects](https://www.ionos.com/digitalguide/server/know-how/raspberry-pi-zero-projects/)
 - 2020/10/30 [27 Super Cool Raspberry Pi Zero W Projects for DIY Enthusiasts](https://itsfoss.com/raspberry-pi-zero-projects/)
 - 2021/04/12 [Edge Impulse and TinyML on Raspberry Pi](https://www.raspberrypi.org/blog/edge-impulse-and-tinyml-on-raspberry-pi/)
@@ -58,6 +59,7 @@
 - [nineties/py-videocore](https://github.com/nineties/py-videocore) - Python library for GPGPU on Raspberry Pi
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [wimrijnders/V3DLib](https://github.com/wimrijnders/V3DLib) - C++ library for programming the VideoCore GPU on all Raspberry Pi's
+- [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
 
 
 ### Papers
