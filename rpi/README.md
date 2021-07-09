@@ -20,7 +20,7 @@
 - 2019/07/19 [Cluster HAT Interfaces up to 4 Raspberry Pi Zero to Raspberry Pi 2/3/4 Board](https://www.cnx-software.com/2019/07/10/cluster-hat-4-raspberry-pi-zero-boards/)
 
 
-### Articles
+### Articles (Japan)
 - [GPGPUの観点から見る VideoCore VI と VideoCore IV の違い](https://blog.idein.jp/post/190588113970/gpgpu%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B-videocore-vi-%E3%81%A8-videovore-iv-%E3%81%AE%E9%81%95%E3%81%84)
 
 
@@ -35,6 +35,7 @@
 - [Raspberry Pi Cameras – the BIG Picture](https://dronebotworkshop.com/pi-cameras/)
 - [e_drone_rpi](https://crates.io/crates/e_drone_rpi) - Rust library for BYROBOT Drones
 - [**1035 Open Source Raspberry Pi Software Projects**](https://opensourcelibs.com/libs/raspberry-pi)
+- [Graphics acceleration on the Raspberry Pi Zero](https://symbolibre.org/graphics-acceleration-on-the-raspberry-pi-zero.html)
 
 
 ### Slides
