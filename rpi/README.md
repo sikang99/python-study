@@ -3,7 +3,7 @@
 > Sensors: ov5647, imx219, imx477, adv7282m
 
 
-## Articles
+### Articles
 - 2021/07/04 [C++ library for programming the VideoCore GPU on all Raspberry Pi's](https://bestofcpp.com/repo/wimrijnders-V3DLib)
 - 2021/01/14 [10 Impressive Raspberry Pi Zero Projects](https://www.ionos.com/digitalguide/server/know-how/raspberry-pi-zero-projects/)
 - 2020/10/30 [27 Super Cool Raspberry Pi Zero W Projects for DIY Enthusiasts](https://itsfoss.com/raspberry-pi-zero-projects/)
@@ -20,7 +20,11 @@
 - 2019/07/19 [Cluster HAT Interfaces up to 4 Raspberry Pi Zero to Raspberry Pi 2/3/4 Board](https://www.cnx-software.com/2019/07/10/cluster-hat-4-raspberry-pi-zero-boards/)
 
 
-## Information
+### Articles
+- [GPGPUの観点から見る VideoCore VI と VideoCore IV の違い](https://blog.idein.jp/post/190588113970/gpgpu%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B-videocore-vi-%E3%81%A8-videovore-iv-%E3%81%AE%E9%81%95%E3%81%84)
+
+
+### Information
 - [libcamera.org/](https://libcamera.org/) - An open source camera stack and framework for Linux, Android, and ChromeOS
 - [libcamera installation for Raspberry Pi](https://www.raspberrypi.org/documentation/linux/software/libcamera/README.md)
 - [Raspberry Pi Camera Algorithm and Tuning Guide](https://www.raspberrypi.org/documentation/linux/software/libcamera/rpi_SOFT_libcamera_1p0.pdf)
