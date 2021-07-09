@@ -41,7 +41,7 @@
 
 ### Slides
 - 2020/08/24 [Update on libcamera in AOSP](https://linuxplumbersconf.org/event/7/contributions/786/attachments/530/943/20200824-lpc-update-on-libcamera-in-aosp.pdf)
-
+- [Greening The Video Transcoding Service With Low-Cost Hardware Transcoders](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_liu.pdf)
 
 
 ### Open Source
