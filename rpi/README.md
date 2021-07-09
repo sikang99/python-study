@@ -16,6 +16,7 @@
 - 2020/10/12 [2D Mapping using Google Cartographer and RPLidar with Raspberry Pi](https://medium.com/robotics-weekends/2d-mapping-using-google-cartographer-and-rplidar-with-raspberry-pi-a94ce11e44c5)
 - 2020/06/29 [Pi Camera sensor 그리고 Camera Device Driver에 관하여...](https://slowbootkernelhacks.blogspot.com/2020/06/pi-camera-sensor-camera-device-driver.html)
 - 2020/05/04 [An open source camera stack for Raspberry Pi using libcamera](https://www.raspberrypi.org/blog/an-open-source-camera-stack-for-raspberry-pi-using-libcamera/)
+- 2019/10/10 [py-videocore6 Raspberry Pi 4 GPGPU Python Library Leverages VideoCore 6 GPU](https://www.cnx-software.com/2019/10/10/py-videocore6-raspberry-pi-4-gpgpu-python-library-videocore-6-gpu/)
 - 2019/07/19 [Cluster HAT Interfaces up to 4 Raspberry Pi Zero to Raspberry Pi 2/3/4 Board](https://www.cnx-software.com/2019/07/10/cluster-hat-4-raspberry-pi-zero-boards/)
 
 
