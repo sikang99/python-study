@@ -6,6 +6,7 @@
 - 2021/07/10 [**GStreamer Making Progress On Vulkan Video Support**](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-Video-GStreamer-Igalia)
 - 2021/07/09 [Video decoding in GStreamer with Vulkan](https://blogs.igalia.com/vjaquez/2021/07/09/video-decoding-in-gstreamer-with-vulkan/)
 - 2021/04/13 [Vulkan Video Arrives For New Industry-Standard Video Encode/Decode](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-Video-Provisional-Spec)
+- 2021/04/10 [Graphics acceleration on the Raspberry Pi Zero](https://symbolibre.org/graphics-acceleration-on-the-raspberry-pi-zero.html)
 - 2016/02/16 [Vulkan in GStreamer](https://ystreet00.blogspot.com/2016/02/vulkan-in-gstreamer.html)
     - `gst-launch-1.0 videotestsrc ! vulkanupload ! vulkansink`
     - `gst-launch-1.0 filesrc location=big_buck_bunny_1080p_h264.mov ! parsebin ! vulkanh264dec ! fakesink`
