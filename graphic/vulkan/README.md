@@ -9,7 +9,7 @@
 
 
 ### Information
-- [Vulkan](https://www.vulkan.org/)
+- [Vulkan](https://www.vulkan.org/) - Cross-Platform 3D Graphics
 - [An Introduction to Vulkan Video](https://www.khronos.org/blog/an-introduction-to-vulkan-video)
 
 
