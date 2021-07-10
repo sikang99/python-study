@@ -37,6 +37,7 @@
 - [e_drone_rpi](https://crates.io/crates/e_drone_rpi) - Rust library for BYROBOT Drones
 - [**1035 Open Source Raspberry Pi Software Projects**](https://opensourcelibs.com/libs/raspberry-pi)
 - [Graphics acceleration on the Raspberry Pi Zero](https://symbolibre.org/graphics-acceleration-on-the-raspberry-pi-zero.html)
+- [Raspberry Pi VideoCore APIs](https://www.airport-tbilisi.com/read/bd40831/raspberry-pi-videocore-apis---elinux.org)
 
 
 ### Slides
