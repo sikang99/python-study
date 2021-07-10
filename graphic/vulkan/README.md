@@ -8,6 +8,7 @@
 - 2021/04/13 [Vulkan Video Arrives For New Industry-Standard Video Encode/Decode](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-Video-Provisional-Spec)
 - 2021/04/10 [Graphics acceleration on the Raspberry Pi Zero](https://symbolibre.org/graphics-acceleration-on-the-raspberry-pi-zero.html)
 - 2020/07/01 [Eben Upton Announces Official Raspberry Pi 4 VideoCore VI Open Source Vulkan Graphics Driver Effort](https://www.hackster.io/news/eben-upton-announces-official-raspberry-pi-4-videocore-vi-open-source-vulkan-graphics-driver-effort-9af11a00adfd)
+- 2020/06/23 [Raspberry Pi VideoCore IV Boards Get an Unofficial Vulkan Driver Good Enough to Play Quake 3](https://www.cnx-software.com/2020/06/23/raspberry-pi-videocore-iv-boards-get-an-unofficial-vulkan-driver-good-enough-to-play-quake-3/)
 - 2016/02/16 [Vulkan in GStreamer](https://ystreet00.blogspot.com/2016/02/vulkan-in-gstreamer.html)
     - `gst-launch-1.0 videotestsrc ! vulkanupload ! vulkansink`
     - `gst-launch-1.0 filesrc location=big_buck_bunny_1080p_h264.mov ! parsebin ! vulkanh264dec ! fakesink`
