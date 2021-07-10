@@ -31,4 +31,6 @@
 - [nvpro-samples/vk_video_samples](https://github.com/nvpro-samples/vk_video_samples) - Vulkan video samples
 - [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) - The Vulkan API Specification and related tools
 - [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
+- [Yours3lf/vkQuake3](https://github.com/Yours3lf/vkQuake3) - ts based on ioq3，I add a vulkan based modular render back end
+- [kennyalive/Quake-III-Arena-Kenny-Edition](https://github.com/kennyalive/Quake-III-Arena-Kenny-Edition) - The cradle of Quake III Arena
 
