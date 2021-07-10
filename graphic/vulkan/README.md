@@ -11,6 +11,7 @@
 ### Information
 - [Vulkan](https://www.vulkan.org/) - Cross-Platform 3D Graphics
 - [An Introduction to Vulkan Video](https://www.khronos.org/blog/an-introduction-to-vulkan-video)
+- [Vulkan® 1.2.184 - A Specification (with all registered Vulkan extensions)](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html)
 - [Mesa 3D](https://mesa3d.org/) - The Mesa 3D Graphics Library
     - Open source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL, and more!
 
