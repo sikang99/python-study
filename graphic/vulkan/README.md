@@ -6,11 +6,11 @@
 - 2021/07/10 [**GStreamer Making Progress On Vulkan Video Support**](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-Video-GStreamer-Igalia)
 - 2021/07/09 [Zink Now Supports OpenGL ES 3.2 Over Vulkan](https://www.phoronix.com/scan.php?page=news_item&px=Zink-OpenGL-ES-3.2)
 - 2021/07/09 [Video decoding in GStreamer with Vulkan](https://blogs.igalia.com/vjaquez/2021/07/09/video-decoding-in-gstreamer-with-vulkan/)
-- 2021/07/01 [Raspberry Pi 4 graphics win: Open-source Vulkan driver support is coming](https://debugah.com/raspberry-pi-4-graphics-win-open-source-vulkan-driver-support-is-coming-14413/)
 - 2021/04/13 [Vulkan Video Arrives For New Industry-Standard Video Encode/Decode](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-Video-Provisional-Spec)
 - 2021/04/10 [Graphics acceleration on the Raspberry Pi Zero](https://symbolibre.org/graphics-acceleration-on-the-raspberry-pi-zero.html)
 - 2020/07/01 [Eben Upton Announces Official Raspberry Pi 4 VideoCore VI Open Source Vulkan Graphics Driver Effort](https://www.hackster.io/news/eben-upton-announces-official-raspberry-pi-4-videocore-vi-open-source-vulkan-graphics-driver-effort-9af11a00adfd)
 - 2020/06/23 [Raspberry Pi VideoCore IV Boards Get an Unofficial Vulkan Driver Good Enough to Play Quake 3](https://www.cnx-software.com/2020/06/23/raspberry-pi-videocore-iv-boards-get-an-unofficial-vulkan-driver-good-enough-to-play-quake-3/)
+- 2020/02/03 [Raspberry Pi 4 graphics win: Open-source Vulkan driver support is coming](https://www.zdnet.com/article/raspberry-pi-4-graphics-win-open-source-vulkan-driver-support-is-coming/)
 - 2016/02/16 [Vulkan in GStreamer](https://ystreet00.blogspot.com/2016/02/vulkan-in-gstreamer.html)
     - `gst-launch-1.0 videotestsrc ! vulkanupload ! vulkansink`
     - `gst-launch-1.0 filesrc location=big_buck_bunny_1080p_h264.mov ! parsebin ! vulkanh264dec ! fakesink`
