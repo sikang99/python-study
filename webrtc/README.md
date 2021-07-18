@@ -70,6 +70,7 @@ WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTer
 - [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
 - [**introlab/opentera-webrtc**](https://github.com/introlab/opentera-webrtc) - WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTera project
 - [introlab/opentera-webrtc-ros](https://github.com/introlab/opentera-webrtc-ros) - ROS package for OpenTera WebRTC signaling server
+- [https://github.com/abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features
 
 
 ### Docker Hub
