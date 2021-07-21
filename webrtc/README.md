@@ -78,6 +78,7 @@ WebRTC JavaScript, C++ and Python libraries and signaling server for the OpenTer
 
 
 ### Papers
+- 2021 [Latency contributors in WebRTC-based remote control system](https://aaltodoc.aalto.fi/bitstream/handle/123456789/103058/master_Tanskanen_Sakari_2021.pdf)
 - 2019 [Remote Control Operation of Autonomous Cars Over Cellular Network Using PlayStation Controller](https://www.diva-portal.org/smash/get/diva2:1329160/FULLTEXT01.pdf)
 - 2018 [Performance Evaluation of WebRTC-based Video Conferencing](https://www.researchgate.net/publication/323950925_Performance_Evaluation_of_WebRTC-based_Video_Conferencing)
 - 2017 [Adaptive unmanned vehicle autopiloting using WebRTC video analysis](https://pergamos.lib.uoa.gr/uoa/dl/frontend/file/lib/default/data/1725621/theFile)
