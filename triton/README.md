@@ -8,6 +8,7 @@
 
 ### Information
 - [triton](https://openai.com/blog/triton/)
+- [Triton Documentation](https://triton-lang.org/index.html)
 - [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
 
 
