@@ -2,10 +2,12 @@
 
 
 ### Articles
+- 2021/07/29 [OpenAI debuts Python-based Triton for GPU-powered machine learning](https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html)
 - 2021/07/28 [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)
 
 
 ### Information
+- [triton](https://openai.com/blog/triton/)
 - [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
 
 
@@ -16,6 +18,9 @@
 
 
 ### Papers
+- 2019 [Paper](http://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
+
+
 
 
 
