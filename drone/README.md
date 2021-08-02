@@ -28,6 +28,7 @@
 - 2021 [Communication Technologies Enabling Effective UAV Networks: a Standards Perspective](https://hal.inria.fr/hal-03190494/file/Drone_Networking.pdf)
 - 2021 [A Robot Operating System Framework for Secure UAV Communications](https://www.mdpi.com/1424-8220/21/4/1369/pdf)
 - 2020 [Emerging use of UAV’s: secure communication protocol issues and challenges](https://www.researchgate.net/publication/341957190_Emerging_use_of_UAV's_secure_communication_protocol_issues_and_challenges)
+- 2016 [Security Analysis of the Drone Communication Protocol: Fuzzing the MAVLink protocol](https://www.esat.kuleuven.be/cosic/publications/article-2667.pdf)
 - 2015 [Micro Air Vehicle Link (MAVlink) in a Nutshell: A Survey](https://ieeexplore.ieee.org/document/8743355)
 - 2009 [Communication and Networking Technologies for UAVs: A Survey](https://arxiv.org/abs/2009.02280)
 
