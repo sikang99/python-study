@@ -22,6 +22,11 @@
 
 
 ### Papers
+- 2021 [A Survey of UAS Technologies to Enable Beyond Visual Line Of Sight (BVLOS) Operations](https://www.scitepress.org/Papers/2021/104469/104469.pdf)
+- 2021 [An Extensive Survey on the Internet of Drones](https://arxiv.org/pdf/2007.12611.pdf)
+- 2021 [Efficient UAV Communications: Recent Trends and Challenges](file:///Users/stoney/Downloads/TSP_CMC_41208.pdf)
+- 2021 [Communication Technologies Enabling Effective UAV Networks: a Standards Perspective](https://hal.inria.fr/hal-03190494/file/Drone_Networking.pdf)
 - 2021 [A Robot Operating System Framework for Secure UAV Communications](https://www.mdpi.com/1424-8220/21/4/1369/pdf)
+- 2009 [Communication and Networking Technologies for UAVs: A Survey](https://arxiv.org/abs/2009.02280)
 
 
