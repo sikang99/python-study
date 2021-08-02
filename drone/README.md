@@ -30,6 +30,7 @@
 - 2020 [Emerging use of UAV’s: secure communication protocol issues and challenges](https://www.researchgate.net/publication/341957190_Emerging_use_of_UAV's_secure_communication_protocol_issues_and_challenges)
 - 2019 [A Comparative Survey on Flight Software Frameworks for ‘New Space’ Nanosatellite Missions](https://www.scielo.br/j/jatm/a/ZNY8mTKcbh8MT5xvbvyytqG/?format=pdf&lang=en)
 - 2019 [A Safe, Open Source, 4G Connected Self-Flying Plane With 1 Hour Flight Time and All Up Weight (AUW) < 300 g: Towards a New Class of Internet Enabled UAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8718270)
+- 2018 [Unmanned Aerial Vehicles: A Survey on Civil Applications and Key Research Challenges](https://arxiv.org/pdf/1805.00881.pdf)
 - 2016 [Security Analysis of the Drone Communication Protocol: Fuzzing the MAVLink protocol](https://www.esat.kuleuven.be/cosic/publications/article-2667.pdf)
 - 2015 [Micro Air Vehicle Link (MAVlink) in a Nutshell: A Survey](https://ieeexplore.ieee.org/document/8743355)
 - 2009 [Communication and Networking Technologies for UAVs: A Survey](https://arxiv.org/abs/2009.02280)
