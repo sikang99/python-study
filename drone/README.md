@@ -28,6 +28,7 @@
 - 2021 [Communication Technologies Enabling Effective UAV Networks: a Standards Perspective](https://hal.inria.fr/hal-03190494/file/Drone_Networking.pdf)
 - 2021 [A Robot Operating System Framework for Secure UAV Communications](https://www.mdpi.com/1424-8220/21/4/1369/pdf)
 - 2020 [Emerging use of UAV’s: secure communication protocol issues and challenges](https://www.researchgate.net/publication/341957190_Emerging_use_of_UAV's_secure_communication_protocol_issues_and_challenges)
+- 2019 [**Survey on UAV Cellular Communications: Practical Aspects, Standardization Advancements, Regulation, and Security Challenges**](https://arxiv.org/pdf/1809.01752.pdf)
 - 2019 [A Comparative Survey on Flight Software Frameworks for ‘New Space’ Nanosatellite Missions](https://www.scielo.br/j/jatm/a/ZNY8mTKcbh8MT5xvbvyytqG/?format=pdf&lang=en)
 - 2019 [A Safe, Open Source, 4G Connected Self-Flying Plane With 1 Hour Flight Time and All Up Weight (AUW) < 300 g: Towards a New Class of Internet Enabled UAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8718270)
 - 2018 [Unmanned Aerial Vehicles: A Survey on Civil Applications and Key Research Challenges](https://arxiv.org/pdf/1805.00881.pdf)
